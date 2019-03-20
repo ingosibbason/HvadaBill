@@ -9522,3 +9522,9 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+.logo{
+    margin-top: auto;
+    margin-bottom: auto;
+    border: 15 px solid #777;
+}
+
