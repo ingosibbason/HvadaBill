@@ -1,4 +1,4 @@
-.myBtnContainer {
+.myBtnContainer, .mybtncontainer2 {
   float: middel;
 }
 
@@ -19,13 +19,17 @@
 }
 
 /* Style the buttons */
-.btn {
+.btn, .btn2 {
+  size: 20px 20px;
   margin: 5px;
   border: 10px;
   outline: none;
   padding: 12px 16px;
   background-color: #f1f1f1;
   cursor: pointer;
+  background-position: middle;
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 /* Add a light grey background on mouse-over */
@@ -38,3 +42,125 @@
   background-color: #666;
   color: white;
 }
+
+/* Add a light grey background on mouse-over */
+.btn2:hover {
+  background-color: #ddd;
+}
+
+/* Add a dark background to the active button */
+.btn2.active {
+  background-color: #666;
+  color: white;
+}
+
+img {
+  border-radius: 3%;
+}
+
+.project{
+  background-color: gray;
+  box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.75);
+  margin: 5px;
+  border: 5px;
+  padding: 7px;
+  border-radius: 4%;
+}
+
+a{
+  color: #294245;
+}
+
+./*btar{ 
+  background-image: url("images/alfaromeo.png");
+ }
+.btau{ 
+  background-image: url("images/audi.png");
+ }
+.btbm{ 
+  background-image: url("images/bmw.png");
+ }
+.btci{ 
+  background-image: url("images/citroen.png");
+ }
+.btda{ 
+  background-image: url("images/dacia.png");
+ }
+.btfi{ 
+  background-image: url("images/fiat.png");
+ }
+.btfo{ 
+  background-image: url("images/ford.png");
+ }
+.btho{ 
+  background-image: url("images/honda.png");
+ }
+.bthy{ 
+  background-image: url("images/hyundai.png");
+ }
+.btja{ 
+  background-image: url("images/jaguar.png");
+ }
+.btje{ 
+  background-image: url("images/jeep.png");
+ }
+.btki{ 
+  background-image: url("images/kia.png");
+ }
+.btlr{ 
+  background-image: url("images/landrover.png");
+ }
+.btle{ 
+  background-image: url("images/lexus.png");
+ }
+.btma{ 
+  background-image: url("images/mazda.png");
+ }
+.btmb{ 
+  background-image: url("images/mercedesbenz.png");
+ }
+.btmi{ 
+  background-image: url("images/mini.png");
+ }
+.btmm{ 
+  background-image: url("images/mitsubishi.png");
+ }
+.btni{ 
+  background-image: url("images/nissan.png");
+ }
+.btop{ 
+  background-image: url("images/opel.png");
+ }
+.btpe{ 
+  background-image: url("images/peugeot.png");
+ }
+.btpo{ 
+  background-image: url("images/porsche.png");
+ }
+.btre{ 
+  background-image: url("images/reanult.png");
+ }
+.btsk{ 
+  background-image: url("images/skoda.png");
+ }
+.btss{ 
+  background-image: url("images/ssangyong.png");
+ }
+.btsu{ 
+  background-image: url("images/subaru.png");
+ }
+.btsz{ 
+  background-image: url("images/suzuki.png");
+ }
+.btte{ 
+  background-image: url("images/tesla.png");
+ }
+.btto{ 
+  background-image: url("images/toyota.png");
+ }
+.btvw{ 
+  background-image: url("images/volkswagen.png");
+ }
+.btvo{ 
+  background-image: url("images/volvo.png");
+ }*/

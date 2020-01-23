@@ -9,6 +9,17 @@ function filterSelection(c) {
     if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
   }
 }
+filterSelection("all")
+function filterSelection2(c) {
+  var x, i;
+  x = document.getElementsByClassName("filterDiv2");
+  if (c == "all") c = "";
+  // Add the "show" class (display:block) to the filtered elements, and remove the "show" class from the elements that are not selected
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
 
 // Show filtered elements
 function w3AddClass(element, name) {
@@ -43,5 +54,16 @@ for (var i = 0; i < btns.length; i++) {
     var current = document.getElementsByClassName("active");
     current[0].className = current[0].className.replace(" active", "");
     this.className += " active";
+  });
+}
+
+// Add active class to the current control button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer2");
+var btns = btnContainer.getElementsByClassName("btn2");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active2");
+    current[0].className = current[0].className.replace(" active2", "");
+    this.className += " active2";
   });
 }
