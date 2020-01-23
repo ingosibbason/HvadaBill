@@ -1,15 +1,15 @@
-.container {
-  overflow: hidden;
+.myBtnContainer {
+  float: middel;
 }
 
 .filterDiv {
-  float: left;
+  /*float: middle;
   background-color: #2196F3;
   color: #ffffff;
   width: 100px;
   line-height: 100px;
   text-align: center;
-  margin: 2px;
+  margin: 2px;*/
   display: none; /* Hidden by default */
 }
 
@@ -20,6 +20,7 @@
 
 /* Style the buttons */
 .btn {
+  margin: 5px;
   border: 10px;
   outline: none;
   padding: 12px 16px;
