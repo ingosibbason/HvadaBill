@@ -1,0 +1,1558 @@
+;Framleiðandi;Gerð;Undirgerð;Verð;Vél;Hö;l/100 km;KM á rafmagni;Gírskipting;Drif;Sæti;
+Giulia;;;;;;;;;;;;
+;Alfa Romeo;Giulia;Super;7.160.000;I4 2,0 l turbo bensín;200;7,1;;8 gíra sjálfskipting;RWD;5;1
+;Alfa Romeo;Giulia;Veloce;9.130.000;I4 2,2 l turbo dísil;210;4,7;;8 gíra sjálfskipting;AWD;5;2
+Stelvio;;;;;;;;;;;;
+;Alfa Romeo;Stelvio;Super;9.370.000;I4 2,0 l turbo bensín;200;8,1;;8 gíra sjálfskipting;AWD;5;4
+Giulietta;;;;;;;;;;;;
+;Alfa Romeo;Giulietta;Veloce;4.990.000;I4 1,4 l turbo bensín;120;7,4;;6 gíra beinskipting;FWD;5;3
+A3 e-tron sportback;;;;;;;;;;;;
+;Audi;A3 e-tron sportback;1,4 TFSI e-tron;5.190.000;I4 1,4 l turbo bensín + 9 kWh rafhlaða, rafmótor;204;1,6;45;6 gíra DCT sjálfskipting;FWD;5;
+;Audi;A3 e-tron sportback;1,4 TFSI e-tron Sport;5.790.000;I4 1,4 l turbo bensín + 9 kWh rafhlaða, rafmótor;204;1,6;45;6 gíra DCT sjálfskipting;FWD;5;
+A1 sportback;;;;;;;;;;;;
+;Audi;A1 sportback;25 TFSI;4.190.000;I3 1,0 l turbo bensín;95;4,7;;5 gíra beinskipting;FWD;5;5
+;Audi;A1 sportback;30 TFSI;4.890.000;I3 1,0 l turbo bensín;116;4,8;;7 gíra DCT sjálfskipting;FWD;5;6
+;Audi;A1 sportback;35 TFSI;5.390.000;I4 1,5 l turbo bensín;150;5,1;;7 gíra DCT sjálfskipting;FWD;5;7
+Q2;;;;;;;;;;;;
+;Audi;Q2;30 TDI Design;6.790.000;I4 1,6 l turbo dísil;116;4,5;;7 gíra DCT sjálfskipting;FWD;5;34
+;Audi;Q2;30 TDI Sport;6.190.000;I4 1,6 l turbo dísil;116;4,5;;7 gíra DCT sjálfskipting;FWD;5;33
+;Audi;Q2;30 TDI Technik;5.690.000;I4 1,6 l turbo dísil;116;4,5;;7 gíra DCT sjálfskipting;FWD;5;32
+;Audi;Q2;30 TFSI Design;6.090.000;I3 1,0 l turbo bensín;116;5,1;;6 gíra beinskipting;FWD;5;31
+;Audi;Q2;30 TFSI Sport;5.490.000;I3 1,0 l turbo bensín;116;5,1;;6 gíra beinskipting;FWD;5;30
+;Audi;Q2;30 TFSI Technik;4.990.000;I3 1,0 l turbo bensín;116;5,1;;6 gíra beinskipting;FWD;5;29
+;Audi;Q2;35 TDI Design;7.090.000;I4 2,0 l turbo dísil;150;4,4;;7 gíra DCT sjálfskipting;AWD;5;37
+;Audi;Q2;35 TDI Quattro Design;7.840.000;I4 2,0 l turbo dísil;150;5,1;;7 gíra DCT sjálfskipting;AWD;5;40
+;Audi;Q2;35 TDI Quattro Sport;7.190.000;I4 2,0 l turbo dísil;150;5,1;;7 gíra DCT sjálfskipting;AWD;5;39
+;Audi;Q2;35 TDI Quattro Technik;6.690.000;I4 2,0 l turbo dísil;150;5,1;;7 gíra DCT sjálfskipting;AWD;5;38
+;Audi;Q2;35 TDI Sport;6.490.000;I4 2,0 l turbo dísil;150;4,4;;7 gíra DCT sjálfskipting;FWD;5;36
+;Audi;Q2;35 TDI Technik;5.990.000;I4 2,0 l turbo dísil;150;4,4;;7 gíra DCT sjálfskipting;FWD;5;35
+;Audi;Q2;40 TFSI Quattro Design;8.190.000;I4 2,0 l turbo bensín;190;6,4;;7 gíra DCT sjálfskipting;AWD;5;43
+;Audi;Q2;40 TFSI Quattro Sport;7.490.000;I4 2,0 l turbo bensín;190;6,4;;7 gíra DCT sjálfskipting;AWD;5;42
+;Audi;Q2;40 TFSI Quattro Technik;6.990.000;I4 2,0 l turbo bensín;190;6,4;;7 gíra DCT sjálfskipting;AWD;5;41
+A4 limousine;;;;;;;;;;;;
+;Audi;A4 limousine;35 TDI;6.550.000;I4 2,0 l turbo dísil;163;3,8;;7 gíra DCT sjálfskipting;FWD;5;12
+;Audi;A4 limousine;40 TDI;6.990.000;I4 2,0 l turbo dísil;190;4,2;;7 gíra DCT sjálfskipting;FWD;5;13
+;Audi;A4 limousine;40 TDI Quattro;7.690.000;I4 2,0 l turbo dísil;190;4,9;;7 gíra DCT sjálfskipting;AWD;5;14
+;Audi;A4 limousine;45 TDI Quattro;8.990.000;V6 3,0 l turbo dísil;231;5,3;;7 gíra DCT sjálfskipting;AWD;5;15
+A4 avant;;;;;;;;;;;;
+;Audi;A4 avant;35 TDI;6.850.000;I4 2,0 l turbo dísil;163;3,9;;7 gíra DCT sjálfskipting;FWD;5;8
+;Audi;A4 avant;40 TDI;7.290.000;I4 2,0 l turbo dísil;190;4,3;;7 gíra DCT sjálfskipting;FWD;5;9
+;Audi;A4 avant;40 TDI Quattro;7.990.000;I4 2,0 l turbo dísil;190;5,0;;7 gíra DCT sjálfskipting;AWD;5;10
+;Audi;A4 avant;45 TDI Quattro;9.290.000;V6 3,0 l turbo dísil;231;5,3;;7 gíra DCT sjálfskipting;AWD;5;11
+Q3;;;;;;;;;;;;
+;Audi;Q3;35 TFSI;5.990.000;I4 1,5 l turbo bensín;150;5,7;;6 gíra beinskipting;FWD;5;44
+;Audi;Q3;35 TFSI S-tronic;6.290.000;I4 1,5 l turbo bensín;150;5,7;;7 gíra DCT sjálfskipting;FWD;5;45
+;Audi;Q3;40 TFSI Quattro S-tronic;7.990.000;I4 2,0 l turbo bensín;190;7,3;;7 gíra DCT sjálfskipting;AWD;5;46
+;Audi;Q3;45 TFSI Quattro S-tronic;8.790.000;I4 2,0 l turbo bensín;230;7,4;;7 gíra DCT sjálfskipting;AWD;5;47
+A4 MHEV limousine;;;;;;;;;;;;
+;Audi;A4 MHEV limousine;35 TFSI;6.360.000;I4 2,0 l turbo mild hybrid bensín;150;5,5;;7 gíra DCT sjálfskipting;FWD;5;18
+;Audi;A4 MHEV limousine;45 TFSI Quattro;8.490.000;I4 2,0 l turbo mild hybrid bensín;245;6,5;;7 gíra DCT sjálfskipting;AWD;5;19
+A4 MHEV avant;;;;;;;;;;;;
+;Audi;A4 MHEV avant;35 TFSI;6.690.000;I4 2,0 l turbo mild hybrid bensín;150;5,6;;7 gíra DCT sjálfskipting;FWD;5;16
+;Audi;A4 MHEV avant;45 TFSI Quattro;8.890.000;I4 2,0 l turbo mild hybrid bensín;245;6,6;;7 gíra DCT sjálfskipting;AWD;5;17
+Q7;;;;;;;;;;;;
+;Audi;Q7;45 TDI Quattro;11.890.000;V6 3,0 l turbo dísil;231;6,8;;8 gíra sjálfskipting;AWD;5;49
+;Audi;Q7;50 TDI Quattro;12.190.000;V6 3,0 l turbo dísil;286;6,6;;8 gíra sjálfskipting;AWD;5;50
+e-tron;;;;;;;;;;;;
+;Audi;e-tron;50 Quattro Advanced;8.890.000;71 kWh rafhlaða, 2 rafmótorar;301;;299;1 gíra sjálfskipting;AWD;5;23
+;Audi;e-tron;50 Quattro Advanced S-line;9.890.000;71 kWh rafhlaða, 2 rafmótorar;301;;299;1 gíra sjálfskipting;AWD;5;24
+;Audi;e-tron;50 Quattro Basic;7.990.000;71 kWh rafhlaða, 2 rafmótorar;301;;299;1 gíra sjálfskipting;AWD;5;22
+;Audi;e-tron;55 Quattro Basic;10.790.000;95 kWh rafhlaða, 2 rafmótorar;408;;418;1 gíra sjálfskipting;AWD;5;25
+;Audi;e-tron;55 Quattro Design;11.990.000;95 kWh rafhlaða, 2 rafmótorar;408;;418;1 gíra sjálfskipting;AWD;5;26
+;Audi;e-tron;55 Quattro Design Plus;13.990.000;95 kWh rafhlaða, 2 rafmótorar;408;;418;1 gíra sjálfskipting;AWD;5;28
+;Audi;e-tron;55 Quattro Sport;12.990.000;95 kWh rafhlaða, 2 rafmótorar;408;;418;1 gíra sjálfskipting;AWD;5;27
+A7 MHEV;;;;;;;;;;;;
+;Audi;A7 MHEV;50 TDI Quattro;12.750.000;V6 3,0 l turbo mildur hybrid dísil;286;5,8;;8 gíra sjálfskipting;AWD;5;20
+;Audi;A7 MHEV;55 TFSI Quattro;12.990.000;V6 3,0 l turbo mildur hybrid bensín;340;5,3;;8 gíra sjálfskipting;AWD;5;21
+Q5 TFSI e;;;;;;;;;;;;
+;Audi;Q5 TFSI e;55 TFSI e Quattro;9.890.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;367;2,0;40;7 gíra DCT sjálfskipting;AWD;5;48
+X1;;;;;;;;;;;;
+;BMW;X1;18d;5.990.000;I4 2,0 l twin turbo dísil;150;5,4;;8 gíra sjálfskipting;FWD;5;64
+;BMW;X1;xDrive18d;6.990.000;I4 2,0 l twin turbo dísil;150;5,8;;8 gíra sjálfskipting;RWD;5;65
+2 series Active Tourer iPerformance;;;;;;;;;;;;
+;BMW;2 series Active Tourer iPerformance;225xe Exclusive;6.350.000;I3 1,5 l twin turbo bensín + 10 kWh rafhlaða, rafmótor;224;1,7;52;6 gíra sjálfskipting;AWD;5;52
+;BMW;2 series Active Tourer iPerformance;225xe Luxury Line;6.790.000;I3 1,5 l twin turbo bensín + 10 kWh rafhlaða, rafmótor;224;1,7;52;6 gíra sjálfskipting;AWD;5;53
+;BMW;2 series Active Tourer iPerformance;225xe Sport;5.890.000;I3 1,5 l twin turbo bensín + 10 kWh rafhlaða, rafmótor;224;1,7;52;6 gíra sjálfskipting;AWD;5;51
+3 series sedan;;;;;;;;;;;;
+;BMW;3 series sedan;320d;6.490.000;I4 2,0 l twin turbo dísil;190;4,5;;8 gíra sjálfskipting;RWD;5;54
+;BMW;3 series sedan;320d xDrive;7.190.000;I4 2,0 l twin turbo dísil;190;4,8;;8 gíra sjálfskipting;AWD;5;55
+5 series mild hybrid;;;;;;;;;;;;
+;BMW;5 series mild hybrid;520d;8.570.000;I4 2,0 l twin turbo mild hybrid dísil;190;4,5;;8 gíra sjálfskipting;RWD;5;56
+;BMW;5 series mild hybrid;520d xDrive;9.790.000;I4 2,0 l twin turbo mild hybrid dísil;190;5,1;;8 gíra sjálfskipting;AWD;5;57
+5 series;;;;;;;;;;;;
+;BMW;5 series;530d xDrive;11.490.000;I6 3,0 l twin turbo dísil;265;5,6;;8 gíra sjálfskipting;AWD;5;58
+5 series iPerformance;;;;;;;;;;;;
+;BMW;5 series iPerformance;530e;8.980.000;I4 2,0 l twin turbo bensín + 10 kWh rafhlaða, rafmótor;252;2,0;45;8 gíra sjálfskipting;RWD;5;59
+X5 M50d;;;;;;;;;;;;
+;BMW;X5 M50d;M50d xDrive;18.590.000;I6 3,0 l twin turbo dísil;400;8,8;;8 gíra sjálfskipting;AWD;5/7;72
+X7 M50d;;;;;;;;;;;;
+;BMW;X7 M50d;M50d xDrive;23.790.000;I6 3,0 l twin turbo dísil;400;9,8;;8 gíra sjálfskipting;AWD;6/7;74
+i3;;;;;;;;;;;;
+;BMW;i3;Prestige;5.890.000;42 kWh rafhlaða, rafmótor;170;;285;1 gíra sjálfskipting;RWD;4;61
+;BMW;i3;s;6.289.999;42 kWh rafhlaða, rafmótor;184;;285;1 gíra sjálfskipting;RWD;4;62
+;BMW;i3;S Prestige;6.730.000;42 kWh rafhlaða, rafmótor;184;;285;1 gíra sjálfskipting;RWD;4;63
+;BMW;i3;Standard;5.690.000;42 kWh rafhlaða, rafmótor;170;;285;1 gíra sjálfskipting;RWD;4;60
+X4;;;;;;;;;;;;
+;BMW;X4;xDrive20d;10.490.000;I4 2,0 l twin turbo dísil;190;6,4;;8 gíra sjálfskipting;AWD;5;69
+X1 iPerformance;;;;;;;;;;;;
+;BMW;X1 iPerformance;xDrive25e M-Sport;7.980.000;I3 1,5 l twin turbo bensín + 10 kWh rafhlaða, rafmótor;220;2,1;52;6 gíra sjálfskipting;AWD;5;
+;BMW;X1 iPerformance;xDrive25e X-Line;7.290.000;I3 1,5 l twin turbo bensín + 10 kWh rafhlaða, rafmótor;220;2,1;52;6 gíra sjálfskipting;AWD;5;
+X5;;;;;;;;;;;;
+;BMW;X5;xDrive30d;13.590.000;I6 3,0 l twin turbo dísil;265;8,0;;8 gíra sjálfskipting;AWD;5/7;70
+X7;;;;;;;;;;;;
+;BMW;X7;xDrive30d;18.290.000;I6 3,0 l twin turbo dísil;265;9,1;;8 gíra sjálfskipting;AWD;6/7;73
+X3 iPerformance;;;;;;;;;;;;
+;BMW;X3 iPerformance;xDrive30e Luxury Line;9.980.000;I4 2,0 l twin turbo bensín + 12 kWh rafhlaða, rafmótor;292;2,1;50;6 gíra sjálfskipting;AWD;5;68
+;BMW;X3 iPerformance;xDrive30e SE;8.150.000;I4 2,0 l twin turbo bensín + 12 kWh rafhlaða, rafmótor;292;2,1;50;6 gíra sjálfskipting;AWD;5;66
+;BMW;X3 iPerformance;xDrive30e X-Line;9.250.000;I4 2,0 l twin turbo bensín + 12 kWh rafhlaða, rafmótor;292;2,1;50;6 gíra sjálfskipting;AWD;5;67
+X5 iPerformance;;;;;;;;;;;;
+;BMW;X5 iPerformance;xDrive45e;12.590.000;I6 3,0 l twin turbo bensín + 22 kWh rafhlaða, rafmótor;394;2,0;80;8 gíra sjálfskipting;AWD;5;71
+C4 SpaceTourer;;;;;;;;;;;;
+;Citroen;C4 SpaceTourer;1,2 Puretech automatic;4.150.000;I3 1,2 l turbo bensín;130;5,1;;8 gíra sjálfskipting;FWD;5;95
+;Citroen;C4 SpaceTourer;1,2 Puretech manual;3.850.000;I3 1,2 l turbo bensín;130;5,2;;6 gíra beinskipting;FWD;5;94
+;Citroen;C4 SpaceTourer;1,5 BlueHdi automatic;4.350.000;I4 1,5 l turbo dísil;130;4,0;;8 gíra sjálfskipting;FWD;5;97
+;Citroen;C4 SpaceTourer;1,5 BlueHdi manual;4.050.000;I4 1,5 l turbo dísil;130;4,0;;6 gíra beinskipting;FWD;5;96
+Grand C4 SpaceTourer;;;;;;;;;;;;
+;Citroen;Grand C4 SpaceTourer;1,2 Puretech automatic;4.670.000;I3 1,2 l turbo bensín;130;5,2;;8 gíra sjálfskipting;FWD;7;111
+;Citroen;Grand C4 SpaceTourer;1,2 Puretech manual;4.370.000;I3 1,2 l turbo bensín;130;5,2;;6 gíra beinskipting;FWD;7;110
+;Citroen;Grand C4 SpaceTourer;1,5 BlueHdi automatic;4.890.000;I4 1,5 l turbo dísil;130;4,1;;8 gíra sjálfskipting;FWD;7;113
+;Citroen;Grand C4 SpaceTourer;1,5 BlueHdi manual;4.620.000;I4 1,5 l turbo dísil;130;4,1;;6 gíra beinskipting;FWD;7;112
+C4;;;;;;;;;;;;
+;Citroen;C4;Feel 1,2 Puretech 82 hp manual;2.590.000;I3 1,2 l bensín;82;4,8;;5 gíra beinskipting;FWD;5;76
+C3;;;;;;;;;;;;
+;Citroen;C3;Feel 1,2 Puretech 82 hp manual;2.630.000;I3 1,2 l bensín;82;4,8;;5 gíra beinskipting;FWD;5;76
+;Citroen;C3;Shine 1,2 Puretech 110 hp automatic;3.530.000;I3 1,2 l turbo bensín;110;5,2;;6 gíra sjálfskipting;FWD;5;81
+;Citroen;C3;Shine 1,2 Puretech 110 hp manual;3.030.000;I3 1,2 l turbo bensín;110;4,7;;5 gíra beinskipting;FWD;5;77
+C4 Cactus;;;;;;;;;;;;
+;Citroen;C4 Cactus;Feel 1,2 Puretech automatic;3.540.000;I3 1,2 l turbo bensín;110;5,7;;6 gíra sjálfskipting;FWD;5;90
+;Citroen;C4 Cactus;Feel 1,2 Puretech manual;3.250.000;I3 1,2 l turbo bensín;110;4,8;;5 gíra beinskipting;FWD;5;88
+;Citroen;C4 Cactus;Shine 1,2 Puretech automatic;3.840.000;I3 1,2 l turbo bensín;110;5,7;;6 gíra sjálfskipting;FWD;5;93
+;Citroen;C4 Cactus;Shine 1,2 Puretech manual;3.490.000;I3 1,2 l turbo bensín;110;4,8;;5 gíra beinskipting;FWD;5;91
+C3 Aircross;;;;;;;;;;;;
+;Citroen;C3 Aircross;Feel 1,2 Puretech automatic;3.840.000;I3 1,2 l turbo bensín;110;5,7;;6 gíra sjálfskipting;FWD;5;83
+;Citroen;C3 Aircross;Feel 1,2 Puretech manual;3.440.000;I3 1,2 l turbo bensín;110;4,8;;5 gíra beinskipting;FWD;5;82
+;Citroen;C3 Aircross;Shine 1,2 Puretech automatic;3.990.000;I3 1,2 l turbo bensín;110;5,7;;6 gíra sjálfskipting;FWD;5;86
+;Citroen;C3 Aircross;Shine 1,2 Puretech manual;3.590.000;I3 1,2 l turbo bensín;110;4,8;;5 gíra beinskipting;FWD;5;85
+C5 Aircross;;;;;;;;;;;;
+;Citroen;C5 Aircross;Feel 1,2 Puretech automatic;4.930.000;I3 1,2 l turbo bensín;130;5,3;;8 gíra sjálfskipting;FWD;5;101
+;Citroen;C5 Aircross;Feel 1,2 Puretech manual;4.730.000;I3 1,2 l turbo bensín;130;5,3;;6 gíra beinskipting;FWD;5;101
+;Citroen;C5 Aircross;Feel 1,5 BlueHdi automatic;5.130.000;I4 1,5 l turbo dísil;130;4,1;;8 gíra sjálfskipting;FWD;5;103
+;Citroen;C5 Aircross;Feel 1,5 BlueHdi manual;4.930.000;I4 1,5 l turbo dísil;130;4,2;;6 gíra beinskipting;FWD;5;102
+;Citroen;C5 Aircross;Feel 1,6 Puretech automatic;5.290.000;I4 1,6 l turbo bensín;180;5,7;;8 gíra sjálfskipting;FWD;5;104
+;Citroen;C5 Aircross;Live 1,2 Puretech automatic;4.690.000;I3 1,2 l turbo bensín;130;5,3;;8 gíra sjálfskipting;FWD;5;98
+;Citroen;C5 Aircross;Live 1,2 Puretech manual;4.490.000;I3 1,2 l turbo bensín;130;5,3;;6 gíra beinskipting;FWD;5;98
+;Citroen;C5 Aircross;Live 1,5 BlueHdi automatic;4.890.000;I4 1,5 l turbo dísil;130;4,1;;8 gíra sjálfskipting;FWD;5;100
+;Citroen;C5 Aircross;Live 1,5 BlueHdi manual;4.690.000;I4 1,5 l turbo dísil;130;4,2;;6 gíra beinskipting;FWD;5;99
+;Citroen;C5 Aircross;Shine 1,2 Puretech automatic;5.390.000;I3 1,2 l turbo bensín;130;5,3;;8 gíra sjálfskipting;FWD;5;98
+;Citroen;C5 Aircross;Shine 1,2 Puretech manual;5.190.000;I3 1,2 l turbo bensín;130;5,3;;6 gíra beinskipting;FWD;5;98
+;Citroen;C5 Aircross;Shine 1,5 BlueHdi automatic;5.730.000;I4 1,5 l turbo dísil;130;4,1;;8 gíra sjálfskipting;FWD;5;107
+;Citroen;C5 Aircross;Shine 1,5 BlueHdi manual;5.530.000;I4 1,5 l turbo dísil;130;4,2;;6 gíra beinskipting;FWD;5;106
+;Citroen;C5 Aircross;Shine 1,6 Puretech automatic;5.790.000;I4 1,6 l turbo bensín;180;5,7;;8 gíra sjálfskipting;FWD;5;108
+;Citroen;C5 Aircross;Shine 2,0 BlueHdi automatic;6.590.000;I4 2,0 l turbo bensín;180;4,8;;8 gíra sjálfskipting;FWD;5;109
+Sandero;;;;;;;;;;;;
+;Dacia;Sandero;0,9 petrol;2.150.000;I3 0,9 l turbo bensín;90;5,4;;5 gíra beinskipting;FWD;5;118
+Logan;;;;;;;;;;;;
+;Dacia;Logan;1,5 diesel;2.650.000;I4 1,5 l turbo dísil;90;3,8;;5 gíra beinskipting;FWD;5;117
+Duster;;;;;;;;;;;;
+;Dacia;Duster;Comfort 1,3 petrol;4.450.000;I4 1,3 l turbo bensín;130;7,4;;6 gíra beinskipting;AWD;5;115
+;Dacia;Duster;Comfort 1,5 diesel;4.450.000;I4 1,5 l turbo dísil;115;5,6;;6 gíra beinskipting;AWD;5;116
+;Dacia;Duster;Essential 1,3 petrol;4.090.000;I4 1,3 l turbo bensín;130;7,4;;6 gíra beinskipting;AWD;5;114
+Panda Cross;;;;;;;;;;;;
+;Fiat;Panda Cross;Cross 4x4;2.990.000;I2 0,9 l bensín;90;4,9;;6 gíra beinskipting;AWD;5;125
+Tipo hatchback;;;;;;;;;;;;
+;Fiat;Tipo hatchback;Easy 1,4 petrol;3.090.000;I4 1,3 l turbo bensín;120;6,3;;6 gíra beinskipting;FWD;5;126
+;Fiat;Tipo hatchback;Easy 1,6 diesel;3.490.000;I4 1,6 l turbo dísil;120;3,8;;6 gíra DCT sjálfskipting;FWD;5;127
+Tipo station;;;;;;;;;;;;
+;Fiat;Tipo station;Easy 1,4 petrol;3.090.000;I4 1,3 l turbo bensín;120;6,3;;6 gíra beinskipting;FWD;5;128
+;Fiat;Tipo station;Easy 1,6 diesel;3.490.000;I4 1,6 l turbo dísil;120;3,9;;6 gíra DCT sjálfskipting;FWD;5;129
+500 hatchback;;;;;;;;;;;;
+;Fiat;500 hatchback;Lounge automatic;2.890.000;I4 1,2 l bensín;69;4,9;;5 gíra sjálfskiptur;FWD;4;122
+;Fiat;500 hatchback;Lounge manual;2.590.000;I4 1,2 l bensín;69;4,9;;5 gíra beinskipting;FWD;4;121
+;Fiat;500 hatchback;Pop automatic;2.590.000;I4 1,2 l bensín;69;4,9;;5 gíra sjálfskiptur;FWD;4;120
+;Fiat;500 hatchback;Pop manual;2.390.000;I4 1,2 l bensín;69;4,9;;5 gíra beinskipting;FWD;4;119
+500C;;;;;;;;;;;;
+;Fiat;500C;Lounge automatic;3.150.000;I4 1,2 l bensín;69;4,9;;5 gíra sjálfskiptur;FWD;4;124
+;Fiat;500C;Lounge manual;2.850.000;I4 1,2 l bensín;69;4,9;;5 gíra beinskipting;FWD;4;123
+Focus 5 door;;;;;;;;;;;;
+;Ford;Focus 5 door;Active 1,0 125 hp automatic;4.330.000;I3 1,0 l turbo bensín;125;6,7;;8 gíra sjálfskipting;FWD;5;150
+;Ford;Focus 5 door;Active 1,5 182 hp automatic;4.710.000;I3 1,5 l turbo bensín;182;6,9;;8 gíra sjálfskipting;FWD;5;152
+;Ford;Focus 5 door;ST-Line 1,0 125 hp automatic;4.330.000;I3 1,0 l turbo bensín;125;6,7;;8 gíra sjálfskipting;FWD;5;147
+;Ford;Focus 5 door;ST-Line 1,5 182 hp automatic;4.600.000;I3 1,5 l turbo bensín;182;6,9;;8 gíra sjálfskipting;FWD;5;152
+Focus station;;;;;;;;;;;;
+;Ford;Focus station;Active 1,0 125 hp automatic;4.610.000;I3 1,0 l turbo bensín;125;6,7;;8 gíra sjálfskipting;FWD;5;150
+;Ford;Focus station;Active 1,5 182 hp automatic;4.990.000;I3 1,5 l turbo bensín;182;6,9;;8 gíra sjálfskipting;FWD;5;152
+;Ford;Focus station;ST-Line 1,0 125 hp automatic;4.610.000;I3 1,0 l turbo bensín;125;6,7;;8 gíra sjálfskipting;FWD;5;147
+;Ford;Focus station;ST-Line 1,5 182 hp automatic;4.880.000;I3 1,5 l turbo bensín;182;6,9;;8 gíra sjálfskipting;FWD;5;152
+Focus mild hybrid 5 door;;;;;;;;;;;;
+;Ford;Focus mild hybrid 5 door;Active 1,0 125 hp manual mild hybrid;4.030.000;I3 1,0 l turbo bensín mild hybrid;125;5,8;;6 gíra beinskipting;FWD;5;149
+;Ford;Focus mild hybrid 5 door;Connected 1,0 125 hp manual mild hybrid;4.180.000;I3 1,0 l turbo bensín mild hybrid;125;5,8;;6 gíra beinskipting;FWD;5;149
+;Ford;Focus mild hybrid 5 door;ST-Line 1,0 125 hp manual mild hybrid;4.030.000;I3 1,0 l turbo bensín mild hybrid;125;5,8;;6 gíra beinskipting;FWD;5;146
+Focus mild hybrid station;;;;;;;;;;;;
+;Ford;Focus mild hybrid station;Active 1,0 125 hp manual mild hybrid;4.310.000;I3 1,0 l turbo bensín mild hybrid;125;5,8;;6 gíra beinskipting;FWD;5;149
+;Ford;Focus mild hybrid station;Connected 1,0 125 hp manual mild hybrid;4.460.000;I3 1,0 l turbo bensín mild hybrid;125;5,8;;6 gíra beinskipting;FWD;5;149
+;Ford;Focus mild hybrid station;ST-Line 1,0 125 hp manual mild hybrid;4.310.000;I3 1,0 l turbo bensín mild hybrid;125;5,8;;6 gíra beinskipting;FWD;5;146
+Mustang;;;;;;;;;;;;
+;Ford;Mustang;EcoBoost;6.390.000;I4 2,3 l turbo bensín;310;9,4;;6 gíra beinskipting;RWD;4;179
+Expedition;;;;;;;;;;;;
+;Ford;Expedition;Limited;18.390.000;V6 3,5 l twin turbo bensín;365;12,3;;10 gíra DCT sjálfskipting;AWD;8;135
+Explorer plug-in hybrid;;;;;;;;;;;;
+;Ford;Explorer plug-in hybrid;Platinum;11.990.000;V6 3,0 l twin turbo bensín + 14 kWh rafhlaða, rafmótor;457;3,1;48;10 gíra sjálfskipting;AWD;7;136
+;Ford;Explorer plug-in hybrid;ST-Line;11.990.000;V6 3,0 l twin turbo bensín + 14 kWh rafhlaða, rafmótor;457;3,1;48;10 gíra sjálfskipting;AWD;7;137
+Fiesta;;;;;;;;;;;;
+;Ford;Fiesta;ST-Line 125 hp;3.190.000;I3 1,0 l turbo bensín;125;5,2;;6 gíra sjálfskipting;FWD;5;140
+;Ford;Fiesta;Titanium 125 hp;3.190.000;I3 1,0 l turbo bensín;125;5,2;;6 gíra sjálfskipting;FWD;5;140
+Fiesta mild hybrid;;;;;;;;;;;;
+;Ford;Fiesta mild hybrid;ST-Line 125 hp;3.590.000;I3 1,0 l turbo mild hybrid bensín;125;5,1;;6 gíra sjálfskipting;FWD;5;140
+;Ford;Fiesta mild hybrid;Titanium 125 hp;3.490.000;I3 1,0 l turbo mild hybrid bensín;125;5,1;;6 gíra sjálfskipting;FWD;5;140
+Ecosport;;;;;;;;;;;;
+;Ford;Ecosport;ST-Line FWD;3.990.000;I3 1,0 l turbo bensín;125;6,5;;6 gíra sjálfskipting;FWD;5;134
+;Ford;Ecosport;Titanium AWD;3.690.000;I4 1,5 l turbo dísil;125;4,9;;5 gíra beinskipting;AWD;5;131
+;Ford;Ecosport;Titanium FWD;3.890.000;I3 1,0 l turbo bensín;125;6,5;;6 gíra sjálfskipting;FWD;5;130
+;Ford;Ecosport;Titanium S AWD;3.890.000;I4 1,5 l turbo dísil;125;4,9;;5 gíra beinskipting;AWD;5;133
+;Ford;Ecosport;Titanium S FWD;3.890.000;I3 1,0 l turbo bensín;125;5,3;;6 gíra sjálfskipting;FWD;5;132
+Fiesta ST;;;;;;;;;;;;
+;Ford;Fiesta ST;ST2;3.950.000;I3 1,5 l turbo bensín;200;6,0;;6 gíra beinskipting;FWD;5;143
+Kuga plug-in hybrid;;;;;;;;;;;;
+;Ford;Kuga plug-in hybrid;Titanium;5.390.000;I4 2,5 l bensín + 14 kWh rafhlaða, 2 rafmótorar;225;1,4;56;1 gíra CVT sjálfskipting;FWD;5;166
+;Ford;Kuga plug-in hybrid;Titanium X;5.890.000;I4 2,5 l bensín + 14 kWh rafhlaða, 2 rafmótorar;225;1,4;56;1 gíra CVT sjálfskipting;FWD;5;167
+;Ford;Kuga plug-in hybrid;Vignale;6.490.000;I4 2,5 l bensín + 14 kWh rafhlaða, 2 rafmótorar;225;1,4;56;1 gíra CVT sjálfskipting;FWD;5;168
+S-MAX;;;;;;;;;;;;
+;Ford;S-MAX;Titanium;5.750.000;I4 2,0 l turbo dísil;150;5,8;;8 gíra sjálfskipting;FWD;5/7;184
+;Ford;S-MAX;Titanium AWD;7.690.000;I4 2,0 l turbo dísil;190;6,2;;8 gíra sjálfskipting;AWD;5/7;185
+Mondeo liftback;;;;;;;;;;;;
+;Ford;Mondeo liftback;Titanium 1,5 EcoBoost 165 hp automatic;4.890.000;I4 1,5 l turbo bensín;165;7,4;;6 gíra sjálfskipting;FWD;5;170
+;Ford;Mondeo liftback;Titanium 1,5 EcoBoost 165 hp manual;4.490.000;I4 1,5 l turbo bensín;165;6,6;;6 gíra beinskipting;FWD;5;169
+;Ford;Mondeo liftback;Titanium 2,0 TDCi 150 hp automatic;4.990.000;I4 2,0 l turbo dísil;150;5,0;;8 gíra sjálfskipting;FWD;5;172
+;Ford;Mondeo liftback;Titanium 2,0 TDCi 150 hp manual;4.590.000;I4 2,0 l turbo dísil;150;4,8;;6 gíra beinskipting;FWD;5;171
+;Ford;Mondeo liftback;Titanium AWD 2,0 TDCi 180 hp automatic;6.750.000;I4 2,0 l turbo dísil;180;5,1;;8 gíra sjálfskipting;AWD;5;173
+Mondeo station;;;;;;;;;;;;
+;Ford;Mondeo station;Titanium 1,5 EcoBoost 165 hp automatic;5.070.000;I4 1,5 l turbo bensín;165;7,4;;6 gíra sjálfskipting;FWD;5;175
+;Ford;Mondeo station;Titanium 1,5 EcoBoost 165 hp manual;4.670.000;I4 1,5 l turbo bensín;165;6,6;;6 gíra beinskipting;FWD;5;174
+;Ford;Mondeo station;Titanium 2,0 TDCi 150 hp automatic;5.170.000;I4 2,0 l turbo dísil;150;5,0;;8 gíra sjálfskipting;FWD;5;177
+;Ford;Mondeo station;Titanium 2,0 TDCi 150 hp manual;4.770.000;I4 2,0 l turbo dísil;150;4,8;;6 gíra beinskipting;FWD;5;176
+;Ford;Mondeo station;Titanium AWD 2,0 TDCi 180 hp automatic;6.930.000;I4 2,0 l turbo dísil;180;5,1;;8 gíra sjálfskipting;AWD;5;178
+Puma;;;;;;;;;;;;
+;Ford;Puma;Titanium automatic;4.130.000;I3 1,0 l turbo bensín;125;5,7;;6 gíra sjálfskipting;FWD;5;181
+;Ford;Puma;Titanium X automatic;4.330.000;I3 1,0 l turbo bensín;125;5,7;;6 gíra sjálfskipting;FWD;5;183
+Galaxy;;;;;;;;;;;;
+;Ford;Galaxy;Titanium automatic;7.090.000;I4 2,0 l turbo dísil;150;5,4;;6 gíra DCT sjálfskipting;FWD;7;164
+;Ford;Galaxy;Titanium manual;6.390.000;I4 2,0 l turbo dísil;150;5,4;;6 gíra DCT sjálfskipting;FWD;7;163
+Kuga;;;;;;;;;;;;
+;Ford;Kuga;Titanium AWD;6.090.000;I4 2,0 l turbo dísil;190;4,9;;8 gíra sjálfskipting;AWD;5;
+;Ford;Kuga;Titanium X AWD;6.390.000;I4 2,0 l turbo dísil;190;4,9;;8 gíra sjálfskipting;AWD;5;
+;Ford;Kuga;Vignale AWD;6.890.000;I4 2,0 l turbo dísil;190;4,9;;8 gíra sjálfskipting;AWD;5;
+Puma mild hybrid;;;;;;;;;;;;
+;Ford;Puma mild hybrid;Titanium manual;3.710.000;I3 1,0 turbo mild hybrid bensín;125;5,6;;6 gíra beinskipting;FWD;5;180
+;Ford;Puma mild hybrid;Titanium X manual;3.910.000;I3 1,0 l turbo mild hybrid bensín;125;5,6;;6 gíra beinskipting;FWD;5;182
+Civic 5 door;;;;;;;;;;;;
+;Honda;Civic 5 door;Comfort;3.790.000;I3 1,0 l turbo bensín;129;4,8;;6 gíra beinskipting;FWD;5;187
+;Honda;Civic 5 door;Comfort automatic;3.990.000;I3 1,0 l turbo bensín;129;4,7;;1 gíra CVT sjálfskipting;FWD;5;187
+;Honda;Civic 5 door;Elegance automatic;4.390.000;I3 1,0 l turbo bensín;129;4,7;;1 gíra CVT sjálfskipting;FWD;5;186
+;Honda;Civic 5 door;Executive automatic;4.390.000;I3 1,0 l turbo bensín;129;4,7;;1 gíra CVT sjálfskipting;FWD;5;186
+Jazz;;;;;;;;;;;;
+;Honda;Jazz;Comfort;3.790.000;I4 1,5 l hybrid bensín;109;4,5;;1 gíra CVT sjálfskipting;FWD;5;203
+;Honda;Jazz;Crosstar Executive;4.490.000;I4 1,5 l hybrid bensín;109;4,8;;1 gíra CVT sjálfskipting;FWD;5;201
+;Honda;Jazz;Elegance;3.990.000;I4 1,5 l hybrid bensín;109;4,5;;1 gíra CVT sjálfskipting;FWD;5;
+;Honda;Jazz;Executive;4.250.000;I4 1,5 l hybrid bensín;109;4,5;;1 gíra CVT sjálfskipting;FWD;5;
+e;;;;;;;;;;;;
+;Honda;e;e;4.290.000;36 kWh rafhlaða, rafmótor;136;;220;1 gíra sjálfskipting;RWD;4;196
+;Honda;e;e Advance;5.490.000;36 kWh rafhlaða, rafmótor;154;;220;1 gíra sjálfskipting;RWD;4;197
+HR-V;;;;;;;;;;;;
+;Honda;HR-V;Elegance;4.690.000;I4 1,5 l bensín;130;5,3;;1 gíra CVT sjálfskipting;FWD;5;198
+;Honda;HR-V;Executive;5.190.000;I4 1,5 l bensín;130;5,3;;1 gíra CVT sjálfskipting;FWD;5;199
+CR-V hybrid;;;;;;;;;;;;
+;Honda;CR-V hybrid;Elegance;6.990.000;I4 2,0 l hybrid bensín 4WD;184;5,5;;1 gíra CVT sjálfskipting;AWD;5;193
+;Honda;CR-V hybrid;Elegance;6.990.000;I4 2,0 l hybrid bensín;184;5,3;;1 gíra CVT sjálfskipting;AWD;5;193
+;Honda;CR-V hybrid;Executive;7.990.000;I4 2,0 l hybrid bensín 4WD;184;5,5;;1 gíra CVT sjálfskipting;AWD;5;195
+;Honda;CR-V hybrid;Lifestyle;7.490.000;I4 2,0 l hybrid bensín 4WD;184;5,5;;1 gíra CVT sjálfskipting;AWD;5;194
+CR-V;;;;;;;;;;;;
+;Honda;CR-V;Executive;7.590.000;I4 1,5 l turbo bensín 4WD;193;7,1;;1 gíra CVT sjálfskipting;AWD;5;192
+Nexo;;;;;;;;;;;;
+;Hyundai;Nexo;Blue;6.900.000;Vetnisrafall, rafmótor;163;;666;1 gíra sjálfskipting;FWD;5;225
+i30 hatchback;;;;;;;;;;;;
+;Hyundai;i30 hatchback;Classic;3.750.000;I3 1,0 l turbo bensín;120;4,9;;6 gíra beinskipting;FWD;5;210
+;Hyundai;i30 hatchback;Comfort;4.550.000;I4 1,4 l turbo bensín;140;5,5;;7 gíra DCT sjálfskipting;FWD;5;211
+i30 wagon;;;;;;;;;;;;
+;Hyundai;i30 wagon;Classic;4.090.000;I3 1,0 l turbo bensín;120;4,9;;6 gíra beinskipting;FWD;5;212
+;Hyundai;i30 wagon;Comfort;4.850.000;I4 1,4 l turbo bensín;140;5,5;;7 gíra DCT sjálfskipting;FWD;5;213
+Tucson;;;;;;;;;;;;
+;Hyundai;Tucson;Classic;5.690.000;I4 1,6 l turbo bensín;136;5,2;;7 gíra DCT sjálfskipting;AWD;5;229
+;Hyundai;Tucson;Comfort;6.390.000;I4 1,6 l turbo bensín;136;5,2;;7 gíra DCT sjálfskipting;AWD;5;230
+;Hyundai;Tucson;Premium;7.090.000;I4 1,6 l turbo bensín;136;5,2;;7 gíra DCT sjálfskipting;AWD;5;233
+;Hyundai;Tucson;Style;6.790.000;I4 1,6 l turbo bensín;136;5,2;;7 gíra DCT sjálfskipting;AWD;5;231
+i20;;;;;;;;;;;;
+;Hyundai;i20;Classic 1,2;2.590.000;I4 1,2 l bensín;75;5,7;;5 gíra beinskipting;FWD;5;206
+;Hyundai;i20;Comfort 1,0T;3.350.000;I3 1,0 l turbo bensín;100;5,0;;7 gíra DCT sjálfskipting;FWD;5;208
+;Hyundai;i20;Style 1,0T;3.450.000;I3 1,0 l turbo bensín;100;5,0;;7 gíra DCT sjálfskipting;FWD;5;209
+;Hyundai;i20;Style 1,2;2.990.000;I4 1,2 l bensín;75;5,7;;5 gíra beinskipting;FWD;5;207
+i10;;;;;;;;;;;;
+;Hyundai;i10;Classic automatic;2.450.000;I3 1,0 l bensín;66;5,6;;4 gíra sjálfskiptur;FWD;5;
+;Hyundai;i10;Classic manual;2.350.000;I3 1,0 l bensín;66;5,1;;5 gíra beinskipting;FWD;5;
+;Hyundai;i10;Comfort automatic;2.650.000;I3 1,0 l bensín;66;5,6;;4 gíra sjálfskiptur;FWD;5;205
+;Hyundai;i10;Comfort manual;2.550.000;I3 1,0 l bensín;66;5,1;;5 gíra beinskipting;FWD;5;204
+;Hyundai;i10;Style automatic;2.990.000;I3 1,0 l bensín;66;5,6;;4 gíra sjálfskiptur;FWD;5;
+;Hyundai;I10;Style manual;2.890.000;I3 1,0 l bensín;66;5,1;;5 gíra beinskipting;FWD;5;
+Ioniq plug-in hybrid;;;;;;;;;;;;
+;Hyundai;Ioniq plug-in hybrid;Comfort;4.590.000;I4 1,6 l bensín + 9 kWh rafhlaða, rafmótor;141;1,1;63;6 gíra DCT sjálfskipting;FWD;5;216
+;Hyundai;Ioniq plug-in hybrid;Style;4.790.000;I4 1,6 l bensín + 9 kWh rafhlaða, rafmótor;141;1,1;63;6 gíra DCT sjálfskipting;FWD;5;217
+Ioniq electric;;;;;;;;;;;;
+;Hyundai;Ioniq electric;Comfort;4.890.000;38 kWh rafhlaða, rafmótor;136;;311;1 gíra sjálfskipting;FWD;5;214
+;Hyundai;Ioniq electric;Style;5.290.000;38 kWh rafhlaða, rafmótor;136;;311;1 gíra sjálfskipting;FWD;5;215
+Kona hybrid;;;;;;;;;;;;
+;Hyundai;Kona hybrid;Comfort;4.990.000;I4 1,6 l hybrid bensín;137;4,3;;6 gíra DCT sjálfskipting;FWD;5;222
+Kona EV;;;;;;;;;;;;
+;Hyundai;Kona EV;Comfort;5.290.000;39 kWh rafhlaða, rafmótor;136;;289;1 gíra sjálfskipting;FWD;5;223
+;Hyundai;Kona EV;Premium;5.990.000;64 kWh rafhlaða, rafmótor;204;;449;1 gíra sjálfskipting;FWD;5;224
+Tucson mild hybrid;;;;;;;;;;;;
+;Hyundai;Tucson mild hybrid;Comfort;6.490.000;I6 1,6 l turbo mild hybrid bensín;136;4,9;;7 gíra DCT sjálfskipting;AWD;5;234
+;Hyundai;Tucson mild hybrid;Premium;7.190.000;I6 1,6 l turbo mild hybrid bensín;136;4,9;;7 gíra DCT sjálfskipting;AWD;5;
+;Hyundai;Tucson mild hybrid;Style;6.890.000;I6 1,6 l turbo mild hybrid bensín;136;4,9;;7 gíra DCT sjálfskipting;AWD;5;
+Santa Fe;;;;;;;;;;;;
+;Hyundai;Santa Fe;Comfort;7.990.000;I4 2,2 l turbo dísil;200;6,3;;8 gíra sjálfskipting;AWD;5/7;226
+;Hyundai;Santa Fe;Premium;9.190.000;I4 2,2 l turbo dísil;200;6,3;;8 gíra sjálfskipting;AWD;5/7;228
+;Hyundai;Santa Fe;Style;8.790.000;I4 2,2 l turbo dísil;200;6,3;;8 gíra sjálfskipting;AWD;5/7;227
+Kona;;;;;;;;;;;;
+;Hyundai;Kona;Comfort 4WD;5.290.000;I4 1,6 l turbo bensín;177;5,4;;7 gíra DCT sjálfskipting;AWD;5;219
+;Hyundai;Kona;Premium 4WD;5.990.000;I4 1,6 l turbo bensín;177;5,4;;7 gíra DCT sjálfskipting;AWD;5;221
+XF;;;;;;;;;;;;
+;Jaguar;XF;20d;7.690.000;I4 2,0 l turbo dísil;180;5,2;;8 gíra sjálfskipting;RWD;5;302
+F-type coupe;;;;;;;;;;;;
+;Jaguar;F-type coupe;400 Sport 3,0 supercharged AWD;21.790.000;V6 3,0 l supercharged bensín;400;8,9;;8 gíra sjálfskipting;AWD;2;293
+;Jaguar;F-type coupe;400 Sport 3,0 supercharged RWD;20.590.000;V6 3,0 l supercharged bensín;400;8,6;;8 gíra sjálfskipting;RWD;2;292
+;Jaguar;F-type coupe;R-Dynamic 2,0 turbo RWD;11.790.000;I4 2,0 l turbo bensín;300;7,2;;8 gíra sjálfskipting;RWD;2;289
+;Jaguar;F-type coupe;R-Dynamic 3,0 supercharged AWD;19.590.000;V6 3,0 l supercharged bensín;380;8,9;;8 gíra sjálfskipting;AWD;2;291
+;Jaguar;F-type coupe;R-dynamic 3,0 supercharged RWD;18.290.000;V6 3,0 l supercharged bensín;380;8,6;;8 gíra sjálfskipting;RWD;2;290
+;Jaguar;F-type coupe;Standard 2,0 l  turbo RWD;10.990.000;I4 2,0 l turbo bensín;300;7,2;;8 gíra sjálfskipting;RWD;2;287
+;Jaguar;F-type coupe;Standard 3,0 l supercharged RWD;13.790.000;V6 3,0 l supercharged bensín;340;8,4;;8 gíra sjálfskipting;RWD;2;288
+F-type convertible;;;;;;;;;;;;
+;Jaguar;F-type convertible;400 Sport 3,0 turbo AWD;23.090.000;V6 3,0 l supercharged bensín;400;8,9;;8 gíra sjálfskipting;AWD;2;286
+;Jaguar;F-type convertible;400 Sport 3,0 turbo RWD;21.990.000;V6 3,0 l supercharged bensín;400;8,6;;8 gíra sjálfskipting;RWD;2;285
+;Jaguar;F-type convertible;R-Dynamic 2,0 turbo RWD;12.890.000;I4 2,0 l turbo bensín;300;7,2;;8 gíra sjálfskipting;RWD;2;282
+;Jaguar;F-type convertible;R-Dynamic 3,0 turbo AWD;20.790.000;V6 3,0 l supercharged bensín;380;8,9;;8 gíra sjálfskipting;AWD;2;284
+;Jaguar;F-type convertible;R-dynamic 3,0 turbo RWD;19.790.000;V6 3,0 l supercharged bensín;380;8,6;;8 gíra sjálfskipting;RWD;2;283
+;Jaguar;F-type convertible;Standard 2,0 l  turbo RWD;12.090.000;I4 2,0 l turbo bensín;300;7,2;;8 gíra sjálfskipting;RWD;2;280
+;Jaguar;F-type convertible;Standard 3,0 l turbo RWD;14.990.000;V6 3,0 l supercharged bensín;340;8,4;;8 gíra sjálfskipting;RWD;2;281
+XE;;;;;;;;;;;;
+;Jaguar;XE;D180;6.890.000;I4 2,0 l turbo dísil;180;4,9;;8 gíra sjálfskipting;RWD;5;301
+I-Pace;;;;;;;;;;;;
+;Jaguar;I-Pace;HSE;12.990.000;90 kWh rafhlaða, 2 rafmótorar;400;;470;1 gíra sjálfskipting;AWD;5;300
+;Jaguar;I-Pace;S;10.590.000;90 kWh rafhlaða, 2 rafmótorar;400;;470;1 gíra sjálfskipting;AWD;5;298
+;Jaguar;I-Pace;SE;11.790.000;90 kWh rafhlaða, 2 rafmótorar;400;;470;1 gíra sjálfskipting;AWD;5;299
+E-Pace;;;;;;;;;;;;
+;Jaguar;E-Pace;HSE D150;9.590.000;I4 2,0 l turbo dísil;150;5,6;;9 gíra sjálfskipting;AWD;5;245
+;Jaguar;E-Pace;HSE D180;9.890.000;I4 2,0 l turbo dísil;180;5,6;;9 gíra sjálfskipting;AWD;5;246
+;Jaguar;E-Pace;HSE D240;10.890.000;I4 2,0 l turbo dísil;240;6,2;;9 gíra sjálfskipting;AWD;5;247
+;Jaguar;E-Pace;HSE P300;11.990.000;I4 2,0 l twin turbo bensín;300;8,0;;9 gíra sjálfskipting;AWD;5;248
+;Jaguar;E-Pace;R-Dynamci SE P300;11.540.000;I4 2,0 l twin turbo bensín;300;8,0;;9 gíra sjálfskipting;AWD;5;258
+;Jaguar;E-Pace;R-Dynamic D150;7.640.000;I4 2,0 l turbo dísil;150;5,6;;9 gíra sjálfskipting;AWD;5;249
+;Jaguar;E-Pace;R-Dynamic D180;8.040.000;I4 2,0 l turbo dísil;180;5,6;;9 gíra sjálfskipting;AWD;5;250
+;Jaguar;E-Pace;R-Dynamic HSE D150;10.040.000;I4 2,0 l turbo dísil;150;5,6;;9 gíra sjálfskipting;AWD;5;259
+;Jaguar;E-Pace;R-Dynamic HSE D180;10.340.000;I4 2,0 l turbo dísil;180;5,6;;9 gíra sjálfskipting;AWD;5;260
+;Jaguar;E-Pace;R-Dynamic HSE D240;11.340.000;I4 2,0 l turbo dísil;240;6,2;;9 gíra sjálfskipting;AWD;5;261
+;Jaguar;E-Pace;R-Dynamic HSE P300;12.440.000;I4 2,0 l twin turbo bensín;300;8,0;;9 gíra sjálfskipting;AWD;5;262
+;Jaguar;E-Pace;R-Dynamic S D150;8.540.000;I4 2,0 l turbo dísil;150;5,6;;9 gíra sjálfskipting;AWD;5;251
+;Jaguar;E-Pace;R-Dynamic S D180;8.840.000;I4 2,0 l turbo dísil;180;5,6;;9 gíra sjálfskipting;AWD;5;252
+;Jaguar;E-Pace;R-Dynamic S D240;9.840.000;I4 2,0 l turbo dísil;240;6,2;;9 gíra sjálfskipting;AWD;5;253
+;Jaguar;E-Pace;R-Dynamic S P300;10.840.000;I4 2,0 l twin turbo bensín;300;8,0;;9 gíra sjálfskipting;AWD;5;254
+;Jaguar;E-Pace;R-Dynamic SE D150;9.140.000;I4 2,0 l turbo dísil;150;5,6;;9 gíra sjálfskipting;AWD;5;255
+;Jaguar;E-Pace;R-Dynamic SE D180;9.540.000;I4 2,0 l turbo dísil;180;5,6;;9 gíra sjálfskipting;AWD;5;256
+;Jaguar;E-Pace;R-Dynamic SE D240;10.540.000;I4 2,0 l turbo dísil;240;6,2;;9 gíra sjálfskipting;AWD;5;257
+;Jaguar;E-Pace;S D150;8.090.000;I4 2,0 l turbo dísil;150;5,6;;9 gíra sjálfskipting;AWD;5;237
+;Jaguar;E-Pace;S D180;8.390.000;I4 2,0 l turbo dísil;180;5,6;;9 gíra sjálfskipting;AWD;5;238
+;Jaguar;E-Pace;S D240;9.390.000;I4 2,0 l turbo dísil;240;6,2;;9 gíra sjálfskipting;AWD;5;239
+;Jaguar;E-Pace;S P300;10.390.000;I4 2,0 l twin turbo bensín;300;8,0;;9 gíra sjálfskipting;AWD;5;240
+;Jaguar;E-Pace;SE D150;8.690.000;I4 2,0 l turbo dísil;150;5,6;;9 gíra sjálfskipting;AWD;5;241
+;Jaguar;E-Pace;SE D180;9.090.000;I4 2,0 l turbo dísil;180;5,6;;9 gíra sjálfskipting;AWD;5;242
+;Jaguar;E-Pace;SE D240;10.090.000;I4 2,0 l turbo dísil;240;6,2;;9 gíra sjálfskipting;AWD;5;243
+;Jaguar;E-Pace;SE P300;11.090.000;I4 2,0 l twin turbo bensín;300;8,0;;9 gíra sjálfskipting;AWD;5;244
+;Jaguar;E-Pace;Standard D150;7.190.000;I4 2,0 l turbo dísil;150;5,6;;9 gíra sjálfskipting;AWD;5;235
+;Jaguar;E-Pace;Standard D180;7.590.000;I4 2,0 l turbo dísil;180;5,6;;9 gíra sjálfskipting;AWD;5;236
+XJ;;;;;;;;;;;;
+;Jaguar;XJ;Luxury 3,0 V6 diesel turbo RWD;13.990.000;V6 3,0 l turbo dísil;300;5,3;;8 gíra sjálfskipting;RWD;5;303
+;Jaguar;XJ;Portfolio 3,0 V6 diesel turbo RWD;16.490.000;V6 3,0 l turbo dísil;300;5,3;;8 gíra sjálfskipting;RWD;5;306
+;Jaguar;XJ;Portfolio 3,0 V6 petrol supercharged AWD;22.790.000;V6 3,0 l supercharged bensín;340;9,8;;8 gíra sjálfskipting;AWD;5;307
+;Jaguar;XJ;Premium Luxury 3,0 V6 diesel turbo RWD;14.290.000;V6 3,0 l turbo dísil;300;5,3;;8 gíra sjálfskipting;RWD;5;304
+;Jaguar;XJ;Premium Luxury 3,0 V6 petrol supercharged AWD;20.590.000;V6 3,0 l supercharged bensín;340;9,8;;8 gíra sjálfskipting;AWD;5;305
+;Jaguar;XJ;R-Sport 3,0 V6 diesel turbo RWD;16.490.000;V6 3,0 l turbo dísil;300;5,3;;8 gíra sjálfskipting;RWD;5;308
+;Jaguar;XJ;R-Sport 3,0 V6 petrol supercharged AWD;22.590.000;V6 3,0 l supercharged bensín;340;9,8;;8 gíra sjálfskipting;AWD;5;309
+F-Pace;;;;;;;;;;;;
+;Jaguar;F-Pace;Pure 2,0 I4 diesel turbo;8.390.000;I4 2,0 l turbo dísil;180;5,9;;8 gíra sjálfskipting;AWD;5;263
+;Jaguar;F-Pace;Pure 2,0 I4 diesel turbo;9.290.000;I4 2,0 l turbo dísil;180;5,9;;8 gíra sjálfskipting;AWD;5;267
+;Jaguar;F-Pace;Pure 2,0 I4 diesel turbo;9.690.000;I4 2,0 l turbo dísil;180;5,9;;8 gíra sjálfskipting;AWD;5;275
+;Jaguar;F-Pace;Pure 2,0 I4 diesel turbo;9.890.000;I4 2,0 l turbo dísil;180;5,9;;8 gíra sjálfskipting;AWD;5;271
+;Jaguar;F-Pace;Pure 2,0 I4 diesel twin turbo;9.590.000;I4 2,0 l twin turbo dísil;240;6,5;;8 gíra sjálfskipting;AWD;5;264
+;Jaguar;F-Pace;Pure 2,0 I4 diesel twin turbo;10.390.000;I4 2,0 l twin turbo dísil;240;6,5;;8 gíra sjálfskipting;AWD;5;268
+;Jaguar;F-Pace;Pure 2,0 I4 diesel twin turbo;10.890.000;I4 2,0 l twin turbo dísil;240;6,5;;8 gíra sjálfskipting;AWD;5;276
+;Jaguar;F-Pace;Pure 2,0 I4 diesel twin turbo;10.990.000;I4 2,0 l twin turbo dísil;240;6,5;;8 gíra sjálfskipting;AWD;5;272
+;Jaguar;F-Pace;Pure 2,0 I4 petrol turbo;10.090.000;I4 2,0 l turbo bensín;300;8,3;;8 gíra sjálfskipting;AWD;5;266
+;Jaguar;F-Pace;Pure 2,0 I4 petrol turbo;10.990.000;I4 2,0 l turbo bensín;300;8,3;;8 gíra sjálfskipting;AWD;5;270
+;Jaguar;F-Pace;Pure 2,0 I4 petrol turbo;11.490.000;I4 2,0 l turbo bensín;300;8,3;;8 gíra sjálfskipting;AWD;5;278
+;Jaguar;F-Pace;Pure 2,0 I4 petrol turbo;11.590.000;I4 2,0 l turbo bensín;300;8,3;;8 gíra sjálfskipting;AWD;5;274
+;Jaguar;F-Pace;Pure 3,0 I6 diesel turbo;10.590.000;I6 3,0 l turbo dísil;300;6,5;;8 gíra sjálfskipting;AWD;5;265
+;Jaguar;F-Pace;Pure 3,0 I6 diesel turbo;11.490.000;I6 3,0 l turbo dísil;300;6,5;;8 gíra sjálfskipting;AWD;5;269
+;Jaguar;F-Pace;Pure 3,0 I6 diesel turbo;11.890.000;I6 3,0 l turbo dísil;300;6,5;;8 gíra sjálfskipting;AWD;5;277
+;Jaguar;F-Pace;Pure 3,0 I6 diesel turbo;12.090.000;I6 3,0 l turbo dísil;300;6,5;;8 gíra sjálfskipting;AWD;5;273
+;Jaguar;F-Pace;Pure 3,0 I6 diesel turbo;13.190.000;I6 3,0 l turbo dísil;300;6,5;;8 gíra sjálfskipting;AWD;5;279
+XJR;;;;;;;;;;;;
+;Jaguar;XJR;R 5,0 l petrol supercharged RWD;29.390.000;V6 3,0 l supercharged bensín;575;11,1;;8 gíra sjálfskipting;RWD;5;310
+F-type R coupe;;;;;;;;;;;;
+;Jaguar;F-type R coupe;R 5,0 l supercharged AWD;25.390.000;V8 5,0 l supercharged bensín;550;11,3;;8 gíra sjálfskipting;AWD;2;295
+F-type R convertible;;;;;;;;;;;;
+;Jaguar;F-type R convertible;R 5,0 l supercharged AWD;26.890.000;V8 5,0 l supercharged bensín;550;11,3;;8 gíra sjálfskipting;AWD;2;294
+F-type SVR coupe;;;;;;;;;;;;
+;Jaguar;F-type SVR coupe;SVR 5,0 l supercharged AWD;30.190.000;V8 5,0 l supercharged bensín;575;11,3;;8 gíra sjálfskipting;AWD;2;297
+F-type SVR convertible;;;;;;;;;;;;
+;Jaguar;F-type SVR convertible;SVR 5,0 l supercharged AWD;31.690.000;V8 5,0 l supercharged bensín;575;11,3;;8 gíra sjálfskipting;AWD;2;296
+Renegade;;;;;;;;;;;;
+;Jeep;Renegade;Limited;5.890.000;I4 2,0 l turbo dísil;140;6,3;;9 gíra sjálfskipting;AWD;5;317
+;Jeep;Renegade;Longitude;4.390.000;I4 2,0 l turbo dísil;140;5,5;;6 gíra beinskipting;AWD;5;316
+;Jeep;Renegade;Trailhawk;5.970.000;I4 2,0 l turbo dísil;170;6,6;;9 gíra sjálfskipting;AWD;5;318
+Compass 4Xe;;;;;;;;;;;;
+;Jeep;Compass 4Xe;Limited;5.999.000;I4 1,3 l turbo bensín + 13 kWh rafhlaða, rafmótor;190;1,9;50;6 gíra DCT sjálfskipting;AWD;5;
+;Jeep;Compass 4Xe;S;6.599.000;I4 1,3 l turbo bensín + 13 kWh rafhlaða, rafmótor;240;2,0;50;6 gíra DCT sjálfskipting;AWD;5;
+;Jeep;Compass 4Xe;Trailhawk;4.999.000;I4 1,3 l turbo bensín + 13 kWh rafhlaða, rafmótor;240;2,0;50;6 gíra DCT sjálfskipting;AWD;5;
+Compass;;;;;;;;;;;;
+;Jeep;Compass;Limited;6.550.000;I4 2,0 l turbo dísil;140;6,3;;9 gíra sjálfskipting;AWD;5;313
+Cherokee;;;;;;;;;;;;
+;Jeep;Cherokee;Overland;12.390.000;I4 2,2 l turbo dísil;195;5,7;;9 gíra sjálfskipting;AWD;5;311
+;Jeep;Cherokee;Overland security pack + Harman Kardon;12.990.000;I4 2,2 l turbo dísil;195;5,7;;9 gíra sjálfskipting;AWD;5;311
+;Jeep;Cherokee;Trailhawk;11.690.000;I4 2,2 l turbo dísil;195;6,9;;9 gíra sjálfskipting;AWD;5;312
+;Jeep;Cherokee;Trailhawk Panorama;11.990.000;I4 2,2 l turbo dísil;195;5,7;;9 gíra sjálfskipting;AWD;5;311
+Grand Cherokee;;;;;;;;;;;;
+;Jeep;Grand Cherokee;Overland;12.490.000;V6 3,0 l turbo dísil;250;7,0;;8 gíra sjálfskipting;AWD;5;315
+;Jeep;Grand Cherokee;Trailhawk;11.490.000;V6 3,0 l turbo dísil;250;7,0;;8 gíra sjálfskipting;AWD;5;314
+Wrangler;;;;;;;;;;;;
+;Jeep;Wrangler;Rubicon 2,0 petrol;10.990.000;I4 2,0 l turbo bensín;232;10,0;;8 gíra sjálfskipting;AWD;5;319
+;Jeep;Wrangler;Rubicon 2,0 petrol;12.790.000;I4 2,0 l turbo bensín;232;10,0;;8 gíra sjálfskipting;AWD;5;319
+;Jeep;Wrangler;Rubicon 2,2 diesel;13.370.000;I4 2,2 l dísil;200;7,7;;8 gíra sjálfskipting;AWD;5;320
+Renegade 4Xe;;;;;;;;;;;;
+;Jeep;Renegade 4Xe;Trailhawk;5.499.000;I4 1,3 l turbo bensín + 11 kWh rafhlaða, rafmótor;240;2,0;50;6 gíra DCT sjálfskipting;AWD;5;
+Rio;;;;;;;;;;;;
+;Kia;Rio;Classic;2.990.777;I3 1,0 l turbo bensín;100;4,1;;5 gíra beinskipting;FWD;5;350
+;Kia;Rio;GT Line;4.050.777;I3 1,0 l turbo bensín;120;5,1;;7 gíra sjálfskipting;FWD;5;353
+;Kia;Rio;Style;3.650.777;I3 1,0 l turbo bensín;120;5,1;;7 gíra sjálfskipting;FWD;5;352
+;Kia;Rio;Urban;3.390.777;I3 1,0 l turbo bensín;120;5,1;;7 gíra sjálfskipting;FWD;5;351
+Ceed 5 door;;;;;;;;;;;;
+;Kia;Ceed 5 door;Classic;3.690.777;I3 1,0 l turbo bensín;120;5,5;;6 gíra beinskipting;FWD;5;321
+;Kia;Ceed 5 door;Style;4.890.777;I4 1,4 l turbo bensín;140;5,7;;7 gíra DCT sjálfskipting;FWD;5;323
+;Kia;Ceed 5 door;Urban;4.390.777;I4 1,4 l turbo bensín;140;5,7;;7 gíra DCT sjálfskipting;FWD;5;322
+Ceed sportswagon;;;;;;;;;;;;
+;Kia;Ceed sportswagon;Classic;3.890.777;I3 1,0 l turbo bensín;120;5,5;;6 gíra beinskipting;FWD;5;326
+;Kia;Ceed sportswagon;Urban;4.590.777;I4 1,4 l turbo bensín;141;5,7;;7 gíra DCT sjálfskipting;FWD;5;327
+Picanto;;;;;;;;;;;;
+;Kia;Picanto;Classic 1,0;2.190.777;I3 1,0 l bensín;67;4,2;;5 gíra beinskipting;FWD;5;343
+;Kia;Picanto;GT Line 1,0;2.990.777;I3 1,0 l turbo bensín;100;4,5;;5 gíra beinskipting;FWD;5;347
+;Kia;Picanto;Style 1,0;2.590.777;I3 1,0 l bensín;67;4,2;;5 gíra beinskipting;FWD;5;345
+;Kia;Picanto;Style 1,2;2.890.777;I4 1,2 l bensín;84;5,4;;6 gíra sjálfskipting;FWD;5;346
+;Kia;Picanto;Urban 1,0;2.390.777;I3 1,0 l bensín;67;4,2;;5 gíra beinskipting;FWD;5;344
+Optima plug-in hybrid 4-door;;;;;;;;;;;;
+;Kia;Optima plug-in hybrid 4-door;EX;5.250.777;I4 2,0 l bensín + 10 kWh rafhlaða, rafmótor;205;2,3;58;6 gíra sjálfskipting;FWD;5;338
+;Kia;Optima plug-in hybrid 4-door;Luxury;5.590.777;I4 2,0 l bensín + 10 kWh rafhlaða, rafmótor;205;2,3;58;6 gíra sjálfskipting;FWD;5;339
+Optima plug-in hybrid sportswagon;;;;;;;;;;;;
+;Kia;Optima plug-in hybrid sportswagon;EX;5.450.777;I4 2,0 l bensín + 11 kWh rafhlaða, rafmótor;205;1,5;64;6 gíra sjálfskipting;FWD;5;340
+ProCeed GT;;;;;;;;;;;;
+;Kia;ProCeed GT;GT;6.140.777;I4 1,6 l turbo bensín;204;6,2;;7 gíra DCT sjálfskipting;FWD;5;349
+Stinger GT;;;;;;;;;;;;
+;Kia;Stinger GT;GT;11.770.777;V6 3,3 l twin turbo bensín;370;10,6;;8 gíra sjálfskipting;AWD;5;364
+ProCeed;;;;;;;;;;;;
+;Kia;ProCeed;GT Line;5.440.777;I4 1,4 l turbo bensín;140;5,7;;7 gíra DCT sjálfskipting;FWD;5;348
+Sportage MHEV;;;;;;;;;;;;
+;Kia;Sportage MHEV;GT Line 4WD;7.490.000;I4 2,0 l mild hybrid bensín;184;5,7;;8 gíra sjálfskipting;AWD;5;363
+Niro plug-in hybrid;;;;;;;;;;;;
+;Kia;Niro plug-in hybrid;Luxury;5.790.777;I4 1,6 l bensín + 9 kWh rafhlaða, rafmótor;141;1,3;58;6 gíra DCT sjálfskipting;FWD;5;337
+;Kia;Niro plug-in hybrid;Style;5.490.777;I4 1,6 l bensín + 9 kWh rafhlaða, rafmótor;141;1,3;58;6 gíra DCT sjálfskipting;FWD;5;336
+;Kia;Niro plug-in hybrid;Urban;5.090.777;I4 1,6 l bensín + 9 kWh rafhlaða, rafmótor;141;1,3;58;6 gíra DCT sjálfskipting;FWD;5;335
+Optima sportswagon;;;;;;;;;;;;
+;Kia;Optima sportswagon;Luxury;6.330.777;I4 1,6 l turbo bensín;136;4,7;;7 gíra DCT sjálfskipting;FWD;5;342
+Sorento;;;;;;;;;;;;
+;Kia;Sorento;Luxury;8.790.777;I4 2,2 l turbo dísil;200;6,5;;8 gíra sjálfskipting;AWD;5;356
+;Kia;Sorento;Luxury 7 seater;8.690.777;I4 2,2 l turbo dísil;200;6,5;;8 gíra sjálfskipting;AWD;7;357
+;Kia;Sorento;Style;8.390.777;I4 2,2 l turbo dísil;200;6,2;;8 gíra sjálfskipting;AWD;5;354
+;Kia;Sorento;Style 7 seater;8.560.777;I4 2,2 l turbo dísil;200;6,2;;8 gíra sjálfskipting;AWD;7;355
+Sportage;;;;;;;;;;;;
+;Kia;Sportage;Luxury 4WD;7.150.777;I4 1,6 l turbo dísil;133;5,1;;7 gíra DCT sjálfskipting;AWD;5;362
+;Kia;Sportage;Style 4WD;6.650.777;I4 1,6 l turbo dísil;133;5,1;;7 gíra DCT sjálfskipting;AWD;5;362
+;Kia;Sportage;Urban;5.450.777;I4 1,6 l turbo dísil;133;4,7;;7 gíra DCT sjálfskipting;FWD;5;359
+;Kia;Sportage;Urban 4WD;6.250.777;I4 1,6 l turbo dísil;133;5,1;;7 gíra DCT sjálfskipting;AWD;5;360
+;Kia;Sportage;Urban Plus 4WD;6.390.777;I4 1,6 l turbo dísil;133;5,1;;7 gíra DCT sjálfskipting;AWD;5;361
+Stonic;;;;;;;;;;;;
+;Kia;Stonic;Luxury automatic;4.490.777;I3 1,0 l turbo bensín;120;5,2;;7 gíra DCT sjálfskipting;FWD;5;368
+;Kia;Stonic;Style automatic;4.190.777;I3 1,0 l turbo bensín;120;5,2;;7 gíra DCT sjálfskipting;FWD;5;367
+;Kia;Stonic;Urban;3.790.777;I3 1,0 l turbo bensín;120;5,0;;6 gíra beinskipting;FWD;5;365
+;Kia;Stonic;Urban automatic;3.990.777;I3 1,0 l turbo bensín;120;5,2;;7 gíra DCT sjálfskipting;FWD;5;366
+Ceed plug-in sportswagon;;;;;;;;;;;;
+;Kia;Ceed plug-in sportswagon;Style;5.090.777;I4 1,6 l bensín + 9 kWh rafhlaða, rafmótor;141;1,4;60;6 gíra DCT sjálfskipting;FWD;5;325
+;Kia;Ceed plug-in sportswagon;Urban;4.690.777;I4 1,6 l bensín + 9 kWh rafhlaða, rafmótor;141;1,4;60;6 gíra DCT sjálfskipting;FWD;5;324
+Niro;;;;;;;;;;;;
+;Kia;Niro;Style;5.090.777;I4 1,6 l hybrid bensín;141;3,8;;6 gíra DCT sjálfskipting;FWD;5;334
+;Kia;Niro;Urban;4.690.777;I4 1,6 l hybrid bensín;141;3,8;;6 gíra DCT sjálfskipting;FWD;5;333
+XCeed plug-in;;;;;;;;;;;;
+;Kia;XCeed plug-in;Style;5.190.777;I4 1,6 l bensín + 9 kWh rafhlaða, rafmótor;141;1,4;58;6 gíra DCT sjálfskipting;FWD;5;373
+;Kia;XCeed plug-in;Urban;4.790.777;I4 1,6 l bensín + 9 kWh rafhlaða, rafmótor;141;1,4;58;6 gíra DCT sjálfskipting;FWD;5;372
+XCeed;;;;;;;;;;;;
+;Kia;XCeed;Style 1,4;5.490.777;I4 1,4 l turbo bensín;140;5,7;;7 gíra DCT sjálfskipting;FWD;5;371
+;Kia;XCeed;Urban 1,0;4.290.777;I3 1,0 l turbo bensín;120;5,4;;6 gíra beinskipting;FWD;5;369
+;Kia;XCeed;Urban 1,4;4.790.777;I4 1,4 l turbo bensín;140;5,7;;7 gíra DCT sjálfskipting;FWD;5;370
+e-Soul;;;;;;;;;;;;
+;Kia;e-Soul;Style 64 kWh;6.290.777;64 kWh rafhlaða, rafmótor;204;;452;1 gíra sjálfskipting;FWD;5;332
+;Kia;e-Soul;Urban 39 kWh;5.490.777;39 kWh rafhlaða, rafmótor;136;;277;1 gíra sjálfskipting;FWD;5;331
+e-Niro;;;;;;;;;;;;
+;Kia;e-Niro;Style 64 kWh;6.390.777;64 kWh rafhlaða, rafmótor;204;;455;1 gíra sjálfskipting;FWD;5;330
+;Kia;e-Niro;Urban 39 kWh;5.590.777;39 kWh rafhlaða, rafmótor;136;;289;1 gíra sjálfskipting;FWD;5;328
+;Kia;e-Niro;Urban 64 kWh;6.090.777;64 kWh rafhlaða, rafmótor;204;;455;1 gíra sjálfskipting;FWD;5;329
+Range Rover PHEV long wheelbase;;;;;;;;;;;;
+;Land Rover;Range Rover PHEV long wheelbase;Autobiography;20.690.000;I4 2,0 l turbo petrol + 13 kWh rafhlaða, rafmótor;404;3,2;40;8 gíra sjálfskipting;AWD;5;471
+;Land Rover;Range Rover PHEV long wheelbase;SV Autobiography;31.990.000;I4 2,0 l turbo petrol + 13 kWh rafhlaða, rafmótor;404;3,2;40;8 gíra sjálfskipting;AWD;5;472
+;Land Rover;Range Rover PHEV long wheelbase;Vogue;23.390.000;I4 2,0 l turbo petrol + 13 kWh rafhlaða, rafmótor;404;3,2;40;8 gíra sjálfskipting;AWD;5;470
+Range Rover PHEV;;;;;;;;;;;;
+;Land Rover;Range Rover PHEV;Autobiography;22.490.000;I4 2,0 l turbo petrol + 12 kWh rafhlaða, rafmótor;404;3,1;40;8 gíra sjálfskipting;AWD;5;469
+;Land Rover;Range Rover PHEV;Vogue;19.690.000;I4 2,0 l turbo petrol + 12 kWh rafhlaða, rafmótor;404;3,1;40;8 gíra sjálfskipting;AWD;5;468
+Range Rover Sport PHEV;;;;;;;;;;;;
+;Land Rover;Range Rover Sport PHEV;Autobiography Dynamic;17.390.000;I4 2,0 l bensín + 13 kWh rafhlaða, rafmótor;404;3,2;51;8 gíra sjálfskipting;AWD;5;491
+;Land Rover;Range Rover Sport PHEV;HSE;14.990.000;I4 2,0 l bensín + 13 kWh rafhlaða, rafmótor;404;3,2;51;8 gíra sjálfskipting;AWD;5;489
+;Land Rover;Range Rover Sport PHEV;HSE Dynamic;15.590.000;I4 2,0 l bensín + 13 kWh rafhlaða, rafmótor;404;3,2;51;8 gíra sjálfskipting;AWD;5;490
+;Land Rover;Range Rover Sport PHEV;SE;14.390.000;I4 2,0 l bensín + 13 kWh rafhlaða, rafmótor;404;3,2;51;8 gíra sjálfskipting;AWD;5;488
+Range Rover Sport;;;;;;;;;;;;
+;Land Rover;Range Rover Sport;Autobiography Dynamic SDV6;20.290.000;V6 3,0 l twin turbo dísil;306;7,5;;8 gíra sjálfskipting;AWD;5/7;485
+;Land Rover;Range Rover Sport;Autobiography Dynamic SDV8;23.290.000;V8 4,4 l twin turbo bensín;339;9,3;;8 gíra sjálfskipting;AWD;5/7;486
+;Land Rover;Range Rover Sport;Autobiography Dynamic SiV8;26.390.000;V8 5,0 l supercharged bensín;525;13,3;;8 gíra sjálfskipting;AWD;5/7;487
+;Land Rover;Range Rover Sport;HSE Dynamic SDV6;17.990.000;V6 3,0 l twin turbo dísil;306;7,5;;8 gíra sjálfskipting;AWD;5/7;482
+;Land Rover;Range Rover Sport;HSE Dynamic SDV8;21.090.000;V8 4,4 l twin turbo bensín;339;9,3;;8 gíra sjálfskipting;AWD;5/7;483
+;Land Rover;Range Rover Sport;HSE Dynamic SiV8;23.290.000;V8 5,0 l supercharged bensín;525;13,3;;8 gíra sjálfskipting;AWD;5/7;484
+;Land Rover;Range Rover Sport;HSE Dynamic TDV6;16.890.000;V6 3,0 l turbo dísil;249;7,5;;8 gíra sjálfskipting;AWD;5/7;481
+;Land Rover;Range Rover Sport;HSE SDV6;17.490.000;V6 3,0 l twin turbo dísil;306;7,5;;8 gíra sjálfskipting;AWD;5/7;479
+;Land Rover;Range Rover Sport;HSE Si4;17.890.000;I4 2,0 l turbo bensín;300;9,6;;8 gíra sjálfskipting;AWD;5/7;480
+;Land Rover;Range Rover Sport;HSE TDV6;16.290.000;V6 3,0 l turbo dísil;249;7,5;;8 gíra sjálfskipting;AWD;5/7;478
+;Land Rover;Range Rover Sport;S Si4;15.690.000;I4 2,0 l turbo bensín;300;9,6;;8 gíra sjálfskipting;AWD;5/7;474
+;Land Rover;Range Rover Sport;S TDV6;14.690.000;V6 3,0 l turbo dísil;249;7,5;;8 gíra sjálfskipting;AWD;5;473
+;Land Rover;Range Rover Sport;SE SDV6;16.390.000;V6 3,0 l twin turbo dísil;306;7,5;;8 gíra sjálfskipting;AWD;5/7;476
+;Land Rover;Range Rover Sport;SE Si4;16.690.000;I4 2,0 l turbo bensín;300;9,6;;8 gíra sjálfskipting;AWD;5/7;477
+;Land Rover;Range Rover Sport;SE TDV6;15.190.000;V6 3,0 l turbo dísil;249;7,5;;8 gíra sjálfskipting;AWD;5/7;475
+Range Rover;;;;;;;;;;;;
+;Land Rover;Range Rover;Autobiography SDV6;25.990.000;V6 3,0 l turbo dísil;275;7,6;;8 gíra sjálfskipting;AWD;5;413
+;Land Rover;Range Rover;Autobiography SDV8;31.090.000;V8 4,4 l turbo dísil;339;9,3;;8 gíra sjálfskipting;AWD;5;414
+;Land Rover;Range Rover;Autobiography SPV8;33.490.000;V8 5,0 l supercharged bensín;525;13,3;;8 gíra sjálfskipting;AWD;5;415
+;Land Rover;Range Rover;HSE SDV6;21.190.000;V6 3,0 l turbo dísil;275;7,6;;8 gíra sjálfskipting;AWD;5;409
+;Land Rover;Range Rover;SV Autobiography Dynamic SPV8;41.790.000;V8 5,0 l supercharged bensín;565;13,5;;8 gíra sjálfskipting;AWD;5;416
+;Land Rover;Range Rover;Vogue SDV6;22.390.000;V6 3,0 l turbo dísil;275;7,6;;8 gíra sjálfskipting;AWD;5;410
+;Land Rover;Range Rover;Vogue SDV8;27.090.000;V8 4,4 l turbo dísil;339;9,3;;8 gíra sjálfskipting;AWD;5;411
+;Land Rover;Range Rover;Vogue SPV8;29.390.000;V8 5,0 l supercharged bensín;525;13,3;;8 gíra sjálfskipting;AWD;5;412
+Range Rover Velar;;;;;;;;;;;;
+;Land Rover;Range Rover Velar;Base D180;10.990.000;I4 2,0 l turbo dísil;180;5,4;;8 gíra sjálfskipting;AWD;5;493
+;Land Rover;Range Rover Velar;HSE D180;14.190.000;I4 2,0 l turbo dísil;180;5,4;;8 gíra sjálfskipting;AWD;5;504
+;Land Rover;Range Rover Velar;HSE D240;15.890.000;I4 2,0 l turbo dísil;240;5,8;;8 gíra sjálfskipting;AWD;5;505
+;Land Rover;Range Rover Velar;HSE D300;16.690.000;V6 3,0 l turbo dísil;300;6,4;;8 gíra sjálfskipting;AWD;5;506
+;Land Rover;Range Rover Velar;HSE P250;15.090.000;I4 2,0 l turbo bensín;250;7,6;;8 gíra sjálfskipting;AWD;5;507
+;Land Rover;Range Rover Velar;HSE P300;16.290.000;I4 2,0 l turbo bensín;300;7,8;;8 gíra sjálfskipting;AWD;5;508
+;Land Rover;Range Rover Velar;R-Dynamic Base D180;11.690.000;I4 2,0 l turbo dísil;180;5,4;;8 gíra sjálfskipting;AWD;5;509
+;Land Rover;Range Rover Velar;R-Dynamic HSE D180;14.790.000;I4 2,0 l turbo dísil;180;5,4;;8 gíra sjálfskipting;AWD;5;520
+;Land Rover;Range Rover Velar;R-Dynamic HSE D240;16.590.000;I4 2,0 l turbo dísil;240;5,8;;8 gíra sjálfskipting;AWD;5;521
+;Land Rover;Range Rover Velar;R-Dynamic HSE D300;17.290.000;V6 3,0 l turbo dísil;300;6,4;;8 gíra sjálfskipting;AWD;5;522
+;Land Rover;Range Rover Velar;R-Dynamic HSE P250;15.690.000;I4 2,0 l turbo bensín;250;7,6;;8 gíra sjálfskipting;AWD;5;523
+;Land Rover;Range Rover Velar;R-Dynamic HSE P300;16.990.000;I4 2,0 l turbo bensín;300;7,8;;8 gíra sjálfskipting;AWD;5;524
+;Land Rover;Range Rover Velar;R-Dynamic S D180;12.690.000;I4 2,0 l turbo dísil;180;5,4;;8 gíra sjálfskipting;AWD;5;510
+;Land Rover;Range Rover Velar;R-Dynamic S D240;14.390.000;I4 2,0 l turbo dísil;240;5,8;;8 gíra sjálfskipting;AWD;5;511
+;Land Rover;Range Rover Velar;R-Dynamic S D300;15.290.000;V6 3,0 l turbo dísil;300;6,4;;8 gíra sjálfskipting;AWD;5;512
+;Land Rover;Range Rover Velar;R-Dynamic S P250;13.490.000;I4 2,0 l turbo bensín;250;7,6;;8 gíra sjálfskipting;AWD;5;513
+;Land Rover;Range Rover Velar;R-Dynamic S P300;14.690.000;I4 2,0 l turbo bensín;300;7,8;;8 gíra sjálfskipting;AWD;5;514
+;Land Rover;Range Rover Velar;R-Dynamic SE D180;13.390.000;I4 2,0 l turbo dísil;180;5,4;;8 gíra sjálfskipting;AWD;5;515
+;Land Rover;Range Rover Velar;R-Dynamic SE D240;15.090.000;I4 2,0 l turbo dísil;240;5,8;;8 gíra sjálfskipting;AWD;5;516
+;Land Rover;Range Rover Velar;R-Dynamic SE D300;15.990.000;V6 3,0 l turbo dísil;300;6,4;;8 gíra sjálfskipting;AWD;5;517
+;Land Rover;Range Rover Velar;R-Dynamic SE P250;14.190.000;I4 2,0 l turbo bensín;250;7,6;;8 gíra sjálfskipting;AWD;5;518
+;Land Rover;Range Rover Velar;R-Dynamic SE P300;15.390.000;I4 2,0 l turbo bensín;300;7,8;;8 gíra sjálfskipting;AWD;5;519
+;Land Rover;Range Rover Velar;S D180;12.090.000;I4 2,0 l turbo dísil;180;5,4;;8 gíra sjálfskipting;AWD;5;494
+;Land Rover;Range Rover Velar;S D240;13.690.000;I4 2,0 l turbo dísil;240;5,8;;8 gíra sjálfskipting;AWD;5;495
+;Land Rover;Range Rover Velar;S D300;14.690.000;V6 3,0 l turbo dísil;300;6,4;;8 gíra sjálfskipting;AWD;5;496
+;Land Rover;Range Rover Velar;S P250;12.890.000;I4 2,0 l turbo bensín;250;7,6;;8 gíra sjálfskipting;AWD;5;497
+;Land Rover;Range Rover Velar;S P300;10.090.000;I4 2,0 l turbo bensín;300;7,8;;8 gíra sjálfskipting;AWD;5;498
+;Land Rover;Range Rover Velar;SE D180;12.790.000;I4 2,0 l turbo dísil;180;5,4;;8 gíra sjálfskipting;AWD;5;499
+;Land Rover;Range Rover Velar;SE D240;14.390.000;I4 2,0 l turbo dísil;240;5,8;;8 gíra sjálfskipting;AWD;5;500
+;Land Rover;Range Rover Velar;SE D300;15.390.000;V6 3,0 l turbo dísil;300;6,4;;8 gíra sjálfskipting;AWD;5;501
+;Land Rover;Range Rover Velar;SE P250;13.590.000;I4 2,0 l turbo bensín;250;7,6;;8 gíra sjálfskipting;AWD;5;502
+;Land Rover;Range Rover Velar;SE P300;14.790.000;I4 2,0 l turbo bensín;300;7,8;;8 gíra sjálfskipting;AWD;5;503
+Defender 110;;;;;;;;;;;;
+;Land Rover;Defender 110;Base D240;12.790.000;I4 2,0 l turbo bensín;240;8,9;;8 gíra sjálfskipting;AWD;7;
+;Land Rover;Defender 110;First Edition D240;15.990.000;I4 2,0 l turbo bensín;240;8,9;;8 gíra sjálfskipting;AWD;7;
+;Land Rover;Defender 110;HSE D240;16.190.000;I4 2,0 l turbo bensín;240;8,9;;8 gíra sjálfskipting;AWD;7;
+;Land Rover;Defender 110;S D240;13.890.000;I4 2,0 l turbo bensín;240;8,9;;8 gíra sjálfskipting;AWD;7;
+;Land Rover;Defender 110;SE D240;14.890.000;I4 2,0 l turbo bensín;240;8,9;;8 gíra sjálfskipting;AWD;7;
+Defender 110 MHEV;;;;;;;;;;;;
+;Land Rover;Defender 110 MHEV;Base P400;15.690.000;I6 3,0 l twin turbo mild hybrid bensín;400;11,2;;8 gíra sjálfskipting;AWD;7;
+;Land Rover;Defender 110 MHEV;First Edition P400;18.790.000;I6 3,0 l twin turbo mild hybrid bensín;400;11,2;;8 gíra sjálfskipting;AWD;7;
+;Land Rover;Defender 110 MHEV;HSE P400;18.890.000;I6 3,0 l twin turbo mild hybrid bensín;400;11,2;;8 gíra sjálfskipting;AWD;7;
+;Land Rover;Defender 110 MHEV;S P400;16.490.000;I6 3,0 l twin turbo mild hybrid bensín;400;11,2;;8 gíra sjálfskipting;AWD;7;
+;Land Rover;Defender 110 MHEV;SE P400;17.490.000;I6 3,0 l twin turbo mild hybrid bensín;400;11,2;;8 gíra sjálfskipting;AWD;7;
+;Land Rover;Defender 110 MHEV;X P400;22.190.000;I6 3,0 l twin turbo mild hybrid bensín;400;11,2;;8 gíra sjálfskipting;AWD;7;
+Discovery;;;;;;;;;;;;
+;Land Rover;Discovery;HSE 2,0 diesel;15.090.000;I4 2,0 l twin turbo dísil;240;7,4;;8 gíra sjálfskipting;AWD;7;379
+;Land Rover;Discovery;HSE 2,0 petrol;15.590.000;I4 2,0 l turbo bensín;300;9,6;;8 gíra sjálfskipting;AWD;7;381
+;Land Rover;Discovery;HSE 3,0 diesel;16.390.000;V6 3,0 l twin turbo dísil;306;7,5;;8 gíra sjálfskipting;AWD;7;380
+;Land Rover;Discovery;HSE Luxury 2,0 diesel;16.790.000;I4 2,0 l twin turbo dísil;240;7,4;;8 gíra sjálfskipting;AWD;7;382
+;Land Rover;Discovery;HSE Luxury 2,0 petrol;17.290.000;I4 2,0 l turbo bensín;300;9,6;;8 gíra sjálfskipting;AWD;7;384
+;Land Rover;Discovery;HSE Luxury 3,0 diesel;17.990.000;V6 3,0 l twin turbo dísil;306;7,5;;8 gíra sjálfskipting;AWD;7;383
+;Land Rover;Discovery;S 2,0 diesel;11.690.000;I4 2,0 l twin turbo dísil;240;7,4;;8 gíra sjálfskipting;AWD;5/7;374
+;Land Rover;Discovery;S 2,0 petrol;12.390.000;I4 2,0 l turbo bensín;300;9,6;;8 gíra sjálfskipting;AWD;6/7;375
+;Land Rover;Discovery;SE 2,0 diesel;13.390.000;I4 2,0 l twin turbo dísil;240;7,4;;8 gíra sjálfskipting;AWD;7;376
+;Land Rover;Discovery;SE 2,0 petrol;12.990.000;I4 2,0 l turbo bensín;300;9,6;;8 gíra sjálfskipting;AWD;7;378
+;Land Rover;Discovery;SE 3,0 diesel;14.290.000;V6 3,0 l twin turbo dísil;306;7,5;;8 gíra sjálfskipting;AWD;7;377
+Discovery Sport MHEV;;;;;;;;;;;;
+;Land Rover;Discovery Sport MHEV;HSE 7 seater D150;9.690.000;I4 2,0 l turbo mild hybrid dísil;150;5,6;;8 gíra sjálfskipting;AWD;7;406
+;Land Rover;Discovery Sport MHEV;HSE 7 seater D180;10.090.000;I4 2,0 l turbo mild hybrid dísil;180;5,7;;8 gíra sjálfskipting;AWD;7;407
+;Land Rover;Discovery Sport MHEV;HSE 7 seater P200;10.690.000;I4 2,0 l twin turbo mild hybrid bensín;200;7,9;;8 gíra sjálfskipting;AWD;7;408
+;Land Rover;Discovery Sport MHEV;HSE D150;10.390.000;I4 2,0 l turbo mild hybrid dísil;150;5,5;;8 gíra sjálfskipting;AWD;5;394
+;Land Rover;Discovery Sport MHEV;HSE D180;10.890.000;I4 2,0 l turbo mild hybrid dísil;180;5,5;;8 gíra sjálfskipting;AWD;5;395
+;Land Rover;Discovery Sport MHEV;HSE P200;11.590.000;I4 2,0 l twin turbo mild hybrid bensín;200;7,8;;8 gíra sjálfskipting;AWD;5;396
+;Land Rover;Discovery Sport MHEV;S 7 seater D150;8.090.000;I4 2,0 l turbo mild hybrid dísil;150;5,6;;8 gíra sjálfskipting;AWD;7;400
+;Land Rover;Discovery Sport MHEV;S 7 seater D180;8.490.000;I4 2,0 l turbo mild hybrid dísil;180;5,7;;8 gíra sjálfskipting;AWD;7;401
+;Land Rover;Discovery Sport MHEV;S 7 seater P200;4.990.000;I4 2,0 l twin turbo mild hybrid bensín;200;7,9;;8 gíra sjálfskipting;AWD;7;402
+;Land Rover;Discovery Sport MHEV;S D150;8.590.000;I4 2,0 l turbo mild hybrid dísil;150;5,5;;8 gíra sjálfskipting;AWD;5;388
+;Land Rover;Discovery Sport MHEV;S D180;9.190.000;I4 2,0 l turbo mild hybrid dísil;180;5,5;;8 gíra sjálfskipting;AWD;5;389
+;Land Rover;Discovery Sport MHEV;S P200;9.690.000;I4 2,0 l twin turbo mild hybrid bensín;200;7,8;;8 gíra sjálfskipting;AWD;5;390
+;Land Rover;Discovery Sport MHEV;SE 7 seater D150;8.790.000;I4 2,0 l turbo mild hybrid dísil;150;5,6;;8 gíra sjálfskipting;AWD;7;403
+;Land Rover;Discovery Sport MHEV;SE 7 seater D180;9.190.000;I4 2,0 l turbo mild hybrid dísil;180;5,7;;8 gíra sjálfskipting;AWD;7;404
+;Land Rover;Discovery Sport MHEV;SE 7 seater P200;9.690.000;I4 2,0 l twin turbo mild hybrid bensín;200;7,9;;8 gíra sjálfskipting;AWD;7;405
+;Land Rover;Discovery Sport MHEV;SE D150;9.390.000;I4 2,0 l turbo mild hybrid dísil;150;5,5;;8 gíra sjálfskipting;AWD;5;391
+;Land Rover;Discovery Sport MHEV;SE D180;9.890.000;I4 2,0 l turbo mild hybrid dísil;180;5,5;;8 gíra sjálfskipting;AWD;5;392
+;Land Rover;Discovery Sport MHEV;SE P200;10.490.000;I4 2,0 l twin turbo mild hybrid bensín;200;7,8;;8 gíra sjálfskipting;AWD;5;393
+;Land Rover;Discovery Sport MHEV;Standard 7 seater D150;7.190.000;I4 2,0 l turbo mild hybrid dísil;150;5,6;;8 gíra sjálfskipting;AWD;7;397
+;Land Rover;Discovery Sport MHEV;Standard 7 seater D180;7.590.000;I4 2,0 l turbo mild hybrid dísil;180;5,7;;8 gíra sjálfskipting;AWD;7;398
+;Land Rover;Discovery Sport MHEV;Standard 7 seater P200;7.990.000;I4 2,0 l twin turbo mild hybrid bensín;200;7,9;;8 gíra sjálfskipting;AWD;7;399
+;Land Rover;Discovery Sport MHEV;Standard D150;7.590.000;I4 2,0 l turbo mild hybrid dísil;150;5,5;;8 gíra sjálfskipting;AWD;5;385
+;Land Rover;Discovery Sport MHEV;Standard D180;8.190.000;I4 2,0 l turbo mild hybrid dísil;180;5,5;;8 gíra sjálfskipting;AWD;5;386
+;Land Rover;Discovery Sport MHEV;Standard P200;8.590.000;I4 2,0 l twin turbo mild hybrid bensín;200;7,8;;8 gíra sjálfskipting;AWD;5;387
+Range Rover Evoque;;;;;;;;;;;;
+;Land Rover;Range Rover Evoque;HSE D150;9.590.000;I4 2,0 l turbo mild hybrid dísil;150;7,3;;9 gíra sjálfskipting;AWD;5;435
+;Land Rover;Range Rover Evoque;HSE D180;10.090.000;I4 2,0 l turbo mild hybrid dísil;180;7,3;;9 gíra sjálfskipting;AWD;5;436
+;Land Rover;Range Rover Evoque;HSE D240;10.690.000;I4 2,0 l turbo mild hybrid dísil;240;7,5;;9 gíra sjálfskipting;AWD;5;437
+;Land Rover;Range Rover Evoque;HSE P200;10.490.000;I4 2,0 l twin turbo mild hybrid bensín;200;9,8;;9 gíra sjálfskipting;AWD;5;438
+;Land Rover;Range Rover Evoque;HSE P250;11.390.000;I4 2,0 l twin turbo mild hybrid bensín;250;9,8;;9 gíra sjálfskipting;AWD;5;439
+;Land Rover;Range Rover Evoque;HSE P300;12.490.000;I4 2,0 l twin turbo mild hybrid bensín;300;9,8;;9 gíra sjálfskipting;AWD;5;440
+;Land Rover;Range Rover Evoque;R-Dynamic D150;7.390.000;I4 2,0 l turbo mild hybrid dísil;150;7,3;;9 gíra sjálfskipting;AWD;5;441
+;Land Rover;Range Rover Evoque;R-Dynamic D180;7.790.000;I4 2,0 l turbo mild hybrid dísil;180;7,3;;9 gíra sjálfskipting;AWD;5;442
+;Land Rover;Range Rover Evoque;R-Dynamic D240;8.490.000;I4 2,0 l turbo mild hybrid dísil;240;7,5;;9 gíra sjálfskipting;AWD;5;443
+;Land Rover;Range Rover Evoque;R-Dynamic HSE D150;9.990.000;I4 2,0 l turbo mild hybrid dísil;150;7,3;;9 gíra sjálfskipting;AWD;5;459
+;Land Rover;Range Rover Evoque;R-Dynamic HSE D180;10.490.000;I4 2,0 l turbo mild hybrid dísil;180;7,3;;9 gíra sjálfskipting;AWD;5;460
+;Land Rover;Range Rover Evoque;R-Dynamic HSE D240;11.090.000;I4 2,0 l turbo mild hybrid dísil;240;7,5;;9 gíra sjálfskipting;AWD;5;461
+;Land Rover;Range Rover Evoque;R-Dynamic HSE P200;10.990.000;I4 2,0 l twin turbo mild hybrid bensín;200;9,8;;9 gíra sjálfskipting;AWD;5;462
+;Land Rover;Range Rover Evoque;R-Dynamic HSE P250;11.790.000;I4 2,0 l twin turbo mild hybrid bensín;250;9,8;;9 gíra sjálfskipting;AWD;5;463
+;Land Rover;Range Rover Evoque;R-Dynamic HSE P300;12.890.000;I4 2,0 l twin turbo mild hybrid bensín;300;9,8;;9 gíra sjálfskipting;AWD;5;464
+;Land Rover;Range Rover Evoque;R-Dynamic P200;8.090.000;I4 2,0 l twin turbo mild hybrid bensín;200;9,8;;9 gíra sjálfskipting;AWD;5;444
+;Land Rover;Range Rover Evoque;R-Dynamic P250;9.090.000;I4 2,0 l twin turbo mild hybrid bensín;250;9,8;;9 gíra sjálfskipting;AWD;5;445
+;Land Rover;Range Rover Evoque;R-Dynamic P300;10.090.000;I4 2,0 l twin turbo mild hybrid bensín;300;9,8;;9 gíra sjálfskipting;AWD;5;446
+;Land Rover;Range Rover Evoque;R-Dynamic S D150;8.290.000;I4 2,0 l turbo mild hybrid dísil;150;7,3;;9 gíra sjálfskipting;AWD;5;447
+;Land Rover;Range Rover Evoque;R-Dynamic S D180;8.690.000;I4 2,0 l turbo mild hybrid dísil;180;7,3;;9 gíra sjálfskipting;AWD;5;448
+;Land Rover;Range Rover Evoque;R-Dynamic S D240;9.290.000;I4 2,0 l turbo mild hybrid dísil;240;7,5;;9 gíra sjálfskipting;AWD;5;449
+;Land Rover;Range Rover Evoque;R-Dynamic S P200;9.090.000;I4 2,0 l twin turbo mild hybrid bensín;200;9,8;;9 gíra sjálfskipting;AWD;5;450
+;Land Rover;Range Rover Evoque;R-Dynamic S P250;9.890.000;I4 2,0 l twin turbo mild hybrid bensín;250;9,8;;9 gíra sjálfskipting;AWD;5;451
+;Land Rover;Range Rover Evoque;R-Dynamic S P300;10.890.000;I4 2,0 l twin turbo mild hybrid bensín;300;9,8;;9 gíra sjálfskipting;AWD;5;452
+;Land Rover;Range Rover Evoque;R-Dynamic SE D150;9.090.000;I4 2,0 l turbo mild hybrid dísil;150;7,3;;9 gíra sjálfskipting;AWD;5;453
+;Land Rover;Range Rover Evoque;R-Dynamic SE D180;9.590.000;I4 2,0 l turbo mild hybrid dísil;180;7,3;;9 gíra sjálfskipting;AWD;5;454
+;Land Rover;Range Rover Evoque;R-Dynamic SE D240;10.190.000;I4 2,0 l turbo mild hybrid dísil;240;7,5;;9 gíra sjálfskipting;AWD;5;455
+;Land Rover;Range Rover Evoque;R-Dynamic SE P200;9.990.000;I4 2,0 l twin turbo mild hybrid bensín;200;9,8;;9 gíra sjálfskipting;AWD;5;456
+;Land Rover;Range Rover Evoque;R-Dynamic SE P250;10.790.000;I4 2,0 l twin turbo mild hybrid bensín;250;9,8;;9 gíra sjálfskipting;AWD;5;457
+;Land Rover;Range Rover Evoque;R-Dynamic SE P300;11.890.000;I4 2,0 l twin turbo mild hybrid bensín;300;9,8;;9 gíra sjálfskipting;AWD;5;458
+;Land Rover;Range Rover Evoque;S D150;7.890.000;I4 2,0 l turbo mild hybrid dísil;150;7,3;;9 gíra sjálfskipting;AWD;5;423
+;Land Rover;Range Rover Evoque;S D180;8.290.000;I4 2,0 l turbo mild hybrid dísil;180;7,3;;9 gíra sjálfskipting;AWD;5;424
+;Land Rover;Range Rover Evoque;S D240;8.890.000;I4 2,0 l turbo mild hybrid dísil;240;7,5;;9 gíra sjálfskipting;AWD;5;425
+;Land Rover;Range Rover Evoque;S P200;8.590.000;I4 2,0 l twin turbo mild hybrid bensín;200;9,8;;9 gíra sjálfskipting;AWD;5;426
+;Land Rover;Range Rover Evoque;S P250;9.490.000;I4 2,0 l twin turbo mild hybrid bensín;250;9,8;;9 gíra sjálfskipting;AWD;5;427
+;Land Rover;Range Rover Evoque;S P300;10.390.000;I4 2,0 l twin turbo mild hybrid bensín;300;9,8;;9 gíra sjálfskipting;AWD;5;428
+;Land Rover;Range Rover Evoque;SE D150;8.690.000;I4 2,0 l turbo mild hybrid dísil;150;7,3;;9 gíra sjálfskipting;AWD;5;429
+;Land Rover;Range Rover Evoque;SE D180;9.190.000;I4 2,0 l turbo mild hybrid dísil;180;7,3;;9 gíra sjálfskipting;AWD;5;430
+;Land Rover;Range Rover Evoque;SE D240;9.790.000;I4 2,0 l turbo mild hybrid dísil;240;7,5;;9 gíra sjálfskipting;AWD;5;431
+;Land Rover;Range Rover Evoque;SE P200;9.590.000;I4 2,0 l twin turbo mild hybrid bensín;200;9,8;;9 gíra sjálfskipting;AWD;5;432
+;Land Rover;Range Rover Evoque;SE P250;10.390.000;I4 2,0 l twin turbo mild hybrid bensín;250;9,8;;9 gíra sjálfskipting;AWD;5;433
+;Land Rover;Range Rover Evoque;SE P300;11.390.000;I4 2,0 l twin turbo mild hybrid bensín;300;9,8;;9 gíra sjálfskipting;AWD;5;434
+;Land Rover;Range Rover Evoque;Standard D150;6.990.000;I4 2,0 l turbo mild hybrid dísil;150;7,3;;9 gíra sjálfskipting;AWD;5;417
+;Land Rover;Range Rover Evoque;Standard D180;7.390.000;I4 2,0 l turbo mild hybrid dísil;180;7,3;;9 gíra sjálfskipting;AWD;5;418
+;Land Rover;Range Rover Evoque;Standard D240;7.990.000;I4 2,0 l turbo mild hybrid dísil;240;7,5;;9 gíra sjálfskipting;AWD;5;419
+;Land Rover;Range Rover Evoque;Standard P200;7.690.000;I4 2,0 l twin turbo mild hybrid bensín;200;9,8;;9 gíra sjálfskipting;AWD;5;420
+;Land Rover;Range Rover Evoque;Standard P250;8.590.000;I4 2,0 l twin turbo mild hybrid bensín;250;9,8;;9 gíra sjálfskipting;AWD;5;421
+;Land Rover;Range Rover Evoque;Standard P300;9.590.000;I4 2,0 l twin turbo mild hybrid bensín;300;9,8;;9 gíra sjálfskipting;AWD;5;422
+Range Rover long wheelbase;;;;;;;;;;;;
+;Land Rover;Range Rover long wheelbase;SV Autobiography SDV6;41.790.000;V6 3,0 l turbo dísil;275;7,2;;8 gíra sjálfskipting;AWD;5;465
+;Land Rover;Range Rover long wheelbase;SV Autobiography SDV8;45.090.000;V8 4,4 l turbo dísil;339;9,3;;8 gíra sjálfskipting;AWD;5;466
+;Land Rover;Range Rover long wheelbase;SV Autobiography SPV8;49.490.000;V8 5,0 l supercharged bensín;565;13,5;;8 gíra sjálfskipting;AWD;5;467
+Range Rover Sport SVR;;;;;;;;;;;;
+;Land Rover;Range Rover Sport SVR;SVR;32.290.000;V8 5,0 l supercharged bensín;575;13,4;;8 gíra sjálfskipting;AWD;5;492
+UX;;;;;;;;;;;;
+;Lexus;UX;250h Comfort;7.780.000;I4 2,0 l hybrid bensín;184;5,5;;1 gíra CVT sjálfskipting;FWD;5;554
+;Lexus;UX;250h Comfort AWD;8.450.000;I4 2,0 l hybrid bensín;184;4,5;;1 gíra CVT sjálfskipting;AWD;5;555
+;Lexus;UX;250h F Sport AWD;9.150.000;I4 2,0 l hybrid bensín;184;4,5;;1 gíra CVT sjálfskipting;AWD;5;557
+;Lexus;UX;250h Luxury AWD;10.550.000;I4 2,0 l hybrid bensín;184;4,5;;1 gíra CVT sjálfskipting;AWD;5;558
+;Lexus;UX;250h Premium AWD;10.750.000;I4 2,0 l hybrid bensín;184;4,5;;1 gíra CVT sjálfskipting;AWD;5;556
+ES hybrid;;;;;;;;;;;;
+;Lexus;ES hybrid;300h Comfort;9.230.000;I4 2,5 l hybrid bensín;218;4,2;;1 gíra CVT sjálfskipting;FWD;5;528
+;Lexus;ES hybrid;300h Exe;10.250.000;I4 2,5 l hybrid bensín;218;4,6;;1 gíra CVT sjálfskipting;FWD;5;529
+;Lexus;ES hybrid;300h F Sport;11.090.000;I4 2,5 l hybrid bensín;218;4,6;;1 gíra CVT sjálfskipting;FWD;5;530
+;Lexus;ES hybrid;300h Luxury;11.690.000;I4 2,5 l hybrid bensín;218;4,3;;1 gíra CVT sjálfskipting;FWD;5;531
+NX hybrid;;;;;;;;;;;;
+;Lexus;NX hybrid;300h Comfort;8.950.000;I4 2,5 l hybrid bensín;197;5,0;;1 gíra CVT sjálfskipting;FWD;5;541
+;Lexus;NX hybrid;300h Comfort AWD;9.560.000;I4 2,5 l hybrid bensín;197;5,2;;1 gíra CVT sjálfskipting;AWD;5;542
+;Lexus;NX hybrid;300h Exe AWD;10.590.000;I4 2,5 l hybrid bensín;197;5,2;;1 gíra CVT sjálfskipting;AWD;5;543
+;Lexus;NX hybrid;300h F Sport AWD;11.750.000;I4 2,5 l hybrid bensín;197;5,3;;1 gíra CVT sjálfskipting;AWD;5;545
+;Lexus;NX hybrid;300h Luxury AWD;12.460.000;I4 2,5 l hybrid bensín;197;5,2;;1 gíra CVT sjálfskipting;AWD;5;546
+IS hybrid;;;;;;;;;;;;
+;Lexus;IS hybrid;300h Exe;8.790.000;I4 2,5 l hybrid bensín;223;4,3;;1 gíra CVT sjálfskipting;RWD;5;533
+;Lexus;IS hybrid;300h F Sport;10.070.000;I4 2,5 l hybrid bensín;223;4,6;;1 gíra CVT sjálfskipting;RWD;5;535
+;Lexus;IS hybrid;300h Sport;8.790.000;I4 2,5 l hybrid bensín;223;4,6;;1 gíra CVT sjálfskipting;RWD;5;534
+;Lexus;IS hybrid;300h standard;7.190.000;I4 2,5 l hybrid bensín;223;4,2;;1 gíra CVT sjálfskipting;RWD;5;532
+RC hybrid;;;;;;;;;;;;
+;Lexus;RC hybrid;300h F Sport;11.750.000;I4 2,5 l hybrid bensín;223;4,9;;1 gíra CVT sjálfskipting;RWD;4;547
+RX hybrid;;;;;;;;;;;;
+;Lexus;RX hybrid;450h Comfort;12.850.000;V6 3,5 l hybrid bensín;313;5,8;;1 gíra CVT sjálfskipting;AWD;5;548
+;Lexus;RX hybrid;450h Exe;13.790.000;V6 3,5 l hybrid bensín;313;5,8;;1 gíra CVT sjálfskipting;AWD;5;549
+;Lexus;RX hybrid;450h F Sport;15.590.000;V6 3,5 l hybrid bensín;313;5,9;;1 gíra CVT sjálfskipting;AWD;5;550
+;Lexus;RX hybrid;450h Luxury;16.670.000;V6 3,5 l hybrid bensín;313;5,9;;1 gíra CVT sjálfskipting;AWD;5;551
+RX L hybrid;;;;;;;;;;;;
+;Lexus;RX L hybrid;450h Exe;14.950.000;V6 3,5 l hybrid bensín;313;5,9;;1 gíra CVT sjálfskipting;AWD;7;552
+;Lexus;RX L hybrid;450h Luxury;17.190.000;V6 3,5 l hybrid bensín;313;6,0;;1 gíra CVT sjálfskipting;AWD;7;553
+LS hybrid;;;;;;;;;;;;
+;Lexus;LS hybrid;500h Comfort;20.590.000;V6 3,5 l hybrid bensín;359;6,2;;1 gíra CVT sjálfskipting;RWD;5;537
+;Lexus;LS hybrid;500h Exe AWD;23.190.000;V6 3,5 l hybrid bensín;359;6,2;;1 gíra CVT sjálfskipting;AWD;5;538
+;Lexus;LS hybrid;500h F Sport AWD;24.990.000;V6 3,5 l hybrid bensín;359;6,2;;1 gíra CVT sjálfskipting;AWD;5;539
+;Lexus;LS hybrid;500h Luxury AWD;30.190.000;V6 3,5 l hybrid bensín;359;6,2;;1 gíra CVT sjálfskipting;AWD;5;540
+LC hybrid;;;;;;;;;;;;
+;Lexus;LC hybrid;500h Sport+;25.190.000;V6 3,5 l hybrid bensín;359;6,5;;1 gíra CVT sjálfskipting;RWD;4;536
+MX-5 roadster;;;;;;;;;;;;
+;Mazda;MX-5 roadster;1,5 SkyActiv;5.990.000;I4 1,5 l bensín;132;6,3;;6 gíra beinskipting;RWD;2;599
+;Mazda;MX-5 roadster;2,0 SkyActiv;6.790.000;I4 2,0 l bensín;184;6,9;;6 gíra beinskipting;RWD;2;600
+MX-5 RF;;;;;;;;;;;;
+;Mazda;MX-5 RF;1,5 SkyActiv;6.490.000;I4 1,5 l bensín;132;6,3;;6 gíra beinskipting;RWD;2;596
+;Mazda;MX-5 RF;2,0 SkyActiv;7.290.000;I4 2,0 l bensín;184;6,9;;6 gíra beinskipting;RWD;2;597
+2 hatchback;;;;;;;;;;;;
+;Mazda;2 hatchback;Cosmo;3.290.000;I4 1,5 l bensín;90;5,3;;5 gíra beinskipting;FWD;5;561
+;Mazda;2 hatchback;Sense;2.820.000;I4 1,5 l bensín;90;5,3;;5 gíra beinskipting;FWD;5;559
+;Mazda;2 hatchback;Sky;3.070.000;I4 1,5 l bensín;90;5,3;;5 gíra beinskipting;FWD;5;560
+MX-30;;;;;;;;;;;;
+;Mazda;MX-30;Cosmo;4.890.000;36 kWh rafhlaða, rafmótor;143;;200;1 gíra sjálfskipting;FWD;5;
+;Mazda;MX-30;First Edition;4.290.000;36 kWh rafhlaða, rafmótor;143;;200;1 gíra sjálfskipting;FWD;5;
+;Mazda;MX-30;Sky;3.980.000;36 kWh rafhlaða, rafmótor;143;;200;1 gíra sjálfskipting;FWD;5;
+3 M-Hybrid hatchback;;;;;;;;;;;;
+;Mazda;3 M-Hybrid hatchback;Cosmo 2,0 SkyActiv G;4.950.000;I4 2,0 l mild hybrid bensín;122;6,3;;6 gíra beinskipting;FWD;5;566
+;Mazda;3 M-Hybrid hatchback;Cosmo 2,0 SkyActiv G automatic;5.290.000;I4 2,0 l mild hybrid bensín;122;6,7;;6 gíra sjálfskipting;FWD;5;567
+;Mazda;3 M-Hybrid hatchback;Cosmo 2,0 SkyActive X;5.420.000;I4 2,0 l mild hybrid bensín;180;5,8;;6 gíra beinskipting;FWD;5;568
+;Mazda;3 M-Hybrid hatchback;Cosmo 2,0 SkyActive X automatic;5.690.000;I4 2,0 l mild hybrid bensín;180;6,3;;6 gíra sjálfskipting;FWD;5;569
+;Mazda;3 M-Hybrid hatchback;Sense 2,0 SkyActiv G;4.250.000;I4 2,0 l mild hybrid bensín;122;6,2;;6 gíra beinskipting;FWD;5;562
+;Mazda;3 M-Hybrid hatchback;Sky 2,0 SkyActiv G;4.450.000;I4 2,0 l mild hybrid bensín;122;6,3;;6 gíra beinskipting;FWD;5;564
+;Mazda;3 M-Hybrid hatchback;Sky 2,0 SkyActiv G automatic;4.890.000;I4 2,0 l mild hybrid bensín;122;6,7;;6 gíra sjálfskipting;FWD;5;565
+3 M-Hybrid sedan;;;;;;;;;;;;
+;Mazda;3 M-Hybrid sedan;Cosmo 2,0 SkyActiv G automatic;4.690.000;I4 2,0 l mild hybrid bensín;122;6,6;;6 gíra beinskipting;FWD;5;575
+;Mazda;3 M-Hybrid sedan;Cosmo 2,0 SkyActive X;5.420.000;I4 2,0 l mild hybrid bensín;180;5,6;;6 gíra sjálfskipting;FWD;5;576
+;Mazda;3 M-Hybrid sedan;Cosmo 2,0 SkyActive X automatic;5.690.000;I4 2,0 l mild hybrid bensín;180;6,2;;6 gíra beinskipting;FWD;5;577
+;Mazda;3 M-Hybrid sedan;Sense 2,0 SkyActiv G automatic;4.390.000;I4 2,0 l mild hybrid bensín;122;6,4;;5 gíra beinskipting;FWD;5;571
+;Mazda;3 M-Hybrid sedan;Sky 2,0 SkyActiv G;4.450.000;I4 2,0 l mild hybrid bensín;122;6,1;;5 gíra beinskipting;FWD;5;572
+;Mazda;3 M-Hybrid sedan;Sky 2,0 SkyActiv G automatic;4.890.000;I4 2,0 l mild hybrid bensín;122;6,6;;6 gíra beinskipting;FWD;5;573
+CX-30 M-Hybrid;;;;;;;;;;;;
+;Mazda;CX-30 M-Hybrid;Cosmo 2,0 SkyActiv G automatic;5.290.000;I4 2,0 l mild hybrid bensín;120;6,6;;6 gíra sjálfskipting;FWD;5;585
+;Mazda;CX-30 M-Hybrid;Cosmo 2,0 SkyActive X automatic;5.850.000;I4 2,0 l mild hybrid bensín;180;6,5;;6 gíra sjálfskipting;FWD;5;589
+;Mazda;CX-30 M-Hybrid;Sense 2,0 SkyActiv G;4.790.000;I4 2,0 l mild hybrid bensín;120;6,2;;6 gíra beinskipting;FWD;5;582
+;Mazda;CX-30 M-Hybrid;Sky 2,0 SkyActiv G automatic;5.290.000;I4 2,0 l mild hybrid bensín;120;6,6;;6 gíra sjálfskipting;FWD;5;584
+;Mazda;CX-30 M-Hybrid;Sky 2,0 SkyActiv X;5.850.000;I4 2,0 l mild hybrid bensín;180;5,9;;6 gíra beinskipting;FWD;5;586
+;Mazda;CX-30 M-Hybrid;Sky 2,0 SkyActiv X automatic;5.490.000;I4 2,0 l mild hybrid bensín;180;6,5;;6 gíra sjálfskipting;FWD;5;587
+;Mazda;CX-30 M-Hybrid;Style 2,0 SkyActiv X automatic AWD;5.990.000;I4 2,0 l mild hybrid bensín;180;7,0;;6 gíra sjálfskipting;AWD;5;590
+CX-5;;;;;;;;;;;;
+;Mazda;CX-5;Optimum 2,2 diesel automatic AWD;7.190.000;I4 2,2 l twin turbo dísil;184;7,1;;6 gíra sjálfskipting;AWD;5;594
+;Mazda;CX-5;Vision 2,0 petrol;5.290.000;I4 2,0 l bensín;165;7,2;;6 gíra beinskipting;FWD;5;591
+;Mazda;CX-5;Vision 2,0 petrol automatic;5.590.000;I4 2,0 l bensín;165;7,7;;6 gíra sjálfskipting;FWD;5;592
+;Mazda;CX-5;Vision 2,0 petrol automatic AWD;6.290.000;I4 2,0 l bensín;165;8,3;;6 gíra sjálfskipting;AWD;5;593
+6 sedan;;;;;;;;;;;;
+;Mazda;6 sedan;Optimun;5.650.000;I4 2,0 l bensín;165;7,0;;6 gíra sjálfskipting;FWD;5;579
+;Mazda;6 sedan;Premium;5.090.000;I4 2,0 l bensín;165;7,0;;6 gíra sjálfskipting;FWD;5;578
+6 station;;;;;;;;;;;;
+;Mazda;6 station;Optimun;5.850.000;I4 2,0 l bensín;165;7,0;;6 gíra sjálfskipting;FWD;5;581
+;Mazda;6 station;Premium;5.290.000;I4 2,0 l bensín;165;7,0;;6 gíra sjálfskipting;FWD;5;580
+A 35 compact saloon;;;;;;;;;;;;
+;Mercedes-AMG;A 35 compact saloon;A 35 4Matic;10.790.000;I4 2,0 l turbo bensín;306;7,4;;7 gíra DCT sjálfskipting;AWD;5;601
+A 35 saloon;;;;;;;;;;;;
+;Mercedes-AMG;A 35 saloon;A 35 4Matic;10.990.000;I4 2,0 l turbo bensín;306;7,4;;7 gíra DCT sjálfskipting;AWD;5;602
+A 45 compact saloon;;;;;;;;;;;;
+;Mercedes-AMG;A 45 compact saloon;A 45 4Matic;14.990.000;I4 2,0 l turbo bensín;421;8,1;;8 gíra DCT sjálfskipting;AWD;5;601
+CLA 35 coupe;;;;;;;;;;;;
+;Mercedes-AMG;CLA 35 coupe;CLA 35 4Matic;12.290.000;I4 2,0 l turbo bensín;306;7,7;;7 gíra DCT sjálfskipting;AWD;5;603
+CLA 45 coupe;;;;;;;;;;;;
+;Mercedes-AMG;CLA 45 coupe;CLA 45 4Matic;15.790.000;I4 2,0 l turbo bensín;421;8,1;;8 gíra DCT sjálfskipting;AWD;5;601
+G 63;;;;;;;;;;;;
+;Mercedes-AMG;G 63;G 63 4Matic;45.950.000;V8 4,0 l twin turbo bensín;585;13,1;;9 gíra sjálfskipting;AWD;5;
+GLC 43 SUV;;;;;;;;;;;;
+;Mercedes-AMG;GLC 43 SUV;GLC 43 4Matic;19.490.000;V6 3,0 l twin turbo bensín;390;10,2;;9 gíra sjálfskipting;AWD;5;
+GLC 43 coupe;;;;;;;;;;;;
+;Mercedes-AMG;GLC 43 coupe;GLC 43 4Matic;20.490.000;V6 3,0 l twin turbo bensín;630;14,6;;9 gíra sjálfskipting;AWD;5;
+GLC 63 SUV;;;;;;;;;;;;
+;Mercedes-AMG;GLC 63 SUV;GLC 63 S 4Matic;28.390.000;V8 4,0 l bensín;510;12,4;;9 gíra sjálfskipting;AWD;5;
+GLC 63 coupe;;;;;;;;;;;;
+;Mercedes-AMG;GLC 63 coupe;GLC 63 S 4Matic;27.790.000;V8 4,0 l bensín;750;16,8;;9 gíra sjálfskipting;AWD;5;
+GLE 53 EQ Boost SUV;;;;;;;;;;;;
+;Mercedes-AMG;GLE 53 EQ Boost SUV;GLE 53 4Matic;23.950.000;I6 3,0 l twin turbo mild hybrid bensín;435;9,3;;9 gíra sjálfskipting;AWD;5/7;604
+GLE 53 EQ Boost coupe;;;;;;;;;;;;
+;Mercedes-AMG;GLE 53 EQ Boost coupe;GLE 53 4Matic;24.750.000;I6 3,0 l twin turbo mild hybrid bensín;435;13,7;;9 gíra sjálfskipting;AWD;5;
+GLE 63 EQ Boost SUV;;;;;;;;;;;;
+;Mercedes-AMG;GLE 63 EQ Boost SUV;GLE 63 S 4Matic;33.690.000;V8 4,0 l twin turbo mild hybrid bensín;610;11,5;;9 gíra sjálfskipting;AWD;5/7;
+GLE 63 EQ Boost coupe;;;;;;;;;;;;
+;Mercedes-AMG;GLE 63 EQ Boost coupe;GLE 63 S 4Matic;36.990.000;V8 4,0 l twin turbo mild hybrid bensín;610;15,9;;9 gíra sjálfskipting;AWD;5;
+GLS 63 EQ Boost;;;;;;;;;;;;
+;Mercedes-AMG;GLS 63 EQ Boost;GLS 63 4Matic;41.990.000;V8 4,0 l twin turbo mild hybrid bensín;612;12,0;;9 gíra sjálfskipting;AWD;6/7;
+A-class compact saloon;;;;;;;;;;;;
+;Mercedes-Benz;A-class compact saloon;A 180d AMG Line;7.190.000;I4 1,5 l turbo dísil;116;4,3;;7 gíra DCT sjálfskipting;FWD;5;610
+;Mercedes-Benz;A-class compact saloon;A 180d Progressive;6.590.000;I4 1,5 l turbo dísil;116;4,3;;7 gíra DCT sjálfskipting;FWD;5;609
+;Mercedes-Benz;A-class compact saloon;A 180d Style;5.790.000;I4 1,5 l turbo dísil;116;4,3;;7 gíra DCT sjálfskipting;FWD;5;608
+;Mercedes-Benz;A-class compact saloon;A 200 AMG Line;7.690.000;I4 1,3 l turbo bensín;163;5,6;;7 gíra DCT sjálfskipting;FWD;5;607
+;Mercedes-Benz;A-class compact saloon;A 200 Progressive;6.990.000;I4 1,3 l turbo bensín;163;5,6;;7 gíra DCT sjálfskipting;FWD;5;606
+;Mercedes-Benz;A-class compact saloon;A 200 Style;6.290.000;I4 1,3 l turbo bensín;163;5,6;;7 gíra DCT sjálfskipting;FWD;5;605
+A-class saloon;;;;;;;;;;;;
+;Mercedes-Benz;A-class saloon;A 180d AMG Line;7.390.000;I4 1,5 l turbo dísil;116;4,3;;7 gíra DCT sjálfskipting;FWD;5;622
+;Mercedes-Benz;A-class saloon;A 180d Progressive;6.790.000;I4 1,5 l turbo dísil;116;4,3;;7 gíra DCT sjálfskipting;FWD;5;621
+;Mercedes-Benz;A-class saloon;A 180d Style;5.990.000;I4 1,5 l turbo dísil;116;4,3;;7 gíra DCT sjálfskipting;FWD;5;620
+A-class EQ Power saloon;;;;;;;;;;;;
+;Mercedes-Benz;A-class EQ Power saloon;A 250e AMG Line;7.190.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,4;65;8 gíra DCT sjálfskipting;FWD;5;614
+;Mercedes-Benz;A-class EQ Power saloon;A 250e Progressive;6.490.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,4;65;8 gíra DCT sjálfskipting;FWD;5;615
+;Mercedes-Benz;A-class EQ Power saloon;A 250e Style;5.690.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,4;65;8 gíra DCT sjálfskipting;FWD;5;614
+A-class EQ Power compact saloon;;;;;;;;;;;;
+;Mercedes-Benz;A-class EQ Power compact saloon;A 250e AMG-Line;6.990.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,5;64;8 gíra DCT sjálfskipting;FWD;5;612
+;Mercedes-Benz;A-class EQ Power compact saloon;A 250e Progressive;6.290.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,5;64;8 gíra DCT sjálfskipting;FWD;5;612
+;Mercedes-Benz;A-class EQ Power compact saloon;A 250e Style;5.490.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,5;64;8 gíra DCT sjálfskipting;FWD;5;611
+B-class;;;;;;;;;;;;
+;Mercedes-Benz;B-class;B 200 Progressive;7.490.000;I4 1,3 l turbo bensín;163;5,4;;7 gíra DCT sjálfskipting;FWD;5;624
+;Mercedes-Benz;B-class;B 200 Style;6.890.000;I4 1,3 l turbo bensín;163;5,4;;7 gíra DCT sjálfskipting;FWD;5;623
+B-class EQ Power;;;;;;;;;;;;
+;Mercedes-Benz;B-class EQ Power;B 250 Progressive;6.590.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,4;65;8 gíra DCT sjálfskipting;FWD;5;630
+;Mercedes-Benz;B-class EQ Power;B 250e Style;5.790.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,4;65;8 gíra DCT sjálfskipting;FWD;5;629
+C-class saloon;;;;;;;;;;;;
+;Mercedes-Benz;C-class saloon;C 200d;7.250.000;I4 1,6 l turbo dísil;160;4,6;;9 gíra sjálfskipting;RWD;5;634
+;Mercedes-Benz;C-class saloon;C 220d 4Matic;8.230.000;I4 2,0 l turbo dísil;194;5,5;;9 gíra sjálfskipting;AWD;5;635
+;Mercedes-Benz;C-class saloon;C 300d 4Matic;9.100.000;I4 2,0 l turbo dísil;245;5,7;;9 gíra sjálfskipting;AWD;5;636
+E-class saloon;;;;;;;;;;;;
+;Mercedes-Benz;E-class saloon;E 220 d 4Matic Pure;11.950.000;I4 2,0 l turbo dísil;194;5,4;;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;E-class saloon;E 220 d 4Matic Progressive;12.950.000;I4 2,0 l turbo dísil;194;5,4;;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;E-class saloon;E 220 d 4Matic Power;14.850.000;I4 2,0 l turbo dísil;194;5,4;;9 gíra sjálfskipting;AWD;5;
+E-class EQ Power saloon;;;;;;;;;;;;
+;Mercedes-Benz;E-class EQ Power saloon;E 300 e 4Matic Pure;9.950.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;E-class EQ Power saloon;E 300 e 4Matic Progressive;10.750.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;E-class EQ Power saloon;E 300 e 4Matic Power;12.450.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;E-class EQ Power saloon;E 300 de 4Matic Pure;10.250.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;1,6;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;E-class EQ Power saloon;E 300 de 4Matic Progressive;11.050.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;1,6;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;E-class EQ Power saloon;E 300 de 4Matic Power;12.750.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;1,6;50;9 gíra sjálfskipting;AWD;5;
+E-class EQ Power estate;;;;;;;;;;;;
+;Mercedes-Benz;E-class EQ Power estate;E 300 de 4Matic Pure;10.650.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;1,7;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;E-class EQ Power estate;E 300 de 4Matic Progressive;11.450.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;1,7;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;E-class EQ Power estate;E 300 de 4Matic Power;13.150.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;1,7;50;9 gíra sjálfskipting;AWD;5;
+E-class All Terrain;;;;;;;;;;;;
+;Mercedes-Benz;E-class All Terrain;E 220 d 4Matic Progressive;14.450.000;I4 2,0 l turbo dísil;194;5,9;;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;E-class All Terrain;E 220 d 4Matic Pure;13.450.000;I4 2,0 l turbo dísil;194;5,9;;9 gíra sjálfskipting;AWD;5;
+C-class EQ Power saloon;;;;;;;;;;;;
+;Mercedes-Benz;C-class EQ Power saloon;C 300de Power;10.390.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;1,6;56;9 gíra sjálfskipting;RWD;5;631
+;Mercedes-Benz;C-class EQ Power saloon;C 300de Progressive;9.090.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;1,6;56;9 gíra sjálfskipting;RWD;5;631
+;Mercedes-Benz;C-class EQ Power saloon;C 300de Pure;8.190.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;1,6;56;9 gíra sjálfskipting;RWD;5;631
+;Mercedes-Benz;C-class EQ Power saloon;C 300e 4Matic Power;10.390.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2,1;56;9 gíra sjálfskipting;AWD;5;633
+;Mercedes-Benz;C-class EQ Power saloon;C 300e 4Matic Progressive;9.190.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2,1;56;9 gíra sjálfskipting;AWD;5;633
+;Mercedes-Benz;C-class EQ Power saloon;C 300e 4Matic Pure;8.190.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2,1;56;9 gíra sjálfskipting;AWD;5;633
+;Mercedes-Benz;C-class EQ Power saloon;C 300e Power;9.990.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;1,8;56;9 gíra sjálfskipting;RWD;5;632
+;Mercedes-Benz;C-class EQ Power saloon;C 300e Progressive;8.790.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;1,8;56;9 gíra sjálfskipting;RWD;5;632
+;Mercedes-Benz;C-class EQ Power saloon;C 300e Pure;7.790.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;1,8;56;9 gíra sjálfskipting;RWD;5;632
+CLA coupe;;;;;;;;;;;;
+;Mercedes-Benz;CLA coupe;CLA 200 AMG Line;8.190.000;I4 1,3 l turbo bensín;163;5,5;;7 gíra DCT sjálfskipting;FWD;4;638
+;Mercedes-Benz;CLA coupe;CLA 200 Progressive;7.690.000;I4 1,3 l turbo bensín;163;5,5;;7 gíra DCT sjálfskipting;FWD;4;637
+;Mercedes-Benz;CLA coupe;CLA 220 4Matic AMG Line;9.190.000;I4 2,0 l turbo bensín;300;6,7;;7 gíra DCT sjálfskipting;AWD;4;640
+;Mercedes-Benz;CLA coupe;CLA 220 4MAtic Progressive;8.550.000;I4 2,0 l turbo bensín;300;6,7;;7 gíra DCT sjálfskipting;AWD;4;639
+CLA EQ Power coupe;;;;;;;;;;;;
+;Mercedes-Benz;CLA EQ Power coupe;CLA 250e AMG Line;7.790.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,4;65;8 gíra DCT sjálfskipting;FWD;5;
+;Mercedes-Benz;CLA EQ Power coupe;CLA 250e Progressive;7.090.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,4;65;8 gíra DCT sjálfskipting;FWD;5;616
+EQC;;;;;;;;;;;;
+;Mercedes-Benz;EQC;EQC 400 4Matic Power;11.790.000;80 kWh rafhlaða, 2 rafmótorar;300;;417;1 gíra sjálfskipting;AWD;5;645
+;Mercedes-Benz;EQC;EQC 400 4Matic Progressive;10.550.000;80 kWh rafhlaða, 2 rafmótorar;300;;417;1 gíra sjálfskipting;AWD;5;644
+;Mercedes-Benz;EQC;EQC 400 4Matic Pure;9.390.000;80 kWh rafhlaða, 2 rafmótorar;300;;417;1 gíra sjálfskipting;AWD;5;643
+G-class;;;;;;;;;;;;
+;Mercedes-Benz;G-class;G 350d 4Matic;28.450.000;V6 3,0 l turbo dísil;286;9,8;;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;G-class;G 500 4Matic;28.950.000;V8 4,0 l twin turbo bensín;422;12,1;;9 gíra sjálfskipting;AWD;5;
+GLA;;;;;;;;;;;;
+;Mercedes-Benz;GLA;GLA 200d 4Matic AMG Line;8.950.000;I4 2,0 l turbo dísil;150;5,2;;8 gíra DCT sjálfskipting;AWD;5;
+;Mercedes-Benz;GLA;GLA 200d 4Matic Progressive;8.390.000;I4 2,0 l turbo dísil;150;5,2;;8 gíra DCT sjálfskipting;AWD;5;
+;Mercedes-Benz;GLA;GLA 200d 4Matic Style;7.490.000;I4 2,0 l turbo dísil;150;5,2;;8 gíra DCT sjálfskipting;AWD;5;646
+GLA EQ Power;;;;;;;;;;;;
+;Mercedes-Benz;GLA EQ Power;GLA 250e AMG Line;8.090.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,4;65;8 gíra DCT sjálfskipting;FWD;5;
+;Mercedes-Benz;GLA EQ Power;GLA 250e Progressive;7.390.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,4;65;8 gíra DCT sjálfskipting;FWD;5;
+;Mercedes-Benz;GLA EQ Power;GLA 250e Style;6.590.000;I4 1,3 l bensín + 16 kWh rafhlaða, rafmótor;218;1,4;65;8 gíra DCT sjálfskipting;FWD;5;
+GLB;;;;;;;;;;;;
+;Mercedes-Benz;GLB;GLB 200d 4Matic Style;8.790.000;I4 2,0 l turbo dísil;150;5,3;;8 gíra DCT sjálfskipting;AWD;7;
+;Mercedes-Benz;GLB;GLB 200d 4Matic Progressive;9.790.000;I4 2,0 l turbo dísil;150;5,3;;8 gíra DCT sjálfskipting;AWD;7;
+GLC coupe;;;;;;;;;;;;
+;Mercedes-Benz;GLC coupe;GLC 220d 4Matic Power;13.190.000;I4 2,0 l turbo bensín;194;6,0;;9 gíra sjálfskipting;AWD;5;651
+;Mercedes-Benz;GLC coupe;GLC 220d 4Matic Progressive;10.990.000;I4 2,0 l turbo bensín;194;6,0;;9 gíra sjálfskipting;AWD;5;650
+;Mercedes-Benz;GLC coupe;GLC 220d 4Matic Pure;9.590.000;I4 2,0 l turbo bensín;194;6,0;;9 gíra sjálfskipting;AWD;5;649
+;Mercedes-Benz;GLC coupe;GLC 300d 4Matic Power;14.190.000;I4 2,0 l turbo bensín;245;6,0;;9 gíra sjálfskipting;AWD;5;654
+;Mercedes-Benz;GLC coupe;GLC 300d 4Matic Progressive;11.890.000;I4 2,0 l turbo bensín;245;6,0;;9 gíra sjálfskipting;AWD;5;653
+;Mercedes-Benz;GLC coupe;GLC 300d 4Matic Pure;10.390.000;I4 2,0 l turbo bensín;245;6,0;;9 gíra sjálfskipting;AWD;5;652
+GLC SUV;;;;;;;;;;;;
+;Mercedes-Benz;GLC SUV;GLC 300d 4Matic Power;15.490.000;I4 2,0 l turbo bensín;245;6,0;;9 gíra sjálfskipting;AWD;5;666
+;Mercedes-Benz;GLC SUV;GLC 300d 4Matic Progressive;13.290.000;I4 2,0 l turbo bensín;245;6,0;;9 gíra sjálfskipting;AWD;5;665
+;Mercedes-Benz;GLC SUV;GLC 300d 4Matic Pure;11.390.000;I4 2,0 l turbo bensín;245;6,0;;9 gíra sjálfskipting;AWD;5;664
+GLC EQ Power SUV;;;;;;;;;;;;
+;Mercedes-Benz;GLC EQ Power SUV;GLC 300de 4Matic Power;11.950.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;2,5;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLC EQ Power SUV;GLC 300de 4Matic Progressive;10.250.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;2,5;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLC EQ Power SUV;GLC 300de 4Matic Pure;8.990.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;2,5;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLC EQ Power SUV;GLC 300e 4Matic Power;11.450.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2,5;49;9 gíra sjálfskipting;AWD;5;660
+;Mercedes-Benz;GLC EQ Power SUV;GLC 300e 4Matic Progressive;9.750.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2,5;49;9 gíra sjálfskipting;AWD;5;659
+;Mercedes-Benz;GLC EQ Power SUV;GLC 300e 4Matic Pure;8.490.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2,5;49;9 gíra sjálfskipting;AWD;5;658
+GLC EQ Power coupe;;;;;;;;;;;;
+;Mercedes-Benz;GLC EQ Power coupe;GLC 300de 4Matic Power;12.790.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;2,5;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLC EQ Power coupe;GLC 300de 4Matic Progressive;10.590.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;2,5;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLC EQ Power coupe;GLC 300de 4Matic Pure;9.290.000;I4 2,0 l turbo dísil + 14 kWh rafhlaða, rafmótor;306;2,5;50;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLC EQ Power coupe;GLC 300e 4Matic Power;12.750.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2,5;49;9 gíra sjálfskipting;AWD;5;657
+;Mercedes-Benz;GLC EQ Power coupe;GLC 300e 4Matic Progressive;11.050.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2,5;49;9 gíra sjálfskipting;AWD;5;656
+;Mercedes-Benz;GLC EQ Power coupe;GLC 300e 4Matic Pure;9.790.000;I4 2,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;320;2,5;49;9 gíra sjálfskipting;AWD;5;655
+GLE SUV;;;;;;;;;;;;
+;Mercedes-Benz;GLE SUV;GLE 300d 4Matic Pure;13.990.000;I4 2,0 l turbo dísil;245;6,4;;9 gíra sjálfskipting;AWD;5/7;671
+;Mercedes-Benz;GLE SUV;GLE 350d 4Matic Power;19.990.000;I6 2,9 l turbo dísil;275;7,5;;9 gíra sjálfskipting;AWD;5/7;
+;Mercedes-Benz;GLE SUV;GLE 350d 4Matic Progressive;16.990.000;I6 2,9 l turbo dísil;275;7,5;;9 gíra sjálfskipting;AWD;5/7;
+;Mercedes-Benz;GLE SUV;GLE 350d 4Matic Pure;15.290.000;I6 2,9 l turbo dísil;275;7,5;;9 gíra sjálfskipting;AWD;5/7;672
+;Mercedes-Benz;GLE SUV;GLE 400d 4Matic Power;21.190.000;I6 2,9 l turbo dísil;330;7,5;;9 gíra sjálfskipting;AWD;5/7;
+;Mercedes-Benz;GLE SUV;GLE 400d 4Matic Progressive;18.190.000;I6 2,9 l turbo dísil;330;7,5;;9 gíra sjálfskipting;AWD;5/7;
+;Mercedes-Benz;GLE SUV;GLE 400d 4Matic Pure;16.490.000;I6 2,9 l turbo dísil;330;7,5;;9 gíra sjálfskipting;AWD;5/7;673
+GLE coupe;;;;;;;;;;;;
+;Mercedes-Benz;GLE coupe;GLE 400d 4Matic Power;21.790.000;I6 2,9 l turbo dísil;330;7,5;;9 gíra sjálfskipting;AWD;5/7;
+;Mercedes-Benz;GLE coupe;GLE 400d 4Matic Progressive;18.790.000;I6 2,9 l turbo dísil;330;7,5;;9 gíra sjálfskipting;AWD;5/7;
+GLE EQ Power SUV;;;;;;;;;;;;
+;Mercedes-Benz;GLE EQ Power SUV;GLE 350de 4Matic Power;14.190.000;I4 2,0 l turbo dísil + 31 kWh rafhlaða, rafmótor;306;0,7;94;9 gíra sjálfskipting;AWD;5;669
+;Mercedes-Benz;GLE EQ Power SUV;GLE 350de 4MAtic Progressive;12.990.000;I4 2,0 l turbo dísil + 31 kWh rafhlaða, rafmótor;306;0,7;94;9 gíra sjálfskipting;AWD;5;668
+;Mercedes-Benz;GLE EQ Power SUV;GLE 350de 4Matic Pure;11.290.000;I4 2,0 l turbo dísil + 31 kWh rafhlaða, rafmótor;306;0,7;94;9 gíra sjálfskipting;AWD;5;667
+;Mercedes-Benz;GLE EQ Power SUV;GLE 350e 4Matic Power;14.690.000;I4 2,0 l turbo bensín + 31 kWh rafhlaða, rafmótor;320;1,3;;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLE EQ Power SUV;GLE 350e 4MAtic Progressive;12.790.000;I4 2,0 l turbo bensín + 31 kWh rafhlaða, rafmótor;320;1,3;;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLE EQ Power SUV;GLE 350e 4Matic Pure;11.090.000;I4 2,0 l turbo bensín + 31 kWh rafhlaða, rafmótor;320;1,3;;9 gíra sjálfskipting;AWD;5;
+GLE EQ Power coupe;;;;;;;;;;;;
+;Mercedes-Benz;GLE EQ Power coupe;GLE 350de 4Matic Power;15.390.000;I4 2,0 l turbo dísil + 31 kWh rafhlaða, rafmótor;306;0,7;94;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLE EQ Power coupe;GLE 350de 4MAtic Progressive;13.490.000;I4 2,0 l turbo dísil + 31 kWh rafhlaða, rafmótor;306;0,7;94;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLE EQ Power coupe;GLE 350e 4Matic Power;15.190.000;I4 2,0 l turbo bensín + 31 kWh rafhlaða, rafmótor;320;1,3;;9 gíra sjálfskipting;AWD;5;
+;Mercedes-Benz;GLE EQ Power coupe;GLE 350e 4MAtic Progressive;13.290.000;I4 2,0 l turbo bensín + 31 kWh rafhlaða, rafmótor;320;1,3;;9 gíra sjálfskipting;AWD;5;
+GLE SUV EQ Boost;;;;;;;;;;;;
+;Mercedes-Benz;GLE SUV EQ Boost;GLE 450 4Matic Power;18.290.000;I6 3,0 l twin turbo mild hybrid bensín;500;9,4;;9 gíra sjálfskipting;AWD;7/7;
+;Mercedes-Benz;GLE SUV EQ Boost;GLE 450 4Matic Progressive;16.190.000;I6 3,0 l twin turbo mild hybrid bensín;500;9,4;;9 gíra sjálfskipting;AWD;6/7;
+;Mercedes-Benz;GLE SUV EQ Boost;GLE 450 4Matic Pure;14.590.000;I6 3,0 l twin turbo mild hybrid bensín;500;9,4;;9 gíra sjálfskipting;AWD;5/7;
+GLS;;;;;;;;;;;;
+;Mercedes-Benz;GLS;GLS 350d 4Matic Power;22.450.000;I6 2,9 l twin turbo dísil;286;7,9;;9 gíra sjálfskipting;AWD;6/7;675
+;Mercedes-Benz;GLS;GLS 350d 4Matic Progressive;19.950.000;I6 2,9 l twin turbo dísil;286;7,9;;9 gíra sjálfskipting;AWD;6/7;674
+;Mercedes-Benz;GLS;GLS 400d 4Matic Power;23.950.000;I6 2,9 l twin turbo dísil;330;7,9;;9 gíra sjálfskipting;AWD;6/7;677
+;Mercedes-Benz;GLS;GLS 400d 4Matic Progressive;21.450.000;I6 2,9 l twin turbo dísil;330;7,9;;9 gíra sjálfskipting;AWD;6/7;676
+GLS EQ Boost;;;;;;;;;;;;
+;Mercedes-Benz;GLS EQ Boost;GLS 450 4Matic Power;20.390.000;I6 3,0 l twin turbo mild hybrid bensín;367;9,8;;9 gíra sjálfskipting;AWD;6/7;
+;Mercedes-Benz;GLS EQ Boost;GLS 450 4Mative Progressive;17.990.000;I6 3,0 l twin turbo mild hybrid bensín;367;9,8;;9 gíra sjálfskipting;AWD;6/7;
+;Mercedes-Benz;GLS EQ Boost;GLS 580 4Matic Power;24.990.000;V8 4,0 l twin turbo mild hybrid bensín;489;10,0;;9 gíra sjálfskipting;AWD;6/7;
+;Mercedes-Benz;GLS EQ Boost;GLS 580 4Matic Progressive;22.990.000;V8 4,0 l twin turbo mild hybrid bensín;489;10,0;;9 gíra sjálfskipting;AWD;6/7;
+S-class;;;;;;;;;;;;
+;Mercedes-Benz;S-class;S 350d 4Matic;16.690.000;I6 2,9 l turbo dísil;286;5,7;;9 gíra sjálfskipting;AWD;5;678
+;Mercedes-Benz;S-class;S 400d 4Matic;17.290.000;I6 2,9 l turbo dísil;340;5,7;;9 gíra sjálfskipting;AWD;5;679
+S-class long;;;;;;;;;;;;
+;Mercedes-Benz;S-class long;S 350d 4Matic;16.890.000;I6 2,9 l turbo dísil;286;5,7;;9 gíra sjálfskipting;AWD;5;681
+;Mercedes-Benz;S-class long;S 400d 4Matic;17.690.000;I6 2,9 l turbo dísil;340;5,7;;9 gíra sjálfskipting;AWD;5;682
+S-class EQ Power long;;;;;;;;;;;;
+;Mercedes-Benz;S-class EQ Power long;S 560e;15.790.000;V6 3,0 l twin turbo bensín + 14 kWh rafhlaða, rafmótor;476;2,6;45;9 gíra sjálfskipting;RWD;5;680
+ZS EV;;;;;;;;;;;;
+;MG;ZS EV;Comfort;3.990.000;44 kWh rafhlaða, rafmótor;143;;263;1 gíra sjálfskipting;FWD;5;
+;MG;ZS EV;Luxury;4.390.000;44 kWh rafhlaða, rafmótor;143;;263;1 gíra sjálfskipting;FWD;5;
+Cooper 5-door;;;;;;;;;;;;
+;Mini;Cooper 5-door;Cooper ;4.190.000;I3 1,5 l twin turbo bensín;136;4,7;;6 gíra beinskipting;FWD;5;683
+;Mini;Cooper 5-door;Cooper automatic;4.590.000;I3 1,5 l twin turbo bensín;136;4,7;;7 gíra sjálfskipting;FWD;5;684
+Cooper SE Countryman plug-in hybrid;;;;;;;;;;;;
+;Mini;Cooper SE Countryman plug-in hybrid;Cooper SE All4 Pepper edition;7.250.000;I3 1,5 l turbo bensín + 10 kWh rafhlaða, rafmótor;136;1,8;51;6 gíra sjálfskipting;AWD;5;686
+Cooper SE 3-door;;;;;;;;;;;;
+;Mini;Cooper SE 3-door;L;5.940.000;33 kWh rafhlaða, rafmótor;184;;233;1 gíra sjálfskipting;FWD;4;689
+;Mini;Cooper SE 3-door;M;5.280.000;33 kWh rafhlaða, rafmótor;184;;233;1 gíra sjálfskipting;FWD;4;688
+;Mini;Cooper SE 3-door;S;4.950.000;33 kWh rafhlaða, rafmótor;184;;233;1 gíra sjálfskipting;FWD;4;687
+Outlander PHEV;;;;;;;;;;;;
+;Mitsubishi;Outlander PHEV;Executive;5.890.000;I4 2,4 l bensín + 14 kWh, 2 rafmótorar;230;2,0;54;1 gíra CVT sjálfskipting;AWD;5;700
+;Mitsubishi;Outlander PHEV;Instyle;6.290.000;I4 2,4 l bensín + 14 kWh, 2 rafmótorar;230;2,0;54;1 gíra CVT sjálfskipting;AWD;5;698
+;Mitsubishi;Outlander PHEV;Intense;5.890.000;I4 2,4 l bensín + 14 kWh, 2 rafmótorar;230;2,0;54;1 gíra CVT sjálfskipting;AWD;5;697
+;Mitsubishi;Outlander PHEV;Invite;5.290.000;I4 2,4 l bensín + 14 kWh, 2 rafmótorar;230;2,0;54;1 gíra CVT sjálfskipting;AWD;5;696
+;Mitsubishi;Outlander PHEV;S-Edition;6.690.000;I4 2,4 l bensín + 14 kWh, 2 rafmótorar;230;2,0;54;1 gíra CVT sjálfskipting;AWD;5;700
+ASX;;;;;;;;;;;;
+;Mitsubishi;ASX;Instyle;5.790.000;I4 2,0 l bensín;150;7,3;;1 gíra CVT sjálfskipting;AWD;5;692
+;Mitsubishi;ASX;Intense;5.290.000;I4 2,0 l bensín;150;6,8;;1 gíra CVT sjálfskipting;AWD;5;691
+;Mitsubishi;ASX;Invite;4.790.000;I4 2,0 l bensín;150;6,7;;5 gíra beinskipting;FWD;5;690
+Eclipse Cross;;;;;;;;;;;;
+;Mitsubishi;Eclipse Cross;Instyle 4WD;5.290.000;I4 1,5 l turbo bensín;163;6,1;;1 gíra CVT sjálfskipting;AWD;5;695
+;Mitsubishi;Eclipse Cross;Intense;4.190.000;I4 1,5 l turbo bensín;163;6,1;;1 gíra CVT sjálfskipting;FWD;5;693
+;Mitsubishi;Eclipse Cross;Intense 4WD;4.990.000;I4 1,5 l turbo bensín;163;6,2;;1 gíra CVT sjálfskipting;AWD;5;694
+Juke;;;;;;;;;;;;
+;Nissan;Juke;Acenta;4.250.000;I3 1,0 l turbo bensín;117;6,1;;1 gíra CVT sjálfskipting;AWD;5;701
+;Nissan;Juke;N-Connecta;4.750.000;I3 1,0 l turbo bensín;117;6,1;;1 gíra CVT sjálfskipting;AWD;5;702
+;Nissan;Juke;N-Design;5.290.000;I3 1,0 l turbo bensín;117;6,5;;1 gíra CVT sjálfskipting;AWD;5;704
+;Nissan;Juke;Tekna;5.050.000;I3 1,0 l turbo bensín;117;6,5;;1 gíra CVT sjálfskipting;AWD;5;703
+Leaf;;;;;;;;;;;;
+;Nissan;Leaf;Acenta;4.890.000;40 kWh rafhlaða, rafmótor;150;;270;1 gíra sjálfskipting;FWD;5;705
+;Nissan;Leaf;e+ N-Connecta;5.890.000;62 kWh rafhlaða, rafmótor;215;;385;1 gíra sjálfskipting;FWD;5;708
+;Nissan;Leaf;e+ Tekna;6.190.000;62 kWh rafhlaða, rafmótor;215;;385;1 gíra sjálfskipting;FWD;5;709
+;Nissan;Leaf;N-Connecta;5.090.000;40 kWh rafhlaða, rafmótor;150;;270;1 gíra sjálfskipting;FWD;5;706
+;Nissan;Leaf;Tekna;5.390.000;40 kWh rafhlaða, rafmótor;150;;270;1 gíra sjálfskipting;FWD;5;707
+X-Trail;;;;;;;;;;;;
+;Nissan;X-Trail;Acenta;6.950.000;I4 1,7 l turbo diesel;150;7,5;;1 gíra CVT sjálfskipting;AWD;5;723
+;Nissan;X-Trail;Acenta Plus 2;7.290.000;I4 1,7 l turbo diesel;150;7,7;;1 gíra CVT sjálfskipting;AWD;7;724
+;Nissan;X-Trail;Tekna;8.350.000;I4 2,0 l turbo dísil;177;6,1;;1 gíra CVT sjálfskipting;AWD;5;725
+Micra;;;;;;;;;;;;
+;Nissan;Micra;Acenta 0,9 petrol;2.990.000;I3 0,9 l turbo bensín;90;5,1;;5 gíra beinskipting;FWD;5;711
+;Nissan;Micra;Acenta 1,0 petrol automatic;3.190.000;I3 1,0 l turbo bensín;100;6,7;;1 gíra CVT sjálfskipting;FWD;5;713
+;Nissan;Micra;Tekna 0,9 petrol;3.390.000;I3 0,9 l turbo bensín;90;5,1;;5 gíra beinskipting;FWD;5;714
+;Nissan;Micra;Tekna 1,0 petrol automatic;3.490.000;I3 1,0 l turbo bensín;100;6,7;;1 gíra CVT sjálfskipting;FWD;5;715
+;Nissan;Micra;Visia+ 0,9 petrol;2.790.000;I3 0,9 l turbo bensín;90;5,1;;5 gíra beinskipting;FWD;5;710
+Qashqai;;;;;;;;;;;;
+;Nissan;Qashqai;Acenta 1,3 petrol automatic;4.950.000;I4 1,3 l bensín;157;6,9;;6 gíra beinskipting;FWD;5;717
+;Nissan;Qashqai;Acenta 1,5 diesel;4.550.000;I4 1,5 l turbo dísil;115;5,3;;6 gíra beinskipting;FWD;5;716
+;Nissan;Qashqai;Acenta 1,7 diesel 4WD;5.990.000;I4 1,7 l turbo diesel;150;5,9;;6 gíra beinskipting;AWD;5;718
+;Nissan;Qashqai;Acenta 1,7 diesel automatic 4WD;5.490.000;I4 1,7 l turbo diesel;150;6,6;;1 gíra CVT sjálfskipting;AWD;5;719
+;Nissan;Qashqai;Tekna 1,3 petrol automatic;5.790.000;I4 1,3 l bensín;157;7,1;;1 gíra CVT sjálfskipting;FWD;5;720
+;Nissan;Qashqai;Tekna 1,6 diesel automatic;5.790.000;I4 1,6 l turbo dísil;130;4,9;;1 gíra CVT sjálfskipting;FWD;5;721
+;Nissan;Qashqai;Tekna 1,7 diesel automatic 4WD;6.750.000;I4 1,7 l turbo diesel;150;6,9;;1 gíra CVT sjálfskipting;AWD;5;722
+Corsa-e;;;;;;;;;;;;
+;Opel;Corsa-e;Edition;3.990.000;50 kWh rafhlaða, rafmótor;136;;337;1 gíra sjálfskipting;FWD;5;
+;Opel;Corsa-e;Elegance;4.490.000;50 kWh rafhlaða, rafmótor;136;;337;1 gíra sjálfskipting;FWD;5;
+;Opel;Corsa-e;Innovation;4.790.000;50 kWh rafhlaða, rafmótor;136;;337;1 gíra sjálfskipting;FWD;5;
+Karl;;;;;;;;;;;;
+;Opel;Karl;Enjoy;2.290.000;I3 1,0 l bensín;75;4,4;;5 gíra sjálfskiptur;FWD;5;744
+Crossland X;;;;;;;;;;;;
+;Opel;Crossland X;Enjoy;3.490.000;I3 1,2 l turbo bensín;110;5,2;;6 gíra beinskipting;FWD;5;735
+;Opel;Crossland X;Enjoy automatic;3.990.000;I3 1,2 l turbo bensín;110;5,4;;6 gíra sjálfskipting;FWD;5;736
+;Opel;Crossland X;Innovation automatic;4.290.000;I3 1,2 l turbo bensín;110;5,4;;6 gíra sjálfskipting;FWD;5;737
+Grandland X;;;;;;;;;;;;
+;Opel;Grandland X;Enjoy;3.990.000;I3 1,2 l turbo bensín;130;5,1;;6 gíra beinskipting;FWD;5;738
+;Opel;Grandland X;Enjoy automatic;4.490.000;I3 1,2 l turbo bensín;130;5,2;;8 gíra sjálfskipting;FWD;5;739
+;Opel;Grandland X;Innovation automatic;4.690.000;I3 1,2 l turbo bensín;130;5,2;;8 gíra sjálfskipting;FWD;5;740
+Insignia grand sport;;;;;;;;;;;;
+;Opel;Insignia grand sport;Enjoy;4.700.000;I4 1,5 l turbo bensín;165;6,2;;6 gíra sjálfskipting;FWD;5;741
+;Opel;Insignia grand sport;Innovation;4.290.000;I4 1,5 l turbo bensín;165;6,2;;6 gíra sjálfskipting;FWD;5;742
+Astra hatchback;;;;;;;;;;;;
+;Opel;Astra hatchback;Enjoy ;3.390.000;I3 1,4 l turbo bensín;150;5,1;;6 gíra beinskipting;FWD;5;729
+;Opel;Astra hatchback;Enjoy automatic;3.790.000;I3 1,4 l turbo bensín;150;5,5;;6 gíra sjálfskipting;FWD;5;730
+;Opel;Astra hatchback;Innovation;4.090.000;I3 1,4 l turbo bensín;150;5,1;;6 gíra beinskipting;FWD;5;731
+;Opel;Astra hatchback;Innovation automatic;4.290.000;I3 1,4 l turbo bensín;150;5,5;;6 gíra sjálfskipting;FWD;5;732
+Astra station;;;;;;;;;;;;
+;Opel;Astra station;Enjoy automatic;3.890.000;I3 1,4 l turbo bensín;150;5,6;;6 gíra sjálfskipting;FWD;5;733
+;Opel;Astra station;Innovation automatic;3.990.000;I3 1,4 l turbo bensín;150;5,6;;6 gíra sjálfskipting;FWD;5;734
+Mokka X;;;;;;;;;;;;
+;Opel;Mokka X;Innovation;5.190.000;I4 1,4 l turbo bensín;152;6,5;;6 gíra sjálfskipting;AWD;5;745
+Ampera-e;;;;;;;;;;;;
+;Opel;Ampera-e;Innovation;5.290.000;60 kWh rafhlaða. Rafmótor;204;;423;1 gíra sjálfskipting;FWD;5;727
+;Opel;Ampera-e;Premium;5.590.000;60 kWh rafhlaða. Rafmótor;204;;423;1 gíra sjálfskipting;FWD;5;728
+Insignia sport tourer;;;;;;;;;;;;
+;Opel;Insignia sport tourer;Innovation;5.490.000;I4 1,5 l turbo bensín;165;6,2;;6 gíra sjálfskipting;FWD;5;743
+Grandland X plug-in;;;;;;;;;;;;
+;Opel;Grandland X plug-in;Enjoy;5.990.000;I4 1,6 l turbo bensín + 13 kWh rafhlaða, rafmótor;224;1,7;50;8 gíra sjálfskipting;FWD;5;
+;Opel;Grandland X plug-in;Innovation;6.290.000;I4 1,6 l turbo bensín + 13 kWh rafhlaða, rafmótor;224;1,7;50;8 gíra sjálfskipting;FWD;5;
+;Opel;Grandland X plug-in;Ultimate;6.590.000;I4 1,6 l turbo bensín + 13 kWh rafhlaða, rafmótor;224;1,7;50;8 gíra sjálfskipting;FWD;5;
+;Opel;Grandland X plug-in;Innovation AWD;6.990.000;I4 1,6 l turbo bensín + 13 kWh rafhlaða, rafmótor;300;1,6;59;8 gíra sjálfskipting;AWD;5;
+;Opel;Grandland X plug-in;Ultimate AWD;7.390.000;I4 1,6 l turbo bensín + 13 kWh rafhlaða, rafmótor;300;1,6;59;8 gíra sjálfskipting;AWD;5;
+e-208 5-door;;;;;;;;;;;;
+;Peugeot;e-208 5-door;Active;4.190.000;50 kWh rafhlaða, rafmótor;136;;340;1 gíra sjálfskipting;FWD;5;836
+;Peugeot;e-208 5-door;Allure;4.450.000;50 kWh rafhlaða, rafmótor;136;;340;1 gíra sjálfskipting;FWD;5;837
+;Peugeot;e-208 5-door;GT;4.790.000;50 kWh rafhlaða, rafmótor;136;;340;1 gíra sjálfskipting;FWD;5;838
+e-2008 crossover;;;;;;;;;;;;
+;Peugeot;e-2008 crossover;Active;4.650.000;50 kWh rafhlaða, rafmótor;136;;310;1 gíra sjálfskipting;FWD;5;832
+;Peugeot;e-2008 crossover;Allure;4.870.000;50 kWh rafhlaða, rafmótor;136;;310;1 gíra sjálfskipting;FWD;5;833
+;Peugeot;e-2008 crossover;GT;5.270.000;50 kWh rafhlaða, rafmótor;136;;310;1 gíra sjálfskipting;FWD;5;835
+;Peugeot;e-2008 crossover;GT Line;5.050.000;50 kWh rafhlaða, rafmótor;136;;310;1 gíra sjálfskipting;FWD;5;834
+3008 crossover;;;;;;;;;;;;
+;Peugeot;3008 crossover;Active 1,2 e-THP;4.990.000;I3 1,2 l bensín;130;6,4;;6 gíra beinskipting;FWD;5;764
+;Peugeot;3008 crossover;Active 1,2 e-THP automatic;5.190.000;I3 1,2 l bensín;130;6,7;;8 gíra sjálfskipting;FWD;5;765
+;Peugeot;3008 crossover;Active 1,5 BlueHdi;5.150.000;I4 1,5 l turbo dísil;130;5,2;;6 gíra beinskipting;FWD;5;766
+;Peugeot;3008 crossover;Active 1,5 BlueHdi automatic;5.350.000;I4 1,5 l turbo dísil;130;5,2;;8 gíra sjálfskipting;FWD;5;767
+;Peugeot;3008 crossover;Allure 1,2 e-THP;5.190.000;I3 1,2 l bensín;130;6,4;;6 gíra beinskipting;FWD;5;768
+;Peugeot;3008 crossover;Allure 1,2 e-THP automatic;5.390.000;I3 1,2 l bensín;130;6,7;;8 gíra sjálfskipting;FWD;5;769
+;Peugeot;3008 crossover;Allure 1,5 BlueHdi;5.290.000;I4 1,5 l turbo dísil;130;5,2;;6 gíra beinskipting;FWD;5;770
+;Peugeot;3008 crossover;Allure 1,5 BlueHdi automatic;5.590.000;I4 1,5 l turbo dísil;130;5,2;;8 gíra sjálfskipting;FWD;5;771
+;Peugeot;3008 crossover;GT 2,0 BlueHdi Automatic;6.790.000;I4 2,0 l turbo dísil;180;6,2;;8 gíra sjálfskipting;FWD;5;775
+;Peugeot;3008 crossover;GT Line 1,5 BlueHDI automatic;5.890.000;I4 1,5 l turbo dísil;130;5,2;;8 gíra sjálfskipting;FWD;5;773
+;Peugeot;3008 crossover;GT Line 2,0 BlueHdi Automatic;6.790.000;I4 2,0 l turbo dísil;180;6,2;;8 gíra sjálfskipting;FWD;5;774
+308 hatchback;;;;;;;;;;;;
+;Peugeot;308 hatchback;Active 1,2 PureTech;3.490.000;I3 1,2 l turbo bensín;130;5,9;;6 gíra beinskipting;FWD;5;780
+;Peugeot;308 hatchback;Active 1,2 PureTech automatic;3.790.000;I3 1,2 l turbo bensín;130;5,9;;8 gíra sjálfskipting;FWD;5;781
+;Peugeot;308 hatchback;Active 1,5 BlueHdi;3.590.000;I4 1,5 l turbo dísil;130;4,6;;6 gíra beinskipting;FWD;5;782
+;Peugeot;308 hatchback;Active 1,5 BlueHdi automatic;3.890.000;I4 1,5 l turbo dísil;130;4,9;;8 gíra sjálfskipting;FWD;5;783
+;Peugeot;308 hatchback;Allure 1,2 PureTech;3.690.000;I3 1,2 l turbo bensín;130;6,0;;6 gíra beinskipting;FWD;5;784
+;Peugeot;308 hatchback;Allure 1,2 PureTech automatic;4.090.000;I3 1,2 l turbo bensín;130;5,9;;8 gíra sjálfskipting;FWD;5;785
+;Peugeot;308 hatchback;Allure 1,5 BlueHdi;3.790.000;I4 1,5 l turbo dísil;130;4,6;;6 gíra beinskipting;FWD;5;786
+;Peugeot;308 hatchback;Allure 1,5 BlueHdi automatic;4.090.000;I4 1,5 l turbo dísil;130;4,6;;8 gíra sjálfskipting;FWD;5;787
+308 SW;;;;;;;;;;;;
+;Peugeot;308 SW;Active 1,2 PureTech;3.810.000;I3 1,2 l turbo bensín;130;6,2;;6 gíra beinskipting;FWD;5;788
+;Peugeot;308 SW;Active 1,2 PureTech automatic;4.010.000;I3 1,2 l turbo bensín;130;5,8;;8 gíra sjálfskipting;FWD;5;789
+;Peugeot;308 SW;Active 1,5 BlueHdi;3.910.000;I4 1,5 l turbo dísil;130;4,8;;6 gíra beinskipting;FWD;5;790
+;Peugeot;308 SW;Active 1,5 BlueHdi automatic;4.150.000;I4 1,5 l turbo dísil;130;4,9;;8 gíra sjálfskipting;FWD;5;791
+;Peugeot;308 SW;Allure 1,2 PureTech;4.050.000;I3 1,2 l turbo bensín;130;6,2;;6 gíra beinskipting;FWD;5;792
+;Peugeot;308 SW;Allure 1,2 PureTech automatic;4.250.000;I3 1,2 l turbo bensín;130;5,8;;8 gíra sjálfskipting;FWD;5;793
+;Peugeot;308 SW;Allure 1,5 BlueHdi;4.050.000;I4 1,5 l turbo dísil;130;4,8;;6 gíra beinskipting;FWD;5;794
+;Peugeot;308 SW;Allure 1,5 BlueHdi automatic;4.350.000;I4 1,5 l turbo dísil;130;4,9;;8 gíra sjálfskipting;FWD;5;795
+5008 crossover;;;;;;;;;;;;
+;Peugeot;5008 crossover;Active 1,2 PureTech;5.490.000;I3 1,2 l turbo bensín;130;5,3;;6 gíra beinskipting;FWD;7;796
+;Peugeot;5008 crossover;Active 1,2 PureTech automatic;5.630.000;I3 1,2 l turbo bensín;130;5,3;;8 gíra sjálfskipting;FWD;7;797
+;Peugeot;5008 crossover;Active 1,5 BlueHdi;5.640.000;I4 1,5 l turbo dísil;130;4,1;;6 gíra beinskipting;FWD;7;798
+;Peugeot;5008 crossover;Active 1,5 BlueHdi automatic;5.780.000;I4 1,5 l turbo dísil;130;4,0;;8 gíra sjálfskipting;FWD;7;799
+;Peugeot;5008 crossover;Allure 1,2 PureTech;5.590.000;I3 1,2 l turbo bensín;130;5,4;;6 gíra beinskipting;FWD;7;800
+;Peugeot;5008 crossover;Allure 1,2 PureTech automatic;5.730.000;I3 1,2 l turbo bensín;130;5,4;;8 gíra sjálfskipting;FWD;7;801
+;Peugeot;5008 crossover;Allure 1,5 BlueHdi;5.790.000;I4 1,5 l turbo dísil;130;4,2;;6 gíra beinskipting;FWD;7;802
+;Peugeot;5008 crossover;Allure 1,5 BlueHdi automatic;5.930.000;I4 1,5 l turbo dísil;130;4,1;;8 gíra sjálfskipting;FWD;7;803
+;Peugeot;5008 crossover;GT 2,0 BlueHdi Automatic;7.290.000;I4 2,0 l turbo bensín;180;4,9;;8 gíra sjálfskipting;FWD;7;807
+;Peugeot;5008 crossover;GT Line 1,5 BlueHDI automatic;6.270.000;I4 1,5 l turbo dísil;130;4,1;;8 gíra sjálfskipting;FWD;7;805
+2008 crossover;;;;;;;;;;;;
+;Peugeot;2008 crossover;Active 1,2 PureTech 100 hp;3.530.000;I3 1,2 l turbo bensín;100;4,6;;6 gíra beinskipting;FWD;5;746
+;Peugeot;2008 crossover;Active 1,2 PureTech 130 hp;3.850.000;I3 1,2 l turbo bensín;130;4,5;;6 gíra beinskipting;FWD;5;747
+;Peugeot;2008 crossover;Active 1,2 PureTech 130 hp automatic;4.190.000;I3 1,2 l turbo bensín;130;4,3;;8 gíra sjálfskipting;FWD;5;748
+;Peugeot;2008 crossover;Allure 1,2 PureTech 130 hp;4.130.000;I3 1,2 l turbo bensín;130;4,5;;6 gíra beinskipting;FWD;5;749
+;Peugeot;2008 crossover;Allure 1,2 PureTech 130 hp automatic;4.490.000;I3 1,2 l turbo bensín;130;4,3;;8 gíra sjálfskipting;FWD;5;750
+;Peugeot;2008 crossover;Allure 1,5 BlueHdi 130 hp automatic;4.620.000;I4 1,5 l turbo dísil;130;3,8;;8 gíra sjálfskipting;FWD;5;751
+;Peugeot;2008 crossover;GT 1,2 PureTech 130 hp automatic;4.390.000;I3 1,2 l turbo bensín;130;4,3;;8 gíra sjálfskipting;FWD;5;755
+;Peugeot;2008 crossover;GT Line 1,2 PureTech 130 hp;4.650.000;I3 1,2 l turbo bensín;130;4,5;;6 gíra beinskipting;FWD;5;752
+;Peugeot;2008 crossover;GT Line 1,2 PureTech 130 hp automatic;5.020.000;I3 1,2 l turbo bensín;130;4,3;;8 gíra sjálfskipting;FWD;5;753
+;Peugeot;2008 crossover;GT Line 1,5 BlueHdi 130 hp automatic;4.870.000;I4 1,5 l turbo dísil;130;3,8;;8 gíra sjálfskipting;FWD;5;754
+508 liftback;;;;;;;;;;;;
+;Peugeot;508 liftback;Active 1,5 BlueHdi;4.740.000;I4 1,5 l turbo dísil;130;4,7;;6 gíra beinskipting;FWD;5;808
+;Peugeot;508 liftback;Active 1,5 BlueHdi automatic;4.940.000;I4 1,5 l turbo dísil;130;4,8;;8 gíra sjálfskipting;FWD;5;809
+;Peugeot;508 liftback;Allure 1,5 BlueHdi;5.030.000;I4 1,5 l turbo dísil;130;4,7;;6 gíra beinskipting;FWD;5;810
+;Peugeot;508 liftback;Allure 1,5 BlueHdi automatic;5.230.000;I4 1,5 l turbo dísil;130;4,8;;8 gíra sjálfskipting;FWD;5;811
+;Peugeot;508 liftback;Allure 2,0 BlueHdi automatic;5.840.000;I4 2,0 l turbo dísil;163;5,5;;8 gíra sjálfskipting;FWD;5;813
+;Peugeot;508 liftback;GT 2,0 BlueHdi Automatic;6.770.000;I4 2,0 l turbo dísil;177;5,8;;8 gíra sjálfskipting;FWD;5;819
+;Peugeot;508 liftback;GT Line 1,5 BlueHdi;5.230.000;I4 1,5 l turbo dísil;130;4,7;;6 gíra beinskipting;FWD;5;814
+;Peugeot;508 liftback;GT Line 1,5 BlueHdi automatic;5.430.000;I4 1,5 l turbo dísil;130;4,8;;8 gíra sjálfskipting;FWD;5;815
+;Peugeot;508 liftback;GT Line 2,0 BlueHdi automatic;6.270.000;I4 2,0 l turbo dísil;177;5,8;;8 gíra sjálfskipting;FWD;5;817
+508 SW;;;;;;;;;;;;
+;Peugeot;508 SW;Active 1,5 BlueHdi;5.050.000;I4 1,5 l turbo dísil;130;4,9;;6 gíra beinskipting;FWD;5;820
+;Peugeot;508 SW;Active 1,5 BlueHdi automatic;5.250.000;I4 1,5 l turbo dísil;130;5,0;;8 gíra sjálfskipting;FWD;5;821
+;Peugeot;508 SW;Allure 1,5 BlueHdi;5.350.000;I4 1,5 l turbo dísil;130;4,9;;6 gíra beinskipting;FWD;5;822
+;Peugeot;508 SW;Allure 1,5 BlueHdi automatic;5.550.000;I4 1,5 l turbo dísil;130;5,0;;8 gíra sjálfskipting;FWD;5;823
+;Peugeot;508 SW;Allure 2,0 BlueHdi automatic;6.150.000;I4 1,6 l bensín;180;6,9;;8 gíra sjálfskipting;FWD;5;824
+;Peugeot;508 SW;GT 2,0 BlueHdi Automatic;7.060.000;I4 1,6 l bensín;180;6,0;;8 gíra sjálfskipting;FWD;5;828
+;Peugeot;508 SW;GT Line 1,5 BlueHdi;5.550.000;I4 2,0 l turbo dísil;163;5,6;;8 gíra sjálfskipting;FWD;5;825
+;Peugeot;508 SW;GT Line 1,5 BlueHdi automatic;5.750.000;I4 1,5 l turbo dísil;130;4,9;;6 gíra beinskipting;FWD;5;826
+;Peugeot;508 SW;GT Line 2,0 BlueHdi automatic;6.550.000;I4 1,5 l turbo dísil;130;5,0;;8 gíra sjálfskipting;FWD;5;827
+208 5-door;;;;;;;;;;;;
+;Peugeot;208 5-door;Active 100 hp;3.290.000;I3 1,2 l turbo bensín;100;5,4;;5 gíra beinskipting;FWD;5;757
+;Peugeot;208 5-door;Active 100 hp automatic;3.550.000;I3 1,2 l turbo bensín;100;5,8;;8 gíra sjálfskipting;FWD;5;758
+;Peugeot;208 5-door;Active 75 hp;2.890.000;I3 1,2 l turbo bensín;75;5,4;;5 gíra beinskipting;FWD;5;756
+;Peugeot;208 5-door;Allure 100 hp;3.590.000;I3 1,2 l turbo bensín;100;5,5;;5 gíra beinskipting;FWD;5;759
+;Peugeot;208 5-door;Allure 100 hp automatic;3.890.000;I3 1,2 l turbo bensín;100;5,8;;8 gíra sjálfskipting;FWD;5;760
+;Peugeot;208 5-door;GT Line 100 hp;3.890.000;I3 1,2 l turbo bensín;100;5,6;;5 gíra beinskipting;FWD;5;761
+;Peugeot;208 5-door;GT Line 100 hp automatic;4.190.000;I3 1,2 l turbo bensín;100;5,9;;8 gíra sjálfskipting;FWD;5;762
+;Peugeot;208 5-door;GT Line 130 hp automatic;4.440.000;I3 1,2 l turbo bensín;130;5,7;;8 gíra sjálfskipting;FWD;5;763
+3008 PHEV crossover;;;;;;;;;;;;
+;Peugeot;3008 PHEV crossover;Allure;5.990.000;I4 1,6 l turbo bensín + 13 kWh rafhlaða, rafmótor;225;2,2;50;8 gíra sjálfskipting;FWD;5;776
+;Peugeot;3008 PHEV crossover;GT AWD;7.420.000;I4 1,6 l turbo bensín + 13 kWh rafhlaða, rafmótor;300;1,6;59;8 gíra sjálfskipting;AWD;5;779
+;Peugeot;3008 PHEV crossover;GT Line;6.290.000;I4 1,6 l turbo bensín + 13 kWh rafhlaða, rafmótor;225;2,2;50;8 gíra sjálfskipting;FWD;5;777
+;Peugeot;3008 PHEV crossover;GT Line AWD;6.930.000;I4 1,6 l turbo bensín + 13 kWh rafhlaða, rafmótor;300;1,6;59;8 gíra sjálfskipting;AWD;5;778
+Taycan;;;;;;;;;;;;
+;Porsche;Taycan;4S;13.900.000;79 kWh rafhlaða, 2 rafmótorar;435;;466;2 gíra sjálfskipting;AWD;4;843
+Macan;;;;;;;;;;;;
+;Porsche;Macan;Base;11.490.000;I4 2,0 l bensín;245;8,1;;7 gíra DCT sjálfskipting;AWD;5;841
+;Porsche;Macan;S;12.990.000;I4 3,0 l turbo bensín;345;8,9;;7 gíra DCT sjálfskipting;AWD;5;842
+Cayenne E-Hybrid SUV;;;;;;;;;;;;
+;Porsche;Cayenne E-Hybrid SUV;E-Hybrid;12.990.000;V6 3,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;462;3,4;44;8 gíra sjálfskipting;AWD;5;840
+Cayenne E-Hybrid coupe;;;;;;;;;;;;
+;Porsche;Cayenne E-Hybrid coupe;E-Hybrid;13.990.000;V6 3,0 l turbo bensín + 14 kWh rafhlaða, rafmótor;462;4,0;44;8 gíra sjálfskipting;AWD;5;839
+Kadjar;;;;;;;;;;;;
+;Renault;Kadjar;Bose 1,3 petrol automatic;5.490.000;I4 1,3 l turbo bensín;160;5,7;;7 gíra DCT sjálfskipting;FWD;5;854
+;Renault;Kadjar;Bose 1,5 diesel automatic;4.550.000;I4 1,5 l turbo dísil;115;4,2;;7 gíra DCT sjálfskipting;FWD;5;851
+;Renault;Kadjar;Zen 1,3 petrol;4.550.000;I4 1,3 l turbo bensín;140;5,9;;6 gíra beinskipting;FWD;5;852
+Megane hatchback;;;;;;;;;;;;
+;Renault;Megane hatchback;Bose edition EDC;5.150.000;I4 1,5 l turbo dísil;110;3,7;;7 gíra DCT sjálfskipting;FWD;5;860
+;Renault;Megane hatchback;Zen;3.890.000;I4 1,5 l turbo dísil;110;3,7;;6 gíra beinskipting;FWD;5;858
+;Renault;Megane hatchback;Zen EDC;4.190.000;I4 1,5 l turbo dísil;110;3,7;;7 gíra DCT sjálfskipting;FWD;5;859
+Megane sports tourer;;;;;;;;;;;;
+;Renault;Megane sports tourer;Bose edition EDC;5.350.000;I4 1,5 l turbo dísil;110;3,7;;7 gíra DCT sjálfskipting;FWD;5;863
+;Renault;Megane sports tourer;Zen;4.250.000;I4 1,5 l turbo dísil;110;3,7;;6 gíra beinskipting;FWD;5;861
+;Renault;Megane sports tourer;Zen EDC;4.590.000;I4 1,5 l turbo dísil;110;3,7;;7 gíra DCT sjálfskipting;FWD;5;862
+Koleos;;;;;;;;;;;;
+;Renault;Koleos;Initial Paris;7.990.000;I4 2,0 l turbo dísil;177;5,8;;1 gíra CVT sjálfskipting;AWD;5;857
+;Renault;Koleos;Intens;7.190.000;I4 2,0 l turbo dísil;177;5,8;;1 gíra CVT sjálfskipting;AWD;5;856
+Captur;;;;;;;;;;;;
+;Renault;Captur;Intens;4.790.000;I4 1,2 l turbo bensín;155;6,6;;7 gíra DCT sjálfskipting;FWD;5;845
+;Renault;Captur;Zen;3.890.000;I3 1,0 l turbo bensín;100;6,4;;5 gíra beinskipting;FWD;5;844
+Zoe;;;;;;;;;;;;
+;Renault;Zoe;Intens;4.950.000;52 kWh rafhlaða, rafmótor;136;;383;1 gíra sjálfskipting;FWD;5;873
+;Renault;Zoe;Life;4.450.000;52 kWh rafhlaða, rafmótor;108;;395;1 gíra sjálfskipting;FWD;5;871
+;Renault;Zoe;Zen;4.650.000;52 kWh rafhlaða, rafmótor;108;;385;1 gíra sjálfskipting;FWD;5;872
+Talisman saloon;;;;;;;;;;;;
+;Renault;Talisman saloon;Intens 1,6 diesel EDC;5.650.000;I4 1,6 l turbo dísil;160;4,5;;6 gíra DCT sjálfskipting;FWD;5;869
+;Renault;Talisman saloon;Intens 1,6 petrol EDC;5.950.000;I4 1,6 l turbo bensín;200;5,8;;6 gíra DCT sjálfskipting;FWD;5;870
+;Renault;Talisman saloon;Zen 1,5 diesel;4.290.000;I4 1,5 l turbo dísil;110;3,7;;6 gíra beinskipting;FWD;5;867
+;Renault;Talisman saloon;Zen 1,5 diesel EDC;4.650.000;I4 1,5 l turbo dísil;110;3,8;;6 gíra DCT sjálfskipting;FWD;5;868
+Talisman grand tour;;;;;;;;;;;;
+;Renault;Talisman grand tour;Intens 1,6 diesel EDC;5.750.000;I4 1,6 l turbo dísil;160;4,5;;6 gíra DCT sjálfskipting;FWD;5;866
+;Renault;Talisman grand tour;Zen 1,5 diesel;4.490.000;I4 1,5 l turbo dísil;110;3,7;;6 gíra beinskipting;FWD;5;864
+;Renault;Talisman grand tour;Zen 1,5 diesel EDC;4.690.000;I4 1,5 l turbo dísil;110;3,8;;6 gíra DCT sjálfskipting;FWD;5;865
+Clio hatchback;;;;;;;;;;;;
+;Renault;Clio hatchback;Intens DCI;4.190.000;I4 1,5 l turbo dísil;85;4,1;;6 gíra beinskipting;FWD;5;
+;Renault;Clio hatchback;Intens EDC;3.390.000;I4 1,3 l turbo bensín;130;5,7;;7 gíra DCT sjálfskipting;FWD;5;
+;Renault;Clio hatchback;RS Line EDC;3.650.000;I4 1,3 l turbo bensín;130;5,7;;7 gíra DCT sjálfskipting;FWD;5;
+;Renault;Clio hatchback;Zen DCI;4.090.000;I4 1,5 l turbo dísil;85;4,1;;6 gíra beinskipting;FWD;5;
+;Renault;Clio hatchback;Zen TCE;2.990.000;I3 1,0 l turbo bensín;100;5,2;;5 gíra beinskipting;FWD;5;846
+;Renault;Clio hatchback;Zen TCE CVT;3.350.000;I3 1,0 l turbo bensín;100;5,8;;1 gíra CVT sjálfskipting;FWD;5;847
+Espace;;;;;;;;;;;;
+;Renault;Espace;Zen;6.990.000;I4 2,0 l turbo dísil;200;5,4;;6 gíra DCT sjálfskipting;FWD;7;849
+Fabia hatchback;;;;;;;;;;;;
+;Skoda;Fabia hatchback;Active;2.190.000;I3 1,0 l bensín;75;5,9;;5 gíra beinskipting;FWD;5;874
+Kamiq;;;;;;;;;;;;
+;Skoda;Kamiq;Ambition;4.090.000;I3 1,0 l turbo bensín;115;6,1;;6 gíra DCT sjálfskipting;FWD;5;
+;Skoda;Kamiq;Style;4.350.000;I3 1,0 l turbo bensín;115;6,1;;6 gíra DCT sjálfskipting;FWD;5;
+Octavia G-Tec combi;;;;;;;;;;;;
+;Skoda;Octavia G-Tec combi;Ambition;4.240.000;I4 1,5 l turbo bensín / metan;130;5,4;;7 gíra DCT sjálfskipting;FWD;5;883
+;Skoda;Octavia G-Tec combi;Ambition anniversary;4.600.000;I4 1,5 l turbo bensín / metan;130;5,4;;7 gíra DCT sjálfskipting;FWD;5;
+Octavia combi;;;;;;;;;;;;
+;Skoda;Octavia combi;Ambition;4.680.000;I4 1,5 l turbo bensín;150;5,1;;7 gíra DCT sjálfskipting;FWD;5;882
+;Skoda;Octavia combi;Ambition anniversary;5.040.000;I4 1,5 l turbo bensín;150;5,1;;7 gíra DCT sjálfskipting;FWD;5;
+Superb iV limo;;;;;;;;;;;;
+;Skoda;Superb iV limo;Ambition;5.590.000;I4 1,4 l turbo bensín + 13 kWh rafhlaða, rafmótor;215;1,7;55;7 gíra DCT sjálfskipting;FWD;5;892
+;Skoda;Superb iV limo;L&K;6.890.000;I4 1,4 l turbo bensín + 13 kWh rafhlaða, rafmótor;215;1,7;55;7 gíra DCT sjálfskipting;FWD;5;894
+;Skoda;Superb iV limo;Style;6.090.000;I4 1,4 l turbo bensín + 13 kWh rafhlaða, rafmótor;215;1,7;55;7 gíra DCT sjálfskipting;FWD;5;893
+Superb iV combi;;;;;;;;;;;;
+;Skoda;Superb iV combi;Ambition;5.890.000;I4 1,4 l turbo bensín + 13 kWh rafhlaða, rafmótor;215;1,5;55;7 gíra DCT sjálfskipting;FWD;5;889
+;Skoda;Superb iV combi;L&K;7.090.000;I4 1,4 l turbo bensín + 13 kWh rafhlaða, rafmótor;215;1,5;55;7 gíra DCT sjálfskipting;FWD;5;891
+;Skoda;Superb iV combi;Style;6.390.000;I4 1,4 l turbo bensín + 13 kWh rafhlaða, rafmótor;215;1,5;55;7 gíra DCT sjálfskipting;FWD;5;890
+Superb limo;;;;;;;;;;;;
+;Skoda;Superb limo;Ambition;5.790.000;I4 2,0 l turbo dísil;150;3,8;;7 gíra DCT sjálfskipting;FWD;5;895
+;Skoda;Superb limo;Ambition 4x4;6.690.000;I4 2,0 l turbo dísil;190;4,9;;7 gíra DCT sjálfskipting;AWD;5;897
+;Skoda;Superb limo;L&K 4x4;8.340.000;I4 2,0 l turbo dísil;190;4,9;;7 gíra DCT sjálfskipting;AWD;5;899
+;Skoda;Superb limo;Style;6.290.000;I4 2,0 l turbo dísil;150;3,8;;7 gíra DCT sjálfskipting;FWD;5;896
+;Skoda;Superb limo;Style 4x4;7.240.000;I4 2,0 l turbo dísil;190;4,9;;7 gíra DCT sjálfskipting;AWD;5;898
+Superb combi;;;;;;;;;;;;
+;Skoda;Superb combi;Ambition;6.090.000;I4 2,0 l turbo dísil;150;3,8;;7 gíra DCT sjálfskipting;FWD;5;884
+;Skoda;Superb combi;Ambition 4x4;6.990.000;I4 2,0 l turbo dísil;190;4,9;;7 gíra DCT sjálfskipting;AWD;5;886
+;Skoda;Superb combi;L&K 4x4;8.690.000;I4 2,0 l turbo dísil;190;4,9;;7 gíra DCT sjálfskipting;AWD;5;888
+;Skoda;Superb combi;Style;6.590.000;I4 2,0 l turbo dísil;150;3,8;;7 gíra DCT sjálfskipting;FWD;5;885
+;Skoda;Superb combi;Style 4x4;7.440.000;I4 2,0 l turbo dísil;190;4,9;;7 gíra DCT sjálfskipting;AWD;5;887
+Karoq;;;;;;;;;;;;
+;Skoda;Karoq;Ambition 1,5 TSI;5.550.000;I4 1,5 l turbo petrol;150;5,3;;7 gíra DCT sjálfskipting;FWD;5;875
+;Skoda;Karoq;Ambition 2,0 TDI 4x4;6.290.000;I4 2,0 l turbo dísil;150;5,2;;7 gíra DCT sjálfskipting;AWD;5;878
+;Skoda;Karoq;Style 1,5 TSI;6.890.000;I4 1,5 l turbo petrol;150;5,3;;7 gíra DCT sjálfskipting;FWD;5;876
+Kodiaq;;;;;;;;;;;;
+;Skoda;Kodiaq;Ambition 2,0 TDI 150 hp;7.290.000;I4 2,0 l turbo dísil;150;5,2;;7 gíra DCT sjálfskipting;AWD;5/7;879
+;Skoda;Kodiaq;Style 2,0 TDI 150 hp;8.090.000;I4 2,0 l turbo dísil;150;5,2;;7 gíra DCT sjálfskipting;AWD;5/7;880
+;Skoda;Kodiaq;Style 2,0 TDI 190 hp;8.690.000;I4 2,0 l turbo dísil;190;5,5;;7 gíra DCT sjálfskipting;AWD;5/7;881
+Tivoli;;;;;;;;;;;;
+;SsangYong;Tivoli;DLX;3.490.000;I4 1,6 l turbo dísil;115;4,5;;6 gíra beinskipting;AWD;5;906
+;SsangYong;Tivoli;DLX automatic;4.290.000;I4 1,6 l turbo dísil;115;5,9;;6 gíra sjálfskipting;AWD;5;907
+;SsangYong;Tivoli;HLX automatic;4.540.000;I4 1,6 l turbo dísil;115;5,9;;6 gíra sjálfskipting;AWD;5;908
+Tivoli XLV;;;;;;;;;;;;
+;SsangYong;Tivoli XLV;DLX;3.990.000;I4 1,6 l turbo dísil;115;5,1;;6 gíra beinskipting;AWD;5;909
+;SsangYong;Tivoli XLV;DLX automatic;4.690.000;I4 1,6 l turbo dísil;115;6,3;;6 gíra sjálfskipting;AWD;5;910
+;SsangYong;Tivoli XLV;HLX automatic;4.990.000;I4 1,6 l turbo dísil;115;6,3;;6 gíra sjálfskipting;AWD;5;911
+Korando;;;;;;;;;;;;
+;SsangYong;Korando;DLX;4.290.000;I4 2,2 l turbo dísil;178;5,8;;6 gíra beinskipting;AWD;5;900
+;SsangYong;Korando;DLX automatic;4.990.000;I4 2,2 l turbo dísil;178;6,9;;6 gíra sjálfskipting;AWD;5;901
+;SsangYong;Korando;HLX automatic;5.390.000;I4 2,2 l turbo dísil;178;6,9;;6 gíra sjálfskipting;AWD;5;902
+Rexton;;;;;;;;;;;;
+;SsangYong;Rexton;DLX;8.990.000;I4 2,2 l turbo dísil;181;8,3;;7 gíra sjálfskipting;AWD;7;904
+;SsangYong;Rexton;HLX;990.000;I4 2,2 l turbo dísil;181;8,3;;7 gíra sjálfskipting;AWD;7;905
+;SsangYong;Rexton;LX;7.490.000;I4 2,2 l turbo dísil;181;7,9;;6 gíra beinskipting;AWD;7;903
+XV;;;;;;;;;;;;
+;Subaru;XV;Lux;5.990.000;B4 1,6 l bensín;180;8,0;;1 gíra CVT sjálfskipting;AWD;5;918
+;Subaru;XV;Premium;5.490.000;B4 1,6 l bensín;180;8,0;;1 gíra CVT sjálfskipting;AWD;5;917
+XV e-Boxer;;;;;;;;;;;;
+;Subaru;XV e-Boxer;Lux;7.290.000;B4 2,0 l hybrid bensín;180;7,9;;1 gíra CVT sjálfskipting;AWD;5;920
+;Subaru;XV e-Boxer;Premium;6.390.000;B4 2,0 l hybrid bensín;180;7,9;;1 gíra CVT sjálfskipting;AWD;5;919
+Outback;;;;;;;;;;;;
+;Subaru;Outback;Lux;7.790.000;B4 2,5 l bensín;175;8,6;;1 gíra CVT sjálfskipting;AWD;5;916
+;Subaru;Outback;Premium;6.990.000;B4 2,5 l bensín;175;8,6;;1 gíra CVT sjálfskipting;AWD;5;915
+Forester e-Boxer;;;;;;;;;;;;
+;Subaru;Forester e-Boxer;Lux;8.190.000;B4 2,0 l hybrid bensín;150;8,1;;1 gíra CVT sjálfskipting;AWD;5;913
+;Subaru;Forester e-Boxer;Lux+;8.690.000;B4 2,0 l hybrid bensín;150;8,1;;1 gíra CVT sjálfskipting;AWD;5;914
+;Subaru;Forester e-Boxer;Premium;7.790.000;B4 2,0 l hybrid bensín;150;8,1;;1 gíra CVT sjálfskipting;AWD;5;912
+Ignis;;;;;;;;;;;;
+;Suzuki;Ignis;GL;3.080.000;I4 1,2 l bensín;90;5,0;;5 gíra beinskipting;AWD;4;924
+;Suzuki;Ignis;GLX;3.250.000;I4 1,2 l bensín;90;5,0;;5 gíra beinskipting;AWD;4;925
+Jimny;;;;;;;;;;;;
+;Suzuki;Jimny;GL;4.290.000;I4 1,5 l bensín;102;6,8;;5 gíra beinskipting;AWD;4;927
+;Suzuki;Jimny;GL automatic;4.730.000;I4 1,5 l bensín;102;7,5;;4 gíra sjálfskiptur;AWD;4;928
+;Suzuki;Jimny;GLX;4.670.000;I4 1,5 l bensín;102;6,8;;5 gíra beinskipting;AWD;4;929
+;Suzuki;Jimny;GLX automatic;5.090.000;I4 1,5 l bensín;102;7,5;;4 gíra sjálfskiptur;AWD;4;930
+S-Cross;;;;;;;;;;;;
+;Suzuki;S-Cross;GL 1,0;5.090.000;I3 1,0 l turbo bensín;112;5,6;;5 gíra beinskipting;AWD;5;931
+;Suzuki;S-Cross;GL 1,0 automatic;5.490.000;I3 1,0 l turbo bensín;112;6,2;;6 gíra sjálfskipting;AWD;5;932
+;Suzuki;S-Cross;GL 1,4;5.390.000;I4 1,4 l turbo bensín;140;7,3;;5 gíra beinskipting;AWD;5;935
+;Suzuki;S-Cross;GL 1,4 automatic;5.790.000;I4 1,4 l turbo bensín;140;7,5;;6 gíra sjálfskipting;AWD;5;936
+;Suzuki;S-Cross;GLX 1,0;5.480.000;I3 1,0 l turbo bensín;112;5,6;;5 gíra beinskipting;AWD;5;933
+;Suzuki;S-Cross;GLX 1,0 automatic;5.860.000;I3 1,0 l turbo bensín;112;6,2;;6 gíra sjálfskipting;AWD;5;934
+;Suzuki;S-Cross;GLX 1,4 automatic;6.340.000;I4 1,4 l turbo bensín;140;7,5;;6 gíra sjálfskipting;AWD;5;937
+Swift;;;;;;;;;;;;
+;Suzuki;Swift;GL 1,2 Dualjet;2.830.000;I4 1,2 l bensín;90;4,6;;5 gíra beinskipting;FWD;5;938
+;Suzuki;Swift;GL 1,2 Dualjet 4x4;3.360.000;I4 1,2 l bensín;90;4,9;;5 gíra beinskipting;AWD;5;940
+;Suzuki;Swift;GL 1,2 Dualjet automatic;3.150.000;I4 1,2 l bensín;90;4,8;;1 gíra CVT sjálfskipting;FWD;5;939
+Vitara;;;;;;;;;;;;
+;Suzuki;Vitara;GL+;5.240.000;I4 1,4 l turbo bensín;140;6,1;;6 gíra beinskipting;AWD;5;944
+;Suzuki;Vitara;GL+ automatic;5.640.000;I4 1,4 l turbo bensín;140;6,3;;6 gíra sjálfskipting;AWD;5;945
+;Suzuki;Vitara;GLX;5.790.000;I4 1,4 l turbo bensín;140;6,1;;6 gíra beinskipting;AWD;5;946
+;Suzuki;Vitara;GLX automatic;6.190.000;I4 1,4 l turbo bensín;140;6,3;;6 gíra sjálfskipting;AWD;5;947
+Ignis mild hybrid;;;;;;;;;;;;
+;Suzuki;Ignis mild hybrid;GLX;3.290.000;I4 1,2 l mild hybrid bensín;90;4,7;;5 gíra beinskipting;AWD;4;926
+Baleno;;;;;;;;;;;;
+;Suzuki;Baleno;GLX 1,0 Boosterjet;3.170.000;I3 1,0 l turbo bensín;112;4,5;;5 gíra beinskipting;FWD;5;922
+;Suzuki;Baleno;GLX 1,2 Dualjet;2.940.000;I4 1,2 l bensín;90;4,2;;5 gíra beinskipting;FWD;5;921
+Swift mild hybrid;;;;;;;;;;;;
+;Suzuki;Swift mild hybrid;GLX 1,0 Boosterjet mild hybrid automatic;3.275.000;I3 1,0 l turbo mild hybrid bensín;112;4,3;;5 gíra beinskipting;FWD;5;942
+Baleno mild hybrid;;;;;;;;;;;;
+;Suzuki;Baleno mild hybrid;GLX 1,2 Dualjet mild hybrid;3.050.000;I4 1,2 l mild hybrid bensín;90;4,0;;5 gíra beinskipting;FWD;5;923
+Swift Sport;;;;;;;;;;;;
+;Suzuki;Swift Sport;Sport;4.090.000;I4 1,4 l bensín;140;6,1;;6 gíra beinskipting;FWD;5;943
+Model 3;;;;;;;;;;;;
+;Tesla;Model 3;Long Range Dual Motor;6.450.163;75 kWh rafhlaða, 2 rafmótorar;449;;560;1 gíra sjálfskipting;AWD;5;949
+;Tesla;Model 3;Standard Range Plus;5.683.335;55 kWh rafhlaða, rafmótor;283;;409;1 gíra sjálfskipting;RWD;5;948
+Model S;;;;;;;;;;;;
+;Tesla;Model S;Long Range Dual Motor;10.868.191;100 kWh rafhlaða, 2 rafmótorar;517;;610;1 gíra sjálfskipting;AWD;5;951
+Model X;;;;;;;;;;;;
+;Tesla;Model X;Long Range Dual Motor;12.108.191;100 kWh rafhlaða, 2 rafmótorar;517;;507;1 gíra sjálfskipting;AWD;5/6/7;953
+Model 3 Performance;;;;;;;;;;;;
+;Tesla;Model 3 Performance;Performance Dual Motor;7.409.211;75 kWh rafhlaða, 2 rafmótorar;450;;530;1 gíra sjálfskipting;AWD;5;950
+Model S Performance;;;;;;;;;;;;
+;Tesla;Model S Performance;Performance Dual Motor;13.348.191;100 kWh rafhlaða, 2 rafmótorar;762;;593;1 gíra sjálfskipting;AWD;5;952
+Model X Performance;;;;;;;;;;;;
+;Tesla;Model X Performance;Performance Dual Motor;14.588.191;100 kWh rafhlaða, 2 rafmótorar;762;;487;1 gíra sjálfskipting;AWD;5/6/7;954
+Yaris 5-door;;;;;;;;;;;;
+;Toyota;Yaris 5-door;Active;3.080.000;I4 1,5 l bensín;111;5,0;;6 gíra beinskipting;FWD;5;1036
+;Toyota;Yaris 5-door;Active automatic;3.330.000;I4 1,5 l bensín;111;4,8;;1 gíra CVT sjálfskipting;FWD;5;1037
+;Toyota;Yaris 5-door;Active Y20;3.380.000;I4 1,5 l bensín;111;4,8;;6 gíra beinskipting;FWD;5;1040
+;Toyota;Yaris 5-door;Active Y20 automatic;3.630.000;I4 1,5 l bensín;111;4,8;;1 gíra CVT sjálfskipting;FWD;5;1044
+;Toyota;Yaris 5-door;Active Y20 Bi-tone;3.390.000;I4 1,5 l bensín;111;4,8;;6 gíra beinskipting;FWD;5;1042
+;Toyota;Yaris 5-door;Active Y20 Bi-tone automatic;3.390.000;I4 1,5 l bensín;111;4,8;;1 gíra CVT sjálfskipting;FWD;5;1046
+;Toyota;Yaris 5-door;Active Y20 Panorama;3.480.000;I4 1,5 l bensín;111;4,8;;6 gíra beinskipting;FWD;5;1041
+;Toyota;Yaris 5-door;Active Y20 Panorama automatic;3.730.000;I4 1,5 l bensín;111;4,8;;1 gíra CVT sjálfskipting;FWD;5;1045
+;Toyota;Yaris 5-door;Active Y20 Panorama Bi-tone;3.490.000;I4 1,5 l bensín;111;4,8;;6 gíra beinskipting;FWD;5;1043
+;Toyota;Yaris 5-door;Active Y20 Panorama Bi-tone automatic;3.730.000;I4 1,5 l bensín;111;4,8;;1 gíra CVT sjálfskipting;FWD;5;1047
+;Toyota;Yaris 5-door;Live;2.930.000;I3 1,0 bensín;69;4,3;;5 gíra beinskipting;FWD;5;1035
+;Toyota;Yaris 5-door;Luxury automatic;3.990.000;I4 1,5 l bensín;111;4,8;;1 gíra CVT sjálfskipting;FWD;5;1038
+;Toyota;Yaris 5-door;Luxury Bi-tone automatic;4.050.000;I4 1,5 l bensín;111;4,8;;1 gíra CVT sjálfskipting;FWD;5;1039
+Prius PHV;;;;;;;;;;;;
+;Toyota;Prius PHV;Active;5.860.000;I4 1,8 l bensín + 7 kWh rafhlaða, rafmótor;122;0,8;40;1 gíra CVT sjálfskipting;FWD;5;1019
+;Toyota;Prius PHV;Active leather;6.060.000;I4 1,8 l bensín + 7 kWh rafhlaða, rafmótor;122;0,8;40;1 gíra CVT sjálfskipting;FWD;5;1020
+Camry hybrid;;;;;;;;;;;;
+;Toyota;Camry hybrid;Active;8.090.000;I4 2,5 l hybrid bensín;218;4,3;;1 gíra CVT sjálfskipting;FWD;5;981
+;Toyota;Camry hybrid;Live Plus;7.690.000;I4 2,5 l hybrid bensín;218;4,3;;1 gíra CVT sjálfskipting;FWD;5;980
+;Toyota;Camry hybrid;Luxury;8.490.000;I4 2,5 l hybrid bensín;218;4,3;;1 gíra CVT sjálfskipting;FWD;5;982
+Corolla hatchback;;;;;;;;;;;;
+;Toyota;Corolla hatchback;Active 1,2 automatic;4.770.000;I4 1,2 l turbo bensín;116;5,5;;1 gíra CVT sjálfskipting;FWD;5;985
+;Toyota;Corolla hatchback;Live 1,2;4.150.000;I4 1,2 l turbo bensín;116;5,6;;6 gíra beinskipting;FWD;5;983
+;Toyota;Corolla hatchback;Live 1,2 automatic;4.390.000;I4 1,2 l turbo bensín;116;5,5;;1 gíra CVT sjálfskipting;FWD;5;984
+Corolla touring sports;;;;;;;;;;;;
+;Toyota;Corolla touring sports;Active 1,2 automatic;4.980.000;I4 1,2 l turbo bensín;116;5,6;;1 gíra CVT sjálfskipting;FWD;5;1008
+;Toyota;Corolla touring sports;Live 1,2;4.360.000;I4 1,2 l turbo bensín;116;5,6;;6 gíra beinskipting;FWD;5;1006
+;Toyota;Corolla touring sports;Live 1,2 automatic;4.630.000;I4 1,2 l turbo bensín;116;5,6;;1 gíra CVT sjálfskipting;FWD;5;1007
+Corolla sedan;;;;;;;;;;;;
+;Toyota;Corolla sedan;Active 1,6;4.670.000;I4 1,6 l bensín;130;6,0;;6 gíra beinskipting;FWD;5;1004
+;Toyota;Corolla sedan;Active 1,6 automatic;4.840.000;I4 1,6 l bensín;130;5,8;;1 gíra CVT sjálfskipting;FWD;5;1005
+;Toyota;Corolla sedan;Live 1,6;4.150.000;I4 1,6 l bensín;130;6,0;;6 gíra beinskipting;FWD;5;1003
+Corolla hybrid hatchback;;;;;;;;;;;;
+;Toyota;Corolla hybrid hatchback;Active 1,8 automatic;5.190.000;I4 1,8 l hybrid bensín;122;3,4;;1 gíra CVT sjálfskipting;FWD;5;987
+;Toyota;Corolla hybrid hatchback;Active 2,0 automatic;5.650.000;I4 2,0 l hybrid bensín;180;3,8;;1 gíra CVT sjálfskipting;FWD;5;990
+;Toyota;Corolla hybrid hatchback;Live 1,8 automatic;4.890.000;I4 1,8 l hybrid bensín;122;3,4;;1 gíra CVT sjálfskipting;FWD;5;986
+;Toyota;Corolla hybrid hatchback;Luxury 1,8 automatic;5.880.000;I4 1,8 l hybrid bensín;122;3,4;;1 gíra CVT sjálfskipting;FWD;5;989
+;Toyota;Corolla hybrid hatchback;Luxury 2,0 automatic;6.290.000;I4 2,0 l hybrid bensín;180;3,8;;1 gíra CVT sjálfskipting;FWD;5;992
+;Toyota;Corolla hybrid hatchback;Style 1,8 automatic;5.390.000;I4 1,8 l hybrid bensín;122;3,4;;1 gíra CVT sjálfskipting;FWD;5;988
+;Toyota;Corolla hybrid hatchback;Style 2,0 automatic;5.860.000;I4 2,0 l hybrid bensín;180;3,8;;1 gíra CVT sjálfskipting;FWD;5;991
+Corolla hybrid sedan;;;;;;;;;;;;
+;Toyota;Corolla hybrid sedan;Active 1,8 automatic;5.280.000;I4 1,8 l hybrid bensín;121;3,8;;1 gíra CVT sjálfskipting;FWD;5;994
+;Toyota;Corolla hybrid sedan;Active Plus 1,8 automatic;5.590.000;I4 1,8 l hybrid bensín;121;3,8;;1 gíra CVT sjálfskipting;FWD;5;995
+;Toyota;Corolla hybrid sedan;Live Plus 1,8 automatic;5.090.000;I4 1,8 l hybrid bensín;121;3,8;;1 gíra CVT sjálfskipting;FWD;5;993
+;Toyota;Corolla hybrid sedan;Luxury 1,8 automatic;5.940.000;I4 1,8 l hybrid bensín;121;3,8;;1 gíra CVT sjálfskipting;FWD;5;996
+Corolla hybrid touring sports;;;;;;;;;;;;
+;Toyota;Corolla hybrid touring sports;Active 1,8 automatic;5.350.000;I4 1,8 l hybrid bensín;122;3,3;;1 gíra CVT sjálfskipting;FWD;5;998
+;Toyota;Corolla hybrid touring sports;Active 2,0 automatic;5.890.000;I4 2,0 l hybrid bensín;180;3,9;;1 gíra CVT sjálfskipting;FWD;5;1001
+;Toyota;Corolla hybrid touring sports;Live 1,2 automatic;4.940.000;I4 1,8 l hybrid bensín;122;3,3;;1 gíra CVT sjálfskipting;FWD;5;997
+;Toyota;Corolla hybrid touring sports;Luxury 1,8 automatic;5.990.000;I4 1,8 l hybrid bensín;122;3,3;;1 gíra CVT sjálfskipting;FWD;5;1000
+;Toyota;Corolla hybrid touring sports;Luxury 2,0 automatic;6.460.000;I4 2,0 l hybrid bensín;180;3,9;;1 gíra CVT sjálfskipting;FWD;5;1002
+;Toyota;Corolla hybrid touring sports;Style 1,8 automatic;5.650.000;I4 1,8 l hybrid bensín;122;3,3;;1 gíra CVT sjálfskipting;FWD;5;999
+Yaris hybrid 5-door;;;;;;;;;;;;
+;Toyota;Yaris hybrid 5-door;Active automatic;3.660.000;I4 1,5 l hybrid bensín;100;3,6;;1 gíra CVT sjálfskipting;FWD;5;1049
+;Toyota;Yaris hybrid 5-door;Active Y20 automatic;3.770.000;I4 1,5 l hybrid bensín;100;3,6;;1 gíra CVT sjálfskipting;FWD;5;1050
+;Toyota;Yaris hybrid 5-door;Active Y20 Bi-tone automatic;3.830.000;I4 1,5 l hybrid bensín;100;3,6;;1 gíra CVT sjálfskipting;FWD;5;1051
+;Toyota;Yaris hybrid 5-door;Active Y20 Panorama Bi-tone automatic;4.030.000;I4 1,5 l hybrid bensín;100;3,6;;1 gíra CVT sjálfskipting;FWD;5;1052
+;Toyota;Yaris hybrid 5-door;GRS automatic;4.130.000;I4 1,5 l hybrid bensín;100;3,6;;1 gíra CVT sjálfskipting;FWD;5;1055
+;Toyota;Yaris hybrid 5-door;Live automatic;3.530.000;I4 1,5 l hybrid bensín;100;3,6;;1 gíra CVT sjálfskipting;FWD;5;1048
+;Toyota;Yaris hybrid 5-door;Luxury automatic;4.230.000;I4 1,5 l hybrid bensín;100;3,6;;1 gíra CVT sjálfskipting;FWD;5;1053
+;Toyota;Yaris hybrid 5-door;Luxury Bi-tone automatic;4.290.000;I4 1,5 l hybrid bensín;100;3,6;;1 gíra CVT sjálfskipting;FWD;5;1054
+;Toyota;Yaris hybrid 5-door;Luxury Panorama Bi-tone automatic;4.430.000;I4 1,5 l hybrid bensín;100;3,6;;1 gíra CVT sjálfskipting;FWD;5;1056
+Prius;;;;;;;;;;;;
+;Toyota;Prius;Active AWD;6.250.000;I4 1,8 l hybrid bensín;122;3,3;;1 gíra CVT sjálfskipting;AWD;5;1017
+;Toyota;Prius;Active leather AWD;6.350.000;I4 1,8 l hybrid bensín;122;3,3;;1 gíra CVT sjálfskipting;AWD;5;1018
+C-HR hybrid;;;;;;;;;;;;
+;Toyota;C-HR hybrid;C-ENTER 1,8;5.490.000;I4 1,8 l hybrid bensín;184;3,9;;1 gíra CVT sjálfskipting;FWD;5;969
+;Toyota;C-HR hybrid;C-HIC Bi-tone JBL 1,8;6.290.000;I4 1,8 l hybrid bensín;184;3,9;;1 gíra CVT sjálfskipting;FWD;5;972
+;Toyota;C-HR hybrid;C-HIC Bi-tone JBL leather 2,0;6.710.000;I4 2,0 l hybrid bensín;184;4,3;;1 gíra CVT sjálfskipting;FWD;5;978
+;Toyota;C-HR hybrid;C-HIC Bi-tone leather 2,0;6.570.000;I4 2,0 l hybrid bensín;184;4,3;;1 gíra CVT sjálfskipting;FWD;5;977
+;Toyota;C-HR hybrid;C-HIC JBL leather 2,0;6.690.000;I4 2,0 l hybrid bensín;184;4,3;;1 gíra CVT sjálfskipting;FWD;5;979
+;Toyota;C-HR hybrid;C-LUB 1,8;5.890.000;I4 1,8 l hybrid bensín;184;3,9;;1 gíra CVT sjálfskipting;FWD;5;970
+;Toyota;C-HR hybrid;C-LUB Bi-tone 1,8;5.950.000;I4 1,8 l hybrid bensín;184;3,9;;1 gíra CVT sjálfskipting;FWD;5;971
+;Toyota;C-HR hybrid;C-LUB Bi-tone 2,0;6.260.000;I4 2,0 l hybrid bensín;184;4,3;;1 gíra CVT sjálfskipting;FWD;5;973
+;Toyota;C-HR hybrid;C-UORE Launch Edition;6.590.000;I4 2,0 l bensín;184;6,9;;1 gíra CVT sjálfskipting;FWD;5;968
+RAV4;;;;;;;;;;;;
+;Toyota;RAV4;GX;6.070.000;I4 2,0 l bensín;173;6,1;;6 gíra beinskipting;FWD;5;1023
+;Toyota;RAV4;GX automatic;6.290.000;I4 2,0 l bensín;173;5,6;;1 gíra CVT sjálfskipting;FWD;5;1024
+;Toyota;RAV4;GX automatic AWD;6.870.000;I4 2,0 l bensín;173;5,9;;1 gíra CVT sjálfskipting;AWD;5;1027
+;Toyota;RAV4;GX AWD;6.570.000;I4 2,0 l bensín;173;6,4;;6 gíra beinskipting;AWD;5;1025
+;Toyota;RAV4;GX sunroof AWD;6.770.000;I4 2,0 l bensín;173;5,6;;6 gíra beinskipting;AWD;5;1026
+;Toyota;RAV4;LX;5.760.000;I4 2,0 l bensín;173;6,1;;6 gíra beinskipting;FWD;5;1021
+;Toyota;RAV4;LX automatic;5.990.000;I4 2,0 l bensín;173;5,6;;1 gíra CVT sjálfskipting;FWD;5;1022
+;Toyota;RAV4;VX automatic AWD;7.460.000;I4 2,0 l bensín;173;5,9;;1 gíra CVT sjálfskipting;AWD;5;1029
+;Toyota;RAV4;VX AWD;7.780.000;I4 2,0 l bensín;173;6,4;;6 gíra beinskipting;AWD;5;1028
+RAV4 hybrid;;;;;;;;;;;;
+;Toyota;RAV4 hybrid;GX;6.990.000;I4 2,5 l hybrid bensín;222;4,5;;1 gíra CVT sjálfskipting;FWD;5;1030
+;Toyota;RAV4 hybrid;GX AWD;7.590.000;I4 2,5 l hybrid bensín;222;4,6;;1 gíra CVT sjálfskipting;AWD;5;1032
+;Toyota;RAV4 hybrid;LX AWD;7.260.000;I4 2,5 l hybrid bensín;222;4,6;;1 gíra CVT sjálfskipting;AWD;5;1031
+;Toyota;RAV4 hybrid;Style AWD;7.990.000;I4 2,5 l hybrid bensín;222;4,6;;1 gíra CVT sjálfskipting;AWD;5;1033
+;Toyota;RAV4 hybrid;VX AWD;8.390.000;I4 2,5 l hybrid bensín;222;4,6;;1 gíra CVT sjálfskipting;AWD;5;1034
+RAV4 PHV;;;;;;;;;;;;
+;Toyota;RAV4 PHV;GX;8.550.000;I4 2,5 l bensín + 18 kWh rafhlaða, 2 rafmótorar;306;6,2;68;1 gíra CVT sjálfskipting;AWD;5;
+;;RAV4 PHV;GX sunroof;8.750.000;I4 2,5 l bensín + 18 kWh rafhlaða, 2 rafmótorar;306;6,2;68;1 gíra CVT sjálfskipting;AWD;5;
+;;RAV4 PHV;Style;8.950.000;I4 2,5 l bensín + 18 kWh rafhlaða, 2 rafmótorar;306;6,2;68;1 gíra CVT sjálfskipting;AWD;5;
+;;RAV4 PHV;Style sunroof;9.190.000;I4 2,5 l bensín + 18 kWh rafhlaða, 2 rafmótorar;306;6,2;68;1 gíra CVT sjálfskipting;AWD;5;
+;;RAV4 PHV;Style Plus;9.470.000;I4 2,5 l bensín + 18 kWh rafhlaða, 2 rafmótorar;306;6,2;68;1 gíra CVT sjálfskipting;AWD;5;
+;;RAV4 PHV;Style Plus sunroof JBL;9.670.000;I4 2,5 l bensín + 18 kWh rafhlaða, 2 rafmótorar;306;6,2;68;1 gíra CVT sjálfskipting;AWD;5;
+Land Cruiser 150;;;;;;;;;;;;
+;Toyota;Land Cruiser 150;GX;11.690.000;I4 2,8 l turbo dísil;177;7,4;;6 gíra beinskipting;AWD;5/7;1011
+;Toyota;Land Cruiser 150;GX automatic;12.250.000;I4 2,8 l turbo dísil;177;7,4;;6 gíra sjálfskipting;AWD;5/7;1012
+;Toyota;Land Cruiser 150;Luxury automatic;17.090.000;I4 2,8 l turbo dísil;177;7,4;;6 gíra sjálfskipting;AWD;5;1014
+;Toyota;Land Cruiser 150;LX;9.350.000;I4 2,8 l turbo dísil;177;7,4;;6 gíra beinskipting;AWD;5/7;1009
+;Toyota;Land Cruiser 150;LX automatic;10.150.000;I4 2,8 l turbo dísil;177;7,4;;6 gíra sjálfskipting;AWD;5/7;1010
+;Toyota;Land Cruiser 150;VX automatic;14.690.000;I4 2,8 l turbo dísil;177;7,4;;6 gíra sjálfskipting;AWD;5;1013
+Aygo 5-door;;;;;;;;;;;;
+;Toyota;Aygo 5-door;x;2.340.000;I3 1,0 l bensín;72;4,0;;5 gíra beinskipting;FWD;4;955
+;Toyota;Aygo 5-door;x-Cite smart;2.870.000;I3 1,0 l bensín;72;4,0;;5 gíra beinskipting;FWD;4;959
+;Toyota;Aygo 5-door;x-Cite smart MM;3.060.000;I3 1,0 l bensín;72;4,2;;5 gíra sjálfskiptur;FWD;4;960
+;Toyota;Aygo 5-door;x-Clusiv smart;2.990.000;I3 1,0 l bensín;72;4,0;;5 gíra beinskipting;FWD;4;963
+;Toyota;Aygo 5-door;x-Clusiv smart MM;3.180.000;I3 1,0 l bensín;72;4,2;;5 gíra sjálfskiptur;FWD;4;964
+;Toyota;Aygo 5-door;x-Me smart;2.890.000;I3 1,0 l bensín;72;4,0;;5 gíra beinskipting;FWD;4;961
+;Toyota;Aygo 5-door;x-Me smart MM;3.080.000;I3 1,0 l bensín;72;4,2;;5 gíra sjálfskiptur;FWD;4;962
+;Toyota;Aygo 5-door;x-Play;2.460.000;I3 1,0 l bensín;72;4,0;;5 gíra beinskipting;FWD;4;956
+;Toyota;Aygo 5-door;x-Play smart;2.560.000;I3 1,0 l bensín;72;4,0;;5 gíra beinskipting;FWD;4;957
+;Toyota;Aygo 5-door;X-Play smart MM;2.750.000;I3 1,0 l bensín;72;4,2;;5 gíra sjálfskiptur;FWD;4;958
+Polo;;;;;;;;;;;;
+;Volkswagen;Polo;1,0 MPI Comfortline;3.290.000;I3 1,0 l bensín;80;4,8;;5 gíra beinskipting;FWD;5;1085
+;Volkswagen;Polo;1,0 MPI Trendline;2.890.000;I3 1,0 l bensín;80;4,8;;5 gíra beinskipting;FWD;5;1084
+;Volkswagen;Polo;1,0 TSI Comfortline;3.590.000;I3 1,0 l turbo bensín;95;4,7;;7 gíra DCT sjálfskipting;FWD;5;1086
+;Volkswagen;Polo;1,0 TSI Highline;4.250.000;I3 1,0 l turbo bensín;95;4,7;;7 gíra DCT sjálfskipting;FWD;5;1087
+Polo TGI;;;;;;;;;;;;
+;Volkswagen;Polo TGI;1,0 TFI Highline;4.150.000;I3 1,0 l turbo bensín / metan;90;4,8;;5 gíra beinskipting;FWD;5;1091
+;Volkswagen;Polo TGI;1,0 TGI Comfort;3.590.000;I3 1,0 l turbo bensín / metan;90;4,8;;5 gíra beinskipting;FWD;5;1090
+;Volkswagen;Polo TGI;1,0 TGI Trendline;3.190.000;I3 1,0 l turbo bensín / metan;90;4,8;;5 gíra beinskipting;FWD;5;1089
+T-Cross;;;;;;;;;;;;
+;Volkswagen;T-Cross;1,0 TSI 5 speed Life;3.890.000;I3 1,0 l turbo bensín;95;4,9;;5 gíra beinskipting;FWD;5;1093
+;Volkswagen;T-Cross;1,0 TSI 5 speed S;3.490.000;I3 1,0 l turbo bensín;95;4,9;;5 gíra beinskipting;FWD;5;1092
+;Volkswagen;T-Cross;1,0 TSI 6 speed Life;3.990.000;I3 1,0 l turbo bensín;115;4,9;;6 gíra beinskipting;FWD;5;1094
+;Volkswagen;T-Cross;1,0 TSI automatic Life;4.290.000;I3 1,0 l turbo bensín;115;4,9;;7 gíra DCT sjálfskipting;FWD;5;1095
+;Volkswagen;T-Cross;1,0 TSI automatic Style;4.850.000;I3 1,0 l turbo bensín;115;4,9;;7 gíra DCT sjálfskipting;FWD;5;1096
+T-Roc;;;;;;;;;;;;
+;Volkswagen;T-Roc;1,0 TSI Style;4.290.000;I3 1,0 l turbo bensín;115;5,4;;6 gíra beinskipting;FWD;5;1097
+;Volkswagen;T-Roc;1,0 TSI Style+;4.750.000;I3 1,0 l turbo bensín;115;5,4;;6 gíra beinskipting;FWD;5;1098
+;Volkswagen;T-Roc;1,5 TSI R-Line;6.190.000;I4 1,5 l turbo bensín;150;5,6;;7 gíra DCT sjálfskipting;FWD;5;1101
+;Volkswagen;T-Roc;1,5 TSI Style;4.990.000;I4 1,5 l turbo bensín;150;5,6;;7 gíra DCT sjálfskipting;FWD;5;1099
+;Volkswagen;T-Roc;1,5 TSI Style+;5.490.000;I4 1,5 l turbo bensín;150;5,6;;7 gíra DCT sjálfskipting;FWD;5;1100
+;Volkswagen;T-Roc;2,0 TDI 4Motion R-Line;6.890.000;I4 2,0 l turbo bensín;150;5,1;;7 gíra DCT sjálfskipting;AWD;5;1104
+;Volkswagen;T-Roc;2,0 TDI 4Motion Style;5.650.000;I4 2,0 l turbo bensín;150;5,1;;7 gíra DCT sjálfskipting;AWD;5;1102
+;Volkswagen;T-Roc;2,0 TDI 4Motion Style+;6.150.000;I4 2,0 l turbo bensín;150;5,1;;7 gíra DCT sjálfskipting;AWD;5;1103
+Tiguan;;;;;;;;;;;;
+;Volkswagen;Tiguan;2,0 TDI 150 hp 4Motion Comfortline;8.190.000;I4 2,0 l turbo dísil;150;5,3;;7 gíra DCT sjálfskipting;AWD;5;1109
+;Volkswagen;Tiguan;2,0 TDI 150 hp 4Motion R-Line;9.690.000;I4 2,0 l turbo dísil;150;5,3;;7 gíra DCT sjálfskipting;AWD;5;1110
+;Volkswagen;Tiguan;2,0 TDI 150 hp 4Motion Trendline;7.590.000;I4 2,0 l turbo dísil;150;5,3;;7 gíra DCT sjálfskipting;AWD;5;1108
+Tiguan Allspace;;;;;;;;;;;;
+;Volkswagen;Tiguan Allspace;2,0 TDI 190 hp 4Motion Comfortline;8.890.000;I4 2,0 l turbo dísil;190;5,8;;7 gíra DCT sjálfskipting;AWD;7;1118
+;Volkswagen;Tiguan Allspace;2,0 TDI 190 hp 4Motion R-Line;9.990.000;I4 2,0 l turbo dísil;190;5,8;;7 gíra DCT sjálfskipting;AWD;7;1119
+;Volkswagen;Tiguan Allspace;2,0 TDI 190 hp 4Motion Trendline;7.890.000;I4 2,0 l turbo dísil;190;5,8;;7 gíra DCT sjálfskipting;AWD;7;1117
+;Volkswagen;Tiguan Allspace;2,0 TSI 190 hp 4Motion Comfortline;8.490.000;I4 2,0 l turbo bensín;190;7,3;;7 gíra DCT sjálfskipting;AWD;7;1120
+;Volkswagen;Tiguan Allspace;2,0 TSI 190 hp 4Motion R-Line;9.690.000;I4 2,0 l turbo bensín;190;7,3;;7 gíra DCT sjálfskipting;AWD;7;1121
+Arteon;;;;;;;;;;;;
+;Volkswagen;Arteon;2,0 TDI Elegance;6.490.000;I4 2,0 l turbo dísil;150;4,5;;7 gíra DCT sjálfskipting;FWD;5;1058
+;Volkswagen;Arteon;2,0 TDI R-Line;6.690.000;I4 2,0 l turbo dísil;150;4,5;;7 gíra DCT sjálfskipting;FWD;5;1059
+;Volkswagen;Arteon;2,0 TDI SI;5.790.000;I4 2,0 l turbo dísil;150;4,5;;7 gíra DCT sjálfskipting;FWD;5;1057
+;Volkswagen;Arteon;2,0 TSI 4Motion Elegance;7.790.000;I4 2,0 l turbo bensín;272;10,2;;7 gíra DCT sjálfskipting;AWD;5;1063
+;Volkswagen;Arteon;2,0 TSI 4Motion R-Line;7.990.000;I4 2,0 l turbo bensín;272;10,2;;7 gíra DCT sjálfskipting;AWD;5;1064
+;Volkswagen;Arteon;2,0 TSI Elegance;6.690.000;I4 2,0 l turbo bensín;190;6,0;;7 gíra DCT sjálfskipting;FWD;5;1061
+;Volkswagen;Arteon;2,0 TSI R-Line;6.890.000;I4 2,0 l turbo bensín;190;6,0;;7 gíra DCT sjálfskipting;FWD;5;1062
+;Volkswagen;Arteon;2,0 TSI SI;5.990.000;I4 2,0 l turbo bensín;190;6,0;;7 gíra DCT sjálfskipting;FWD;5;1060
+Polo GTI;;;;;;;;;;;;
+;Volkswagen;Polo GTI;2,0 TSI GTI;5.390.000;I4 2,0 l turbo bensín;200;6,2;;6 gíra DCT sjálfskipting;FWD;5;1088
+Passat GTE limo;;;;;;;;;;;;
+;Volkswagen;Passat GTE limo;Advance;5.790.000;I4 1,4 l turbo bensín + 10 kWh rafhlaða. rafmótor;215;1,6;50;6 gíra DCT sjálfskipting;FWD;5;1078
+;Volkswagen;Passat GTE limo;Comfort;6.190.000;I4 1,4 l turbo bensín + 10 kWh rafhlaða. rafmótor;215;1,6;50;6 gíra DCT sjálfskipting;FWD;5;1079
+;Volkswagen;Passat GTE limo;Premium;6.790.000;I4 1,4 l turbo bensín + 10 kWh rafhlaða. rafmótor;215;1,6;50;6 gíra DCT sjálfskipting;FWD;5;1080
+Passat GTE variant;;;;;;;;;;;;
+;Volkswagen;Passat GTE variant;Advance;5.890.000;I4 1,4 l turbo bensín + 10 kWh rafhlaða. rafmótor;215;1,8;50;6 gíra DCT sjálfskipting;FWD;5;1081
+;Volkswagen;Passat GTE variant;Comfort;6.390.000;I4 1,4 l turbo bensín + 10 kWh rafhlaða. rafmótor;215;1,8;50;6 gíra DCT sjálfskipting;FWD;5;1082
+;Volkswagen;Passat GTE variant;Premium;6.990.000;I4 1,4 l turbo bensín + 10 kWh rafhlaða. rafmótor;215;1,8;50;6 gíra DCT sjálfskipting;FWD;5;1083
+Golf GTE hatchback;;;;;;;;;;;;
+;Volkswagen;Golf GTE hatchback;Comfort;5.990.000;I4 1,5 l turbo bensín + 9 kWh rafhlaða, rafmótor;204;2,3;50;6 gíra DCT sjálfskipting;FWD;5;1071
+;Volkswagen;Golf GTE hatchback;Life;5.490.000;I4 1,5 l turbo bensín + 9 kWh rafhlaða, rafmótor;204;2,3;50;6 gíra DCT sjálfskipting;FWD;5;1070
+;Volkswagen;Golf GTE hatchback;Premium;6.490.000;I4 1,5 l turbo bensín + 9 kWh rafhlaða, rafmótor;204;2,3;50;6 gíra DCT sjálfskipting;FWD;5;1072
+Golf hatchback;;;;;;;;;;;;
+;Volkswagen;Golf hatchback;Standard;4.390.000;I3 1,0 l turbo bensín;110;4,6;;6 gíra beinskipting;FWD;5;
+;Volkswagen;Golf hatchback;Life;5.090.000;I3 1,0 l turbo bensín;110;4,6;;6 gíra beinskipting;FWD;5;
+Golf eTSI hatchback;;;;;;;;;;;;
+;Volkswagen;Golf eTSI hatchback;1.0 eTSI Life;5.490.000;I3 1,0 l turbo bensín mild hybrid;110;4,3;;7 gíra DCT sjálfskipting;FWD;5;
+;Volkswagen;Golf eTSI hatchback;1.5 eTSI Life;5.990.000;I4 1,5 l turbo bensín mild hybrid;150;4,6;;7 gíra DCT sjálfskipting;FWD;5;
+;Volkswagen;Golf eTSI hatchback;1.5 eTSI Style;6.490.000;I4 1,5 l turbo bensín mild hybrid;150;4,6;;7 gíra DCT sjálfskipting;FWD;5;
+Golf eHybrid hatchback;;;;;;;;;;;;
+;Volkswagen;Golf eHybrid hatchback;1.4 eHybrid Style;5.590.000;I4 1,4 l turbo bensín + 13 kWh rafhlaða, rafmótor;204;1,4;80;6 gíra DCT sjálfskipting;FWD;5;
+ID.3;;;;;;;;;;;;
+;Volkswagen;ID.3;Pro Life;5.190.000;58 kWh rafhlaða, rafmótor;204;;420;1 gíra sjálfskipting;FWD;5;
+;Volkswagen;ID.3;Pro Business;5.750.000;58 kWh rafhlaða, rafmótor;204;;420;1 gíra sjálfskipting;FWD;5;
+;Volkswagen;ID.3;Pro Family;5.890.000;58 kWh rafhlaða, rafmótor;204;;420;1 gíra sjálfskipting;FWD;5;
+;Volkswagen;ID.3;Pro Tech;6.090.000;58 kWh rafhlaða, rafmótor;204;;420;1 gíra sjálfskipting;FWD;5;
+;Volkswagen;ID.3;Pro S Tour;6.490.000;77 kWh rafhlaða, rafmótor;204;;550;1 gíra sjálfskipting;FWD;5;
+Golf TGI hatchback;;;;;;;;;;;;
+;Volkswagen;Golf TGI hatchback;Comfortline;4.050.000;I4 1,5 l turbo bensín / metan;130;5,5;;7 gíra DCT sjálfskipting;FWD;5;1076
+;Volkswagen;Golf TGI hatchback;Highline;4.490.000;I4 1,5 l turbo bensín / metan;130;5,5;;7 gíra DCT sjálfskipting;FWD;5;1077
+;Volkswagen;Golf TGI hatchback;Trendline;3.790.000;I4 1,5 l turbo bensín / metan;130;5,5;;7 gíra DCT sjálfskipting;FWD;5;1075
+e-Up! 5-door;;;;;;;;;;;;
+;Volkswagen;e-Up! 5-door;e-Up!;3.390.000;37 kWh rafhlaða, rafmótor;82;;260;1 gíra sjálfskipting;FWD;5;1068
+;Volkswagen;e-Up! 5-door;e-Up! Style;3.750.000;37 kWh rafhlaða, rafmótor;82;;269;1 gíra sjálfskipting;FWD;5;1069
+Golf GTI hatchback;;;;;;;;;;;;
+;Volkswagen;Golf GTI hatchback;GTI;6.390.000;I4 2,0 l turbo bensín;245;6,2;;7 gíra DCT sjálfskipting;FWD;5;1073
+Golf R hatchback;;;;;;;;;;;;
+;Volkswagen;Golf R hatchback;R;7.490.000;I4 2,0 l turbo bensín;300;7,2;;7 gíra DCT sjálfskipting;AWD;5;1074
+Tourareg;;;;;;;;;;;;
+;Volkswagen;Tourareg;V6 230 hp Elegance;12.490.000;V6 3,0 l turbo dísil;230;6,6;;8 gíra sjálfskipting;AWD;5;1123
+;Volkswagen;Tourareg;V6 230 hp Offroad;10.890.000;V6 3,0 l turbo dísil;230;6,6;;8 gíra sjálfskipting;AWD;5;1122
+;Volkswagen;Tourareg;V6 230 hp R-Line;13.790.000;V6 3,0 l turbo dísil;230;6,6;;8 gíra sjálfskipting;AWD;5;1124
+;Volkswagen;Tourareg;V6 285 hp Elegance;13.490.000;V6 3,0 l turbo dísil;285;6,6;;8 gíra sjálfskipting;AWD;5;1126
+;Volkswagen;Tourareg;V6 285 hp Offroad;11.890.000;V6 3,0 l turbo dísil;285;6,6;;8 gíra sjálfskipting;AWD;5;1125
+;Volkswagen;Tourareg;V6 285 hp R-Line;14.790.000;V6 3,0 l turbo dísil;285;6,6;;8 gíra sjálfskipting;AWD;5;1127
+;Volkswagen;Tourareg;V8 421 hp Elegance;18.690.000;V8 4,0 l twin turbo dísil;421;7,4;;8 gíra sjálfskipting;AWD;5;1129
+;Volkswagen;Tourareg;V8 421 hp R-Line;19.990.000;V8 4,0 l twin turbo dísil;421;7,4;;8 gíra sjálfskipting;AWD;5;1130
+V60;;;;;;;;;;;;
+;Volvo;V60;D3 Inscription;7.090.000;I4 2,0 l turbo dísil;150;4,7;;8 gíra sjálfskipting;FWD;5;1138
+;Volvo;V60;D3 Momentum Pro;6.690.000;I4 2,0 l turbo dísil;150;4,7;;8 gíra sjálfskipting;FWD;5;1137
+;Volvo;V60;D4 Inscription;7.290.000;I4 2,0 l turbo dísil;190;4,6;;8 gíra sjálfskipting;FWD;5;1139
+;Volvo;V60;D4 R-Design;7.390.000;I4 2,0 l turbo dísil;190;4,6;;8 gíra sjálfskipting;FWD;5;1140
+;Volvo;V60;T4 Inscription;7.490.000;I4 2,0 l turbo dísil;190;6,9;;8 gíra sjálfskipting;FWD;5;1141
+;Volvo;V60;T4 R-Design;7.590.000;I4 2,0 l turbo dísil;190;6,9;;8 gíra sjálfskipting;FWD;5;1142
+XC40 T5;;;;;;;;;;;;
+;Volvo;XC40 T5;Inscription;6.090.000;I3 1,5 l turbo bensín + 11 kWh rafhlaða, rafmótor;262;1,9;50;7 gíra DCT sjálfskipting;FWD;5;1151
+;Volvo;XC40 T5;Momentum;5.350.000;I3 1,5 l turbo bensín + 11 kWh rafhlaða, rafmótor;262;1,9;50;7 gíra DCT sjálfskipting;FWD;5;1149
+;Volvo;XC40 T5;Momentum Pro;5.650.000;I3 1,5 l turbo bensín + 11 kWh rafhlaða, rafmótor;262;1,9;50;7 gíra DCT sjálfskipting;FWD;5;1150
+;Volvo;XC40 T5;R-Design;6.150.000;I3 1,5 l turbo bensín + 11 kWh rafhlaða, rafmótor;262;1,9;50;7 gíra DCT sjálfskipting;FWD;5;1152
+XC40 P8;;;;;;;;;;;;
+;Volvo;XC40 P8;R-Design;7.990.000;78 kWh rafhlaða + 2 rafmótorar;408;;400;1 gíra sjálfskipting;AWD;5;
+XC60 B5;;;;;;;;;;;;
+;Volvo;XC60 B5;Inscription;9.890.000;I4 2,0 l twin turbo mild hybrid dísil;235;5,4;;8 gíra sjálfskipting;AWD;5;1155
+;Volvo;XC60 B5;Momentum Pro;9.390.000;I4 2,0 l twin turbo mild hybrid dísil;235;5,4;;8 gíra sjálfskipting;AWD;5;1153
+;Volvo;XC60 B5;R-Design;9.790.000;I4 2,0 l twin turbo mild hybrid dísil;235;5,4;;8 gíra sjálfskipting;AWD;5;1154
+XC60 T8;;;;;;;;;;;;
+;Volvo;XC60 T8;Inscription;9.990.000;I4 2,0 l turbo supercharged bensín + 10 kWh rafhlaða, rafmótor;390;2,0;;8 gíra sjálfskipting;AWD;5;1158
+;Volvo;XC60 T8;R-Design Expression;8.890.000;I4 2,0 l turbo supercharged bensín + 10 kWh rafhlaða, rafmótor;390;2,0;;8 gíra sjálfskipting;AWD;5;1156
+;Volvo;XC60 T8;R-Design;9.890.000;I4 2,0 l turbo supercharged bensín + 10 kWh rafhlaða, rafmótor;390;2,0;;8 gíra sjálfskipting;AWD;5;1157
+;;XC60 T8;Inscription Expression;8.890.000;I4 2,0 l turbo supercharged bensín + 10 kWh rafhlaða, rafmótor;390;2,0;;8 gíra sjálfskipting;AWD;5;1157
+XC90 B5;;;;;;;;;;;;
+;Volvo;XC90 B5;Inscription;11.690.000;I4 2,0 l twin turbo mild hybrid dísil;235;5,9;;8 gíra sjálfskipting;AWD;7;1161
+;Volvo;XC90 B5;Momentum Pro;10.690.000;I4 2,0 l twin turbo mild hybrid dísil;235;5,9;;8 gíra sjálfskipting;AWD;7;1159
+;Volvo;XC90 B5;R-Design;11.690.000;I4 2,0 l twin turbo mild hybrid dísil;235;5,9;;8 gíra sjálfskipting;AWD;7;1160
+XC90 T8;;;;;;;;;;;;
+;Volvo;XC90 T8;Inscription;12.890.000;I4 2,0 l turbo supercharged bensín + 12 kWh rafhlaða, rafmótor;390;2,3;;8 gíra sjálfskipting;AWD;7;1164
+;Volvo;XC90 T8;R-Design Expression;11.790.000;I4 2,0 l turbo supercharged bensín + 12 kWh rafhlaða, rafmótor;390;2,3;;8 gíra sjálfskipting;AWD;7;1162
+;Volvo;XC90 T8;R-Design;12.790.000;I4 2,0 l turbo supercharged bensín + 12 kWh rafhlaða, rafmótor;390;2,3;;8 gíra sjálfskipting;AWD;7;1163
+;Volvo;XC90 T8;Inscription Expression;11.790.000;I4 2,0 l turbo supercharged bensín + 12 kWh rafhlaða, rafmótor;390;2,3;;8 gíra sjálfskipting;AWD;7;1163
+XC40;;;;;;;;;;;;
+;Volvo;XC40;Inscription AWD;7.390.000;I4 2,0 l twin turbo dísil;190;5,0;;8 gíra sjálfskipting;AWD;5;1147
+;Volvo;XC40;Momentum AWD;6.990.000;I4 2,0 l twin turbo dísil;190;5,0;;8 gíra sjálfskipting;AWD;5;1146
+;Volvo;XC40;R-Design AWD;7.490.000;I4 2,0 l twin turbo dísil;190;5,0;;8 gíra sjálfskipting;AWD;5;1148
+S60;;;;;;;;;;;;
+;Volvo;S60;T4 Inscription;7.290.000;I4 2,0 l turbo bensín;190;6,7;;8 gíra sjálfskipting;FWD;5;1131
+;Volvo;S60;T4 R-Design;7.390.000;I4 2,0 l turbo bensín;190;6,7;;8 gíra sjálfskipting;FWD;5;1132
+;Volvo;S60;T5 Inscription;7.690.000;I4 2,0 l turbo bensín;250;6,6;;8 gíra sjálfskipting;FWD;5;1133
+;Volvo;S60;T5 R-Design;7.790.000;I4 2,0 l turbo bensín;250;6,6;;8 gíra sjálfskipting;FWD;5;1134
+V60 T8;;;;;;;;;;;;
+;Volvo;V60 T8;T8 Inscription AWD;7.690.000;I4 2,0 l turbo supercharged bensín + 12 kWh rafhlaða, rafmótor;390;2,0;45;8 gíra sjálfskipting;AWD;5;1144
+;Volvo;V60 T8;T8 Momentum Pro AWD;7.290.000;I4 2,0 l turbo supercharged bensín + 12 kWh rafhlaða, rafmótor;390;2,0;45;8 gíra sjálfskipting;AWD;5;1143
+;Volvo;V60 T8;T8 R-Design AWD;7.790.000;I4 2,0 l turbo supercharged bensín + 12 kWh rafhlaða, rafmótor;390;2,0;45;8 gíra sjálfskipting;AWD;5;1145
+S60 T8;;;;;;;;;;;;
+;Volvo;S60 T8;T8 Inscription AWD;7.760.000;I4 2,0 l turbo supercharged bensín + 12 kWh rafhlaða, rafmótor;390;2,0;53;8 gíra sjálfskipting;AWD;5;1135
+;Volvo;S60 T8;T8 R-Design AWD;7.860.000;I4 2,0 l turbo supercharged bensín + 12 kWh rafhlaða, rafmótor;390;2,0;53;8 gíra sjálfskipting;AWD;5;1136
